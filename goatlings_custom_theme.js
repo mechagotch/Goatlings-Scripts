@@ -1,30 +1,25 @@
 // ==UserScript==
 // @name         Goatlings: Custom Theme
-// @version      0.6.4
+// @version      0.7.27
 // @description  Complete overhaul of the Goatlings site theme
-// @namespace    https://github.com/automalix/
-// @author       Felix G. "Automalix"
-// @include      http://www.goatlings.com*
-// @include      http://goatlings.com*
-// @include      www.goatlings.com*
+// @namespace    https://greasyfork.org/en/users/322117
+// @author       mechagotch
+// @match        https://www.goatlings.com/*
+// @grant        GM_xmlhttpRequest
 // @run-at       document-start
 // ==/UserScript==
 
-/* 
-
-None of this script allows for an unfair advantage playing any of the games,
-fighting enemies, or buying items from shops/auctions/trades. It is 100% cosmetic ONLY. 
-
-Disclaimer: I am not affiliated with Goatlings.com.
-
-*/
+/* None of this script allows for an unfair advantage playing any of the games,
+fighting enemies, or buying items from shops/auctions/trades. It is 100% cosmetic ONLY. */
 
 let theme = "normal",
     //theme = "ocean",
+    //theme = "dark",
     flag = 0;
 
 const CSSStyles = function(checkFlag){
     if(checkFlag === 0){
+        flag = 1;
         let style = document.createElement('style'),
             css = "";
         style.type = 'text/css';
@@ -282,9 +277,9 @@ display: none;
 }`;
                 }();
             }
-            /*
-        const dark_CSS_color_styles =+ function(){
-        css += `:root {
+            if (theme == "dark") {
+                const dark_CSS_color_styles =+ function(){
+                    css += `:root {
                     --main: #ccc5bd;
                     --main-dark: #392b0d;
                     --main-faded: #392b0d;
@@ -318,8 +313,9 @@ display: none;
                     --like-button-text-shadow: #8f7f24;
                     --like-button-text: #FFF;
                 }`
-            }();
-        */
+                }();
+            }
+
 
             /* =================================================================
 
@@ -353,9 +349,8 @@ font-size: 10pt;
 }
 #wrapper {
 position: relative;
-margin: 0;
 padding: 0;
-margin: 0 auto;
+margin: 0 auto 0 17%;
 width: 940px;
 background: var(--wrapper);
 min-height: 100vh;
@@ -421,6 +416,10 @@ src: local('Baloo Bhai Regular'), local('BalooBhai-Regular'), url(https://fonts.
 unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+.pv-cat {
+width: 120px;
+}
+
 /* ============================================================================================
 
 
@@ -450,6 +449,10 @@ align-items: center;
 margin-top: 2px;
 padding: 10px;
 width: 100%;
+}
+#user-info img {
+height:14px;
+width:14px;
 }
 #footer {
 text-align: center;
@@ -626,7 +629,7 @@ width: 90px;
 .random_event_text {
 float: left;
 text-align: center;
-width: 510px;
+width: 475px;
 }
 
 /* ============================================================================================
@@ -934,6 +937,9 @@ display: inline-block;
 .profile-part-two {
 float: left;
 }
+.pv-box{
+display: inline;
+}
 .mypets-pet {
     display: inline-flex;
     border-radius: 4px;
@@ -977,8 +983,8 @@ border-radius: 4px
 #profile-flex > #profile-part-two-new > b {
 padding-right: 5px;
 }
-#profile-flex > #profile-part-two-new > b:nth-of-type(6),
-#profile-flex > #profile-part-two-new > b:nth-of-type(7) {
+#profile-flex > #profile-part-two-new > b:nth-of-type(7),
+#profile-flex > #profile-part-two-new > b:nth-of-type(8) {
 padding-right: 0;
 }
 #profile-part-three-new > center > img {
@@ -1034,6 +1040,7 @@ border: 1px solid var(--main-faded);
 width: 490px;
 padding: 10px;
 margin: 3px;
+height: 360px;
 }
 .pet-profile-box-three {
 border-radius: 4px;
@@ -1045,10 +1052,16 @@ margin: 3px auto;
 .pet-profile-box-three > b {
 margin-left: -7px;
 }
+
 .favitem {
-display: inline-block;
+display: block;
 margin: 5px;
 text-align: center;
+}
+
+.pet-profile-box-three > center {
+display: grid;
+grid-template-columns: repeat(4, 1fr);
 }
 
 /* ============================================================================================
@@ -1333,6 +1346,8 @@ Misc Styles
 #content table {
 margin: auto;
 }
+
+
 .item_area,
 .news-post {
 margin: 20px auto;
@@ -1692,11 +1707,7 @@ color: var(--main);
             const new_Search_Bar_CSS =+ function(){
                 css += `
 /* ================================================================ */
-form {
-display: flex;
-justify-content: center;
-align-items: center;
-}
+
 .slider-btn {
 cursor: default !important;
 }
@@ -1725,7 +1736,7 @@ text-decoration: none;
 }
 .custom-input, input[type="text"], input[type="number"], input[type="password"] {
 display: inline-block;
-padding: 5px 10px;
+padding: 4px 10px;
 color: var(--main);
 background-color: var(--content);
 background-clip: padding-box;
@@ -1862,11 +1873,13 @@ margin-right: 10px;
         }();// end of CSS string Setter
         style.innerHTML = css;
         document.head.appendChild(style);
+        flag = 1;
     }
 }
 const bodyScript = function(checkFlag){
-    if(checkFlag === 1){
+    if(checkFlag === 1 && document.body && document.body.textContent){
         "use strict";
+        flag = false;
         let css = "";
         const url = document.URL,
               style = document.createElement("style"),
@@ -1891,25 +1904,13 @@ const bodyScript = function(checkFlag){
 
         // Add commas to big numbers for easier viewing
         const commarizer = function(n){
-            let num = String(n).split(''),
-                numArr = [],
-                r = num.length % 3;
-            if (num.length > 3){
-                if (r !== 0){
-                    for (let i = 0; i < r; i++) numArr.push(num.shift());
-                    numArr.push(',');
-                }
-                for(let i = 0; i < num.length / 3; i++) {
-                    numArr.push(num[i], num[i+1], num[i+2], ',')
-                }
-                numArr = numArr.join('');
-                numArr = String(numArr.match(/^\d.*\d/));
-                return numArr;
-            } else return n;
+           return Number(n).toLocaleString()
         }
 
         // Adjusting the style of pagnation in various places
         function pagnaTor(position){
+            return false
+            // too lazy to fix
             let currentPage, mainNode;
             switch(position){
                 case "shopPagnation":
@@ -1925,12 +1926,16 @@ const bodyScript = function(checkFlag){
                     mainNode = document.querySelector('.forum-post > center');
                     break;
                 case "newsPagnation":
-                    currentPage = document.querySelector('#content > center:nth-child(4) > strong');
-                    mainNode = document.querySelector('#content > center:nth-child(4)');
+                    currentPage = document.querySelector('#content > center:nth-child(3)').firstChild;
+                    mainNode = document.querySelector('#content > center:nth-child(3)');
                     break;
                 case "newsPagnationBottom":
                     currentPage = document.querySelector('#content > center:last-of-type > strong');
                     mainNode = document.querySelector('#content > center:last-of-type');
+                    break;
+                case "safePagnation":
+                    currentPage = document.querySelector('#content > strong:last-of-type');
+                    mainNode = document.querySelector('#content')
                     break;
             }
             let flex = document.createElement('div');
@@ -1988,409 +1993,427 @@ const bodyScript = function(checkFlag){
         const new_header_and_Dropdown_HTML = +function(){
             document.getElementById('header').insertAdjacentHTML('beforebegin', `
 <img src="${banner}" id="newBanner">
-<a href="http://www.goatlings.com/habuddy/">
+<a href="https://www.goatlings.com/habuddy/">
 <img id="new_HA_buddy_pic" src="${HAbuddy}">
 </a>
 <nav id="nav_bar">
 <ul id="main_nav">
 <li class="nav_item">
-<a href="http://www.goatlings.com/" class="clearBox">Home</a>
+<a href="https://www.goatlings.com/" class="clearBox">Home</a>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/townmap/" class="clearBox">Town</a>
+<a href="https://www.goatlings.com/townmap/" class="clearBox">Town</a>
 <ul class="dropdown">
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/Palace">Palace</a>
+<a href="https://www.goatlings.com/Palace">Palace</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/fountain">Fountain</a>
+<a href="https://www.goatlings.com/fountain">Fountain</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/clubs">Clubs</a>
+<a href="https://www.goatlings.com/clubs">Clubhouse</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/bank">Bank</a>
+<a href="https://www.goatlings.com/bank">Sugar Bank</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/donate">Donate</a>
+<a href="https://www.goatlings.com/auctions">Auctions</a>
+</li>
+<li class="dropdown-item">
+<a href="https://www.goatlings.com/donate">Giving Tree</a>
 </li>
 </ul>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/news/" class="clearBox">News</a>
+<a href="https://www.goatlings.com/news/" class="clearBox">News</a>
 <ul class="dropdown">
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/EventCalendar">Event Calendar</a>
+<a href="https://www.goatlings.com/EventCalendar">Event Calendar</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/teams">Team Sign Ups</a>
+<a href="https://www.goatlings.com/teams">Team Sign Ups</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/goals">Fundraisers</a>
+<a href="https://www.goatlings.com/goals">Fundraisers</a>
 </li>
 </ul>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/mystuff/" class="clearBox">Stuff</a>
+<a href="https://www.goatlings.com/mystuff/" class="clearBox">Stuff</a>
 <ul class="dropdown">
 <div class="nipple"></div>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/inventory/">Inventory</a>
+<a href="https://
+www.goatlings.com/inventory/">Inventory</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/itemsorter">Item Sorter</a>
+<a href="https://www.goatlings.com/itemsorter">Item Sorter</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/usershop/index/">My Shop</a>
+<a href="https://www.goatlings.com/usershop/index/">My Shop</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/gallery/index/">My Gallery</a>
+<a href="https://www.goatlings.com/gallery/index/">My Gallery</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/storage">My Safe</a>
+<a href="https://www.goatlings.com/storage">My Safe</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/auctions/your">My Auctions</a>
+<a href="https://www.goatlings.com/auctions/your">My Auctions</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/mypets/">My Goatlings</a>
+<a href="https://www.goatlings.com/mypets/">My Goatlings</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/yourtopics/">My Forum Topics</a>
+<a href="https://www.goatlings.com/forums/yourtopics/">My Forum Topics</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/buddies">My Buddies</a>
+<a href="https://www.goatlings.com/buddies">My Buddies</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/clubs">My Club</a>
+<a href="https://www.goatlings.com/clubs">My Club</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/settings">My Settings</a>
+<a href="https://www.goatlings.com/settings">My Settings</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/trades/yourtrades">My Trades</a>
+<a href="https://www.goatlings.com/trades/yourtrades">My Item Trades</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/habuddy">My HA Buddy</a>
+<a href="https://www.goatlings.com/GoatTrades/your_trades">My Goatling Trades</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/wishlist/">My Wish List</a>
+<a href="https://www.goatlings.com/habuddy">My HA Buddy</a>
+</li>
+<li class="dropdown-item">
+<a href="https://www.goatlings.com/wishlist/">My Wish List</a>
 </li>
 </ul>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/create/" class="clearBox">Adopt</a>
+<a href="https://www.goatlings.com/create/" class="clearBox">Adopt</a>
 <ul class="dropdown">
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/create/adopt/">Adopt</a>
+<a href="https://www.goatlings.com/create/adopt/">Adopt</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/create/cre/">Create</a>
+<a href="https://www.goatlings.com/create/cre/">Create</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/create/surrender/">Abandon</a>
+<a href="https://
+
+www.goatlings.com/create/surrender/">Abandon</a>
 </li>
 </ul>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/arcade/" class="clearBox">Arcade</a>
+<a href="https://www.goatlings.com/arcade/" class="clearBox">Arcade</a>
 <ul class="dropdown">
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/hol">Higher or Lower</a>
+<a href="https://www.goatlings.com/hol">Higher or Lower</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/drop_box">Magic Hat</a>
+<a href="https://www.goatlings.com/drop_box">Magic Hat</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/daily_item">Gachapon</a>
+<a href="https://www.goatlings.com/daily_item">Gachapon</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/raffle">Raffle</a>
+<a href="https://www.goatlings.com/raffle">Raffle</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/trivia">Treasure Trivia</a>
+<a href="https://www.goatlings.com/trivia">Treasure Trivia</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/lucky_numbers/index/0l">Lucky Three</a>
+<a href="https://www.goatlings.com/lucky_numbers/index/0l">Lucky Three</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/lucky_numbers/index/1">Lucky Four</a>
+<a href="https://www.goatlings.com/lucky_numbers/index/1">Lucky Four</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/lucky_numbers/index/2">Lucky Five</a>
+<a href="https://www.goatlings.com/lucky_numbers/index/2">Lucky Five</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/referral">Referral Contest</a>
+<a href="https://www.goatlings.com/referral">Referral Contest</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/wishing">Wishing Well</a>
+<a href="https://www.goatlings.com/wishing">Wishing Well</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/catchstar">Catch a Falling Star</a>
+<a href="https://www.goatlings.com/catchstar">Catch a Falling Star</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/random">Pick a Card</a>
+<a href="https://www.goatlings.com/random">Pick a Card</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/slots">Triple Scoop</a>
+<a href="https://
+www.goatlings.com/slots">Triple Scoop</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/fishing">Gone Fishin</a>
+<a href="https://www.goatlings.com/fishing">Gone Fishin</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/ss_mine">Rainbow Caverns</a>
+<a href="https://www.goatlings.com/ss_mine">Rainbow Caverns</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/token">Goat Token</a>
+<a href="https://www.goatlings.com/token">Goat Token</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/rps">Fluttersnap</a>
+<a href="https://www.goatlings.com/rps">Fluttersnap</a>
 </li>
 </ul>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/ShoppingDistrict/" class="clearBox">Shops</a>
+<a href="https://www.goatlings.com/ShoppingDistrict/" class="clearBox">Shops</a>
 <ul class="dropdown">
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/3">Appearance Dolls</a>
+<a href="https://www.goatlings.com/shops/view/3">Appearance Dolls</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/14">Library</a>
+<a href="https://www.goatlings.com/shops/view/14">Library</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/1">Toy Shop</a>
+<a href="https://www.goatlings.com/shops/view/1">Toy Shop</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/9">VIP</a>
+<a href="https://www.goatlings.com/shops/view/9">VIP</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/4">Party Supplies</a>
+<a href="https://www.goatlings.com/shops/view/4">Party Supplies</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/5">Gift Shop</a>
+<a href="https://www.goatlings.com/shops/view/5">Gift Shop</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/2">Fruit Salad</a>
+<a href="https://
+www.goatlings.com/shops/view/2">Fruit Salad</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/10">General Foods</a>
+<a href="https://www.goatlings.com/shops/view/10">General Foods</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/11">Bakery</a>
+<a href="https://www.goatlings.com/shops/view/11">Bakery</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/19">Ice Cream Parlor</a>
+<a href="https://www.goatlings.com/shops/view/19">Ice Cream Parlor</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/28">Seasonal Antique Shop</a>
+<a href="https://www.goatlings.com/shops/view/28">Seasonal Antique Shop</a>
 </li>
 <li class="dropdown-item has-sub">
-<a href="#">HA Buddy Section</a>
+<a href="#">HA Buddy Section ⯈</a>
 <ul>
-<li><a href="http://www.goatlings.com/shops/view/22">HA Buddy Hair Salon</a></li>
-<li><a href="http://www.goatlings.com/shops/view/20">HA Buddy Face Space</a></li>
-<li><a href="http://www.goatlings.com/shops/view/23">HA Buddy Hats</a></li>
-<li><a href="http://www.goatlings.com/shops/view/12">HA Buddy Boutique</a></li>
-<li><a href="http://www.goatlings.com/shops/view/21">HA Buddy Base Place</a></li>
-<li><a href="http://www.goatlings.com/shops/view/24">HA Buddy Accessories</a></li>
-<li><a href="http://www.goatlings.com/shops/view/25">HA Buddy Background</a></li>
+<li><a href="https://www.goatlings.com/shops/view/22">HA Buddy Hair Salon</a></li>
+<li><a href="https://www.goatlings.com/shops/view/20">HA Buddy Face Space</a></li>
+<li><a href="https://www.goatlings.com/shops/view/23">HA Buddy Hats</a></li>
+<li><a href="https://
+www.goatlings.com/shops/view/12">HA Buddy Boutique</a></li>
+<li><a href="https://www.goatlings.com/shops/view/21">HA Buddy Base Place</a></li>
+<li><a href="https://www.goatlings.com/shops/view/24">HA Buddy Accessories</a></li>
+<li><a href="https://www.goatlings.com/shops/view/25">HA Buddy Background</a></li>
 </ul>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/8">Battle Weapons</a>
+<a href="https://www.goatlings.com/shops/view/8">Battle Weapons</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/26">Battle Pets</a>
+<a href="https://www.goatlings.com/shops/view/26">Battle Pets</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/17">Battle Defense</a>
+<a href="https://www.goatlings.com/shops/view/17">Battle Defense</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/7">Remedies and Elixirs</a>
+<a href="https://www.goatlings.com/shops/view/7">Remedies and Elixirs</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/shops/view/16">Display Name Icons</a>
+<a href="https://www.goatlings.com/shops/view/16">Display Name Icons</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/pawn">Pawn Shop</a>
+<a href="https://www.goatlings.com/donate">Giving Tree</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/craft">Crafting</a>
+<a href="https://www.goatlings.com/pawn">Pawn Shop</a>
+</li>
+<li class="dropdown-item">
+<a href="https://www.goatlings.com/craft">Crafting</a>
+</li>
+<li class="dropdown-item">
+<a href="https://www.goatlings.com/auctions">Auctions</a>
 </li>
 </ul>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/battle/" class="clearBox">Battle</a>
+<a href="https://www.goatlings.com/battle/" class="clearBox">Battle</a>
 <ul class="dropdown">
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/battle/challengers">Battle Center</a>
+<a href="https://www.goatlings.com/battle/challengers">Battle Center</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/battle/train_challengers">Training Center</a>
+<a href="https://www.goatlings.com/battle/train_challengers">Training Center</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/battle/thebattle">Current Battle</a>
+<a href="https://www.goatlings.com/battle/thebattle">Current Battle</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/mypets">My Pets</a>
+<a href="https://www.goatlings.com/mypets">My Pets</a>
 </li>
 </ul>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/forums/index" class="clearBox">Forums</a>
+<a href="https://www.goatlings.com/forums/index" class="clearBox">Forums</a>
 <ul class="dropdown">
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/2/">News & Announcements</a>
+<a href="https://www.goatlings.com/forums/view/2/">News & Announcements</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/16/">Official Contests & Events</a>
+<a href="https://www.goatlings.com/forums/view/16/">Official Contests & Events</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/4/">Introductions</a>
+<a href="https://www.goatlings.com/forums/view/4/">Introductions</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/1/">General Chat</a>
+<a href="https://www.goatlings.com/forums/view/1/">General Chat</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/5/">Help</a>
+<a href="https://www.goatlings.com/forums/view/5/">Help</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/8/">Ideas & Suggestions</a>
+<a href="https://www.goatlings.com/forums/view/8/">Ideas & Suggestions</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/3/">Bugs</a>
+<a href="https://www.goatlings.com/forums/view/3/">Bugs</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/6/">Shops, Trades, & Auctions</a>
+<a href="https://www.goatlings.com/forums/view/6/">Shops, Trades, & Auctions</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/20/">Battle</a>
+<a href="https://www.goatlings.com/forums/view/20/">Battle</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/9/">Roleplay Chat</a>
+<a href="https://www.goatlings.com/forums/view/9/">Roleplay Chat</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/15/">Clubhouse Bulletin Board</a>
+<a href="https://www.goatlings.com/forums/view/15/">Clubhouse Bulletin Board</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/12/">HA Buddy</a>
+<a href="https://www.goatlings.com/forums/view/12/">HA Buddy</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/17/">Member Contests & Events</a>
+<a href="https://www.goatlings.com/forums/view/17/">Member Contests & Events</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/7/">Galleries</a>
+<a href="https://www.goatlings.com/forums/view/7/">Galleries</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/18/">Creative Writing Nook</a>
+<a href="https://www.goatlings.com/forums/view/18/">Creative Writing Nook</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/14/">Artists Alley</a>
+<a href="https://www.goatlings.com/forums/view/14/">Artists Alley</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/13/">Member Created Designs</a>
+<a href="https://www.goatlings.com/forums/view/13/">Member Created Designs</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/19/" style="font-size:7.7pt; line-height:14px;">Goatlings Gazette Submissions</a>
+<a href="https://www.goatlings.com/forums/view/19/" style="font-size:7.7pt; line-height:14px;">Goatlings Gazette Submissions</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/forums/view/10/">Off Topic</a>
+<a href="https://www.goatlings.com/forums/view/10/">Off Topic</a>
 </li>
 </ul>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/explore/index" class="clearBox">Explore</a>
+<a href="https://www.goatlings.com/explore/index" class="clearBox">Explore</a>
 <ul class="dropdown">
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/explore/view">Current Adventure</a>
+<a href="https://www.goatlings.com/explore/view">Current Adventure</a>
 </li>
 <li class="dropdown-item has-sub">
-<a href="#">Misty Meadows</a>
+<a href="#">Misty Meadows ⯈</a>
 <ul>
-<li><a href="http://www.goatlings.com/explore/create/1/${token}">Misty Meadows 1</a></li>
-<li><a href="http://www.goatlings.com/explore/create/3/${token}">Misty Meadows 2</a></li>
-<li><a href="http://www.goatlings.com/explore/create/4/${token}">Misty Meadows 3</a></li>
-<li><a href="http://www.goatlings.com/explore/create/5/${token}">Misty Meadows 4</a></li>
-<li><a href="http://www.goatlings.com/explore/create/6/${token}">Misty Meadows 5</a></li>
-</ul>
-</li>
-<li class="dropdown-item has-sub">
-<a href="#">Enchanted Forest</a>
-<ul>
-<li><a href="http://www.goatlings.com/explore/create/7/${token}">Enchanted Forest 1</a></li>
-<li><a href="http://www.goatlings.com/explore/create/12/${token}">Enchanted Forest 2</a></li>
-<li><a href="http://www.goatlings.com/explore/create/9/${token}">Enchanted Forest 3</a></li>
-<li><a href="http://www.goatlings.com/explore/create/10/${token}">Enchanted Forest 4</a></li>
-<li><a href="http://www.goatlings.com/explore/create/11/${token}">Enchanted Forest 5</a></li>
-</ul>
-</li>
-<li class="dropdown-item has-sub">
-<a href="#">Phantom Forest</a>
-<ul>
-<li><a href="http://www.goatlings.com/explore/create/13/${token}">Phantom Forest 1</a></li>
-<li><a href="http://www.goatlings.com/explore/create/14/${token}">Phantom Forest 2</a></li>
-<li><a href="http://www.goatlings.com/explore/create/15/${token}">Phantom Forest 3</a></li>
-<li><a href="http://www.goatlings.com/explore/create/16/${token}">Phantom Forest 4</a></li>
-<li><a href="http://www.goatlings.com/explore/create/17/${token}">Phantom Forest 5</a></li>
+<li><a href="https://www.goatlings.com/explore/create/1/${token}">Misty Meadows 1</a></li>
+<li><a href="https://www.goatlings.com/explore/create/3/${token}">Misty Meadows 2</a></li>
+<li><a href="https://www.goatlings.com/explore/create/4/${token}">Misty Meadows 3</a></li>
+<li><a href="https://www.goatlings.com/explore/create/5/${token}">Misty Meadows 4</a></li>
+<li><a href="https://www.goatlings.com/explore/create/6/${token}">Misty Meadows 5</a></li>
 </ul>
 </li>
 <li class="dropdown-item has-sub">
-<a href="#">Rainbow Caverns</a>
+<a href="#">Enchanted Forest ⯈</a>
 <ul>
-<li><a href="http://www.goatlings.com/explore/create/18/${token}">Rainbow Caverns 1</a></li>
-<li><a href="http://www.goatlings.com/explore/create/19/${token}">Rainbow Caverns 2</a></li>
-<li><a href="http://www.goatlings.com/explore/create/20/${token}">Rainbow Caverns 3</a></li>
-<li><a href="http://www.goatlings.com/explore/create/21/${token}">Rainbow Caverns 4</a></li>
-<li><a href="http://www.goatlings.com/explore/create/22/${token}">Rainbow Caverns 5</a></li>
+<li><a href="https://www.goatlings.com/explore/create/7/${token}">Enchanted Forest 1</a></li>
+<li><a href="https://www.goatlings.com/explore/create/12/${token}">Enchanted Forest 2</a></li>
+<li><a href="https://www.goatlings.com/explore/create/9/${token}">Enchanted Forest 3</a></li>
+<li><a href="https://www.goatlings.com/explore/create/10/${token}">Enchanted Forest 4</a></li>
+<li><a href="https://www.goatlings.com/explore/create/11/${token}">Enchanted Forest 5</a></li>
 </ul>
 </li>
 <li class="dropdown-item has-sub">
-<a href="#">Majestic Mountain</a>
+<a href="#">Phantom Forest ⯈</a>
 <ul>
-<li><a href="http://www.goatlings.com/explore/create/23/${token}">Majestic Mountain 1</a></li>
-<li><a href="http://www.goatlings.com/explore/create/24/${token}">Majestic Mountain 2</a></li>
-<li><a href="http://www.goatlings.com/explore/create/25/${token}">Majestic Mountain 3</a></li>
-<li><a href="http://www.goatlings.com/explore/create/26/${token}">Majestic Mountain 4</a></li>
-<li><a href="http://www.goatlings.com/explore/create/27/${token}">Majestic Mountain 5</a></li>
+<li><a href="https://www.goatlings.com/explore/create/13/${token}">Phantom Forest 1</a></li>
+<li><a href="https://www.goatlings.com/explore/create/14/${token}">Phantom Forest 2</a></li>
+<li><a href="https://www.goatlings.com/explore/create/15/${token}">Phantom Forest 3</a></li>
+<li><a href="https://www.goatlings.com/explore/create/16/${token}">Phantom Forest 4</a></li>
+<li><a href="https://www.goatlings.com/explore/create/17/${token}">Phantom Forest 5</a></li>
 </ul>
 </li>
 <li class="dropdown-item has-sub">
-<a href="#">Sea of Clouds</a>
+<a href="#">Rainbow Caverns ⯈</a>
 <ul>
-<li><a href="http://www.goatlings.com/explore/create/28/${token}">Sea of Clouds 1</a></li>
-<li><a href="http://www.goatlings.com/explore/create/29/${token}">Sea of Clouds 2</a></li>
-<li><a href="http://www.goatlings.com/explore/create/30/${token}">Sea of Clouds 3</a></li>
-<li><a href="http://www.goatlings.com/explore/create/31/${token}">Sea of Clouds 4</a></li>
-<li><a href="http://www.goatlings.com/explore/create/32/${token}">Sea of Clouds 5</a></li>
+<li><a href="https://www.goatlings.com/explore/create/18/${token}">Rainbow Caverns 1</a></li>
+<li><a href="https://www.goatlings.com/explore/create/19/${token}">Rainbow Caverns 2</a></li>
+<li><a href="https://www.goatlings.com/explore/create/20/${token}">Rainbow Caverns 3</a></li>
+<li><a href="https://www.goatlings.com/explore/create/21/${token}">Rainbow Caverns 4</a></li>
+<li><a href="https://www.goatlings.com/explore/create/22/${token}">Rainbow Caverns 5</a></li>
+</ul>
+</li>
+<li class="dropdown-item has-sub">
+<a href="#">Majestic Mountain ⯈</a>
+<ul>
+<li><a href="https://www.goatlings.com/explore/create/23/${token}">Majestic Mountain 1</a></li>
+<li><a href="https://www.goatlings.com/explore/create/24/${token}">Majestic Mountain 2</a></li>
+<li><a href="https://www.goatlings.com/explore/create/25/${token}">Majestic Mountain 3</a></li>
+<li><a href="https://www.goatlings.com/explore/create/26/${token}">Majestic Mountain 4</a></li>
+<li><a href="https://www.goatlings.com/explore/create/27/${token}">Majestic Mountain 5</a></li>
+</ul>
+</li>
+<li class="dropdown-item has-sub">
+<a href="#">Sea of Clouds ⯈</a>
+<ul>
+<li><a href="https://www.goatlings.com/explore/create/28/${token}">Sea of Clouds 1</a></li>
+<li><a href="https://www.goatlings.com/explore/create/29/${token}">Sea of Clouds 2</a></li>
+<li><a href="https://www.goatlings.com/explore/create/30/${token}">Sea of Clouds 3</a></li>
+<li><a href="https://www.goatlings.com/explore/create/31/${token}">Sea of Clouds 4</a></li>
+<li><a href="https://www.goatlings.com/explore/create/32/${token}">Sea of Clouds 5</a></li>
 </ul>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/battle/thebattle">Current Battle</a>
+<a href="https://www.goatlings.com/battle/thebattle">Current Battle</a>
 </li>
 </ul>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/creativepark" class="clearBox">Creative</a>
+<a href="https://www.goatlings.com/creativepark" class="clearBox">Creative</a>
 <ul class="dropdown">
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/graphics">Graphics</a>
+<a href="https://www.goatlings.com/graphics">Graphics</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/flairbanners">Flair Banners</a>
+<a href="https://www.goatlings.com/flairbanners">Flair Banners</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/coloringpages">Coloring Pages</a>
+<a href="https://www.goatlings.com/coloringpages">Coloring Pages</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/avatars">Avatars</a>
+<a href="https://www.goatlings.com/avatars">Avatars</a>
 </li>
 <li class="dropdown-item">
-<a href="http://www.goatlings.com/premadelayouts">Profile Layouts</a>
+<a href="https://www.goatlings.com/premadelayouts">Profile Layouts</a>
 </li>
 </ul>
 </li>
 <li class="nav_item">
-<a href="http://www.goatlings.com/login/logout/${token}/" class="clearBox">Logout</a>
+<a href="https://www.goatlings.com/login/logout/${token}/" class="clearBox">Logout</a>
 </li>
 </ul>
 </nav>`)}();
@@ -2400,7 +2423,7 @@ const bodyScript = function(checkFlag){
             /* Searchbar in footer */
             if(document.getElementById('footer')) {
                 document.getElementById('footer').insertAdjacentHTML('beforebegin', `<aside id="searchbar-footer">
-<form action="http://www.goatlings.com/search/searchpro" method="post" accept-charset="utf-8">
+<form action="https://www.goatlings.com/search/searchpro" method="post" accept-charset="utf-8">
 <input type="hidden" name="csrf_test_name" value="${token}">
 <div class="new-searchbar search-footer">
 <div class="input-prefix">
@@ -2430,7 +2453,7 @@ const bodyScript = function(checkFlag){
             /* Header searchbar */
             document.querySelector('#user-info-wrap').insertAdjacentHTML('afterend', `<div id="search-bar-slidein">
 <aside id="search-bar">
-<form action="http://www.goatlings.com/search/searchpro" method="post" accept-charset="utf-8">
+<form action="https://www.goatlings.com/search/searchpro" method="post" accept-charset="utf-8">
 <input type="hidden" name="csrf_test_name" value="${token}">
 <div class="new-searchbar mini-search">
 <div class="input-prefix">
@@ -2485,7 +2508,11 @@ class="button slider slider-btn mini-height mini-padding" disabled>Search</butto
 
         ================================================================== */
         // Settings page
-        if(url.includes('settings')) css += `form {display: block; text-align: center;}`;
+        if(url.includes('settings') ||
+           url.includes('wishlist') ||
+           url.includes('usershop') ||
+           url.includes('MyGoatlings') ||
+           url.includes('storage')) css += `form {display: block; text-align: center;}`;
 
         //mypets page
         if(url.includes('goatlings.com/mypets/')){
@@ -2505,8 +2532,14 @@ class="button slider slider-btn mini-height mini-padding" disabled>Search</butto
                    #content > center > form {display:inline-block}`
         }
 
+        if(url.includes('/storage') || url.includes('usershop/index')){
+           if (theresPagnation){
+                pagnaTor("safePagnation");
+            }
+           }
         // news page
         if(url.includes('/news/')){
+            css += 'form{display: block}'
             if (theresPagnation){
                 pagnaTor("newsPagnation");
                 pagnaTor("newsPagnationBottom");
@@ -2663,13 +2696,6 @@ margin: 5px 10px;
             document.querySelector('#content').insertAdjacentHTML('beforeend', `<br><button onclick="window.history.go(-1)" style="margin-top:10px" class="button">Back</button>`);
         }
 
-        // Changes the text from 12 am to 4 am on pages telling you about the reset
-        if (bodyText.indexOf("resets at") >= 0){
-            document.getElementById("content").innerHTML = document.getElementById("content").innerHTML.replace('12am', '4 am');
-        }
-
-
-
         /* ===============================================================
 
 
@@ -2681,8 +2707,8 @@ margin: 5px 10px;
             if(bodyText.indexOf("You have healed all your pets.") >= 0){
                 document.querySelector('#content').insertAdjacentHTML('beforeend', `
 <div style="display: flex; width: 32%; justify-content: space-around; margin: 20px auto 5px auto;">
-<a class="fl-item" href="http://www.goatlings.com/battle/challengers">To Battle Center</a>
-<a class="fl-item" href="http://www.goatlings.com/battle/train_challengers">To Training Center</a>
+<a class="fl-item" href="https://www.goatlings.com/battle/challengers">To Battle Center</a>
+<a class="fl-item" href="https://www.goatlings.com/battle/train_challengers">To Training Center</a>
 </div>`);
             }
         }
@@ -2695,8 +2721,8 @@ margin: 5px 10px;
 
         ================================================================== */
 
-        if(document.querySelector('a[href="http://www.goatlings.com/info"]')){
-            let goatTokenAnchor = document.querySelector('a[href="http://www.goatlings.com/info"]');
+        if(document.querySelector('a[href="https://www.goatlings.com/info"]')){
+            let goatTokenAnchor = document.querySelector('a[href="https://www.goatlings.com/info"]');
             goatTokenAnchor.classList.add('if-item');
             goatTokenAnchor.style.cssText = "width: 300px; margin-top:15px;";
         }
@@ -2755,6 +2781,9 @@ margin: 5px 10px;
                 for(let children of [...shopItems]) shopItemHolder.appendChild(children);
                 document.querySelector('#content > center > hr').insertAdjacentElement('afterend', shopItemHolder)
             }();
+
+            let image = document.querySelector('center').getElementsByTagName('img')[0].src;
+            document.querySelector('center').getElementsByTagName('img')[0].outerHTML = `<a href="${document.URL}"><img src="${image}"></a>`
         }
 
         /* ===============================================================
@@ -2807,6 +2836,38 @@ margin: 5px 10px;
             }
         }
 
+
+        /* ===============================================================
+
+
+                                   GALLERIES
+
+
+        ================================================================== */
+
+        if(url.includes('gallery/view/')){
+            if(theresPagnation) pagnaTor("shopPagnation"); //fix up pagnation
+            //adjusting shop description margins
+            document.querySelector('#content > span').style.cssText = "display: inline-block; margin-bottom:10px";
+
+            // code for if there are items inside the gallery
+            if(document.querySelector('.shopItem')){
+
+                // removing extra space
+                for (let i = 0; i < 2; i++) document.querySelector('#content > center:last-of-type').nextSibling.remove();
+
+                // flex container babey
+                let shopItemNodes = document.querySelectorAll('.shopItem');
+
+                let centerEl = document.querySelector('#content > center:last-of-type'); //this holds the items. we want to make this a div
+                let shopItemHolder = document.createElement('div');
+                shopItemHolder.classList.add("shop-item-holder");
+                for(let item of shopItemNodes) shopItemHolder.appendChild(item);
+                centerEl.appendChild(shopItemHolder);
+            }
+        }
+        //document.getElementsByClassName("shopItem")[0].parentElement.style.cssText = "display: flex; flex-wrap: wrap; justify-content: center;"
+
         /* ===============================================================
 
 
@@ -2817,10 +2878,14 @@ margin: 5px 10px;
 
         if(url.includes('/forums')){
             if (theresPagnation) pagnaTor("forumPagnation");
-            css += `#content table {width: 800px;}
+            css += `
+            /*#content table {width: 800px;}*/
+            table[width="700"]{width: 800px}
                     td {padding-left: 5px !important;}
                     div.forum-reply table {width: 200px !important;}
-                    form {display:block}`; //minor css adjustments
+                    form {display:block}
+                    #content > table img { width: 14px; height: 14px; }
+                    `; //minor css adjustments
             // clone the return to main/sub forum links from the bottom of the page because I feel it's more useful at the top
             if(url.includes('forums/view_topic')){
                 if (theresPagnation) pagnaTor("forumPagnationBelow");
@@ -2851,10 +2916,10 @@ margin: 5px 10px;
 
         ================================================================== */
 
-        if(url.includes('/pet/u/')){
+        /*if(url.includes('/pet/u/')){
             for(let i = 0; i < 2; i++) document.querySelector('.pet-profile-box-three').firstChild.remove()
             document.querySelector('#content > br:nth-child(3)').remove()
-        }
+        }*/
 
         /* ===============================================================
 
@@ -2874,7 +2939,7 @@ margin: 5px 10px;
 
             let goatImgSrc, goatAnchor, goatName;
             for(let item of [...myGoats]){
-                console.log(item);
+                //console.log(item);
                 goatImgSrc = item.children[0].src;
                 goatName = item.children[2].textContent;
                 goatAnchor = item.children[2].href;
@@ -2924,7 +2989,7 @@ margin: 5px 10px;
             }
             /* placing nicely organizes items into first flex container, and then the second */
             for(let child of tableContents) flexItemOne.appendChild(child);
-            for (let child of nodeListArr) flexItemTwo.appendChild(child);
+            for(let child of nodeListArr) flexItemTwo.appendChild(child);
 
             let profilePartTwoNodes = document.querySelector('.profile-part-two').childNodes; // the place that holds the HA Buddy
             for(let children of [...profilePartTwoNodes]) flexItemThree.appendChild(children);
@@ -2961,16 +3026,16 @@ margin: 5px 10px;
             if(mainInvent){
                 let stacked;
                 if(document.body.textContent.indexOf('Total Items') > 0) stacked = true;
-                if(stacked) addLinks = `<a class="if-item" href="http://www.goatlings.com/inventory/index/1">Unstack Items</a>`; // stacked
-                else addLinks = `<a class="if-item" href="http://www.goatlings.com/inventory/index/2">Stack Items</a>`; // unstacked
-            } else if(/\/inventory/.test(document.URL)) addLinks = `<a class="if-item" href="http://www.goatlings.com/battle/challengers">Battle Center</a>`; // inventory view pages
+                if(stacked) addLinks = `<a class="if-item" href="https://www.goatlings.com/inventory/index/1">Unstack Items</a>`; // stacked
+                else addLinks = `<a class="if-item" href="https://www.goatlings.com/inventory/index/2">Stack Items</a>`; // unstacked
+            } else if(/\/inventory/.test(document.URL)) addLinks = `<a class="if-item" href="https://www.goatlings.com/battle/challengers">Battle Center</a>`; // inventory view pages
 
             let inventoryLinks = `<div class="inventoryLinks">
-<a class="if-item" href="http://www.goatlings.com/itemsorter">Item Sorter</a>
-<a class="if-item" href="http://www.goatlings.com/inventory/">My Items</a>
-<a class="if-item" href="http://www.goatlings.com/gallery">My Gallery</a>
-<a class="if-item" href="http://www.goatlings.com/usershop">My Shop</a>
-<a class="if-item" href="http://www.goatlings.com/storage">My Safe</a>
+<a class="if-item" href="https://www.goatlings.com/itemsorter">Item Sorter</a>
+<a class="if-item" href="https://www.goatlings.com/inventory/">My Items</a>
+<a class="if-item" href="https://www.goatlings.com/gallery">My Gallery</a>
+<a class="if-item" href="https://www.goatlings.com/usershop">My Shop</a>
+<a class="if-item" href="https://www.goatlings.com/storage">My Safe</a>
 ${addLinks}
 </div>`;
             let inventItemImgNodes = document.querySelectorAll('.item-invent > a > img');
@@ -2983,7 +3048,7 @@ ${addLinks}
             }
             if (mainInvent){ // the inventory index
                 document.querySelector('#content > center').classList.add("inventory-flex");
-                textDeleter(15);
+                //textDeleter(15);
                 document.querySelector('#content').insertAdjacentHTML('beforeend', `<div id="inventoryFooter">
 ${inventoryLinks}
 </div>`);
@@ -3008,10 +3073,11 @@ ${inventoryLinks}
                 // Adds a link to go directly to battle if you equip a weapon
                 if (bodyText.indexOf("The item was equipped to your pet!") >= 0){
                     document.querySelector('.inventoryLinks').insertAdjacentHTML('beforebegin', `<div class="inventoryLinks">
-<a class="if-item" href="http://www.goatlings.com/battle/challengers">To Battle</a>
+<a class="if-item" href="https://www.goatlings.com/battle/challengers">To Battle</a>
 </div>`);
                 }
             }
+            if(document.querySelector('div.item-invent')) document.querySelector('div.item-invent').parentElement.style.cssText = "display: flex; flex-direction: row;flex-wrap: wrap;justify-content: center;"
         }
 
         /* ==================================================================
@@ -3027,7 +3093,7 @@ ${inventoryLinks}
             for(let i = 0; i < startBattle.length; i++) {
                 startBattle[i].addEventListener("click", function(event){
                     //event.preventDefault();
-                    console.log(event)
+                    //console.log(event)
                     let battleParameters = {
                         enemyURL: startBattle[i].parentElement.action,
                         petID: document.querySelectorAll(`select[name="petid"]`)[i].value,
@@ -3039,8 +3105,10 @@ ${inventoryLinks}
                 })
             }
             if(/\/battle\/challengers/.test(document.URL)){
-                let tr = document.querySelectorAll('table[width="700"] > tbody > tr');
-                for(let item of [...tr]) item.style.textAlign = "center";
+                //let tr = document.querySelectorAll('table[width="700"] > tbody > tr');
+                //for(let item of [...tr]) item.style.textAlign = "center";
+                document.querySelector('div.battle-grid').parentElement.style.cssText = "display: flex; flex-wrap: wrap; justify-content:center"
+                css += "form{display:inline-block !important; margin-bottom: 15px !important} .battle-grid{padding:5px; margin:5px; width:200px; border: 1px solid var(--main-faded); border-radius: 4px;}"
             }
             // check if opponent at 0 hp
             let HP = document.querySelectorAll('.HP'),
@@ -3050,7 +3118,7 @@ ${inventoryLinks}
                 // Extraneous spaces removed and some minor position changes of the win/lose condition text
                 let battle_log_breaks = document.querySelectorAll(`#battle_log > br`)
                 if(battle_log_breaks.length > 0) battle_log_breaks[battle_log_breaks.length-1].remove()
-                if (document.querySelector(`a[href="http://www.goatlings.com/battle/over"]`)){
+                if (document.querySelector(`a[href="https://www.goatlings.com/battle/over"]`)){
                     css += `body div#wrapper div#content center p a {display: none}`;
 
                     let battleResult = "";
@@ -3059,7 +3127,7 @@ ${inventoryLinks}
                     else battleResult = "THE BATTLE IS OVER";
 
                     document.querySelector("#content > center > b").textContent = "The battle has ended!";
-                    document.getElementById('battle_items').insertAdjacentHTML('beforebegin', `<a href="http://www.goatlings.com/battle/over">${battleResult}! CLICK HERE TO CONTINUE</a>`);
+                    document.getElementById('battle_items').insertAdjacentHTML('beforebegin', `<a href="https://www.goatlings.com/battle/over">${battleResult}! CLICK HERE TO CONTINUE</a>`);
                 }
             }
 
@@ -3080,16 +3148,16 @@ ${inventoryLinks}
                         existingButton.style.marginTop = "20px";
                         battleAgainButton = "";
                     }
-                } else battleAgainButton = `<div id="battleAgainButton"><a href="http://www.goatlings.com/explore/view" class="if-item" style="width:150px">Continue exploring?</a></div>`;
+                } else battleAgainButton = `<div id="battleAgainButton"><a href="https://www.goatlings.com/explore/view" class="if-item" style="width:150px">Continue exploring?</a></div>`;
 
                 let battleAgainFooter = `<div id="battleAgain">
 ${battleAgainButton}
 <div id="battleEndLinks" class="inventoryLinks">
-<a class="if-item" href="http://www.goatlings.com/explore/view">Current Adventure</a>
-<a class="if-item" href="http://www.goatlings.com/battle/train_challengers">Training Center</a>
-<a class="if-item" href="http://www.goatlings.com/battle/challengers">Battle Center</a>
-<a class="if-item" href="http://www.goatlings.com/fountain/">The Fountain</a>
-<a class="if-item" href="http://www.goatlings.com/inventory/">Your Inventory</a>
+<a class="if-item" href="https://www.goatlings.com/explore/view">Current Adventure</a>
+<a class="if-item" href="https://www.goatlings.com/battle/train_challengers">Training Center</a>
+<a class="if-item" href="https://www.goatlings.com/battle/challengers">Battle Center</a>
+<a class="if-item" href="https://www.goatlings.com/fountain/">The Fountain</a>
+<a class="if-item" href="https://www.goatlings.com/inventory/">Your Inventory</a>
 </div>
 </div>`;
                 document.querySelector("#content > center > p").remove();
@@ -3109,30 +3177,30 @@ ${battleAgainButton}
         let imgString = "",
             imgArr = document.images;
         for (let value of imgArr) imgString += value.src;
-        if (imgString.indexOf("http://www.goatlings.com/images/navinews2.gif") >= 0){
+        if (imgString.indexOf("https://www.goatlings.com/images/navinews2.gif") >= 0){
             document.querySelector('#content').insertAdjacentHTML("afterbegin", `
 <fieldset id="newsBox">
 <legend id="newsBoxTitle">ALERT!</legend>
-<div id="newsBoxText">There's a <a href='http://www.goatlings.com/news/'>news</a> update!</div>
+<div id="newsBoxText">There's a <a href='https://www.goatlings.com/news/'>news</a> update!</div>
 </fieldset>`);
         }
 
         /* ============================================================ */
         style.innerHTML = css;
         document.head.appendChild(style);
-        document.querySelector(`link[href="http://www.goatlings.com/styles/main.css"]`).remove(); // we don't need the old CSS
+        document.querySelector(`link[href="https://www.goatlings.com/styles/main.css"]`).remove(); // we don't need the old CSS
+    flag = false;
     }
+
 } //end of the body's function
 
 const observer = new MutationObserver(mutation => {
     for(let element of mutation) {
         if(element.target === document.head && flag === 0){ // if we find a <head> tag in the DOM
             CSSStyles(flag);
-            flag = 1; // change the flag so we don't repeat ourself
         }
         if (element.target === document.body && flag === 1) { // if we find a <body> tag in the DOM
             bodyScript(flag);
-            flag = 3; // kill flag
             observer.disconnect(); //disconnect here because we got what we needed out of it
             break;
         }
@@ -3144,8 +3212,7 @@ observer.observe(document.documentElement, {childList: true, subtree: true});
 setTimeout(() => {
     if(flag === 0){
         CSSStyles(flag);
-        flag = 1;
         bodyScript(flag);
-        flag = 3;
     }
-},5)
+},1000)
+
