@@ -2370,7 +2370,7 @@
       "description": "",
       "designer": "XxLuckyXx (28717)",
       "location": "2024 September Battle Center",
-      "retired": false,
+      "retired": true,
       "bonus": {},
       "diamond_dust": false,
       "contains": false
@@ -2384,7 +2384,7 @@
       "description": "",
       "designer": "XxLuckyXx (28717)",
       "location": "2024 September Battle Center",
-      "retired": false,
+      "retired": true,
       "bonus": {
         "hunger": 10
       }
@@ -2398,7 +2398,7 @@
       "description": "",
       "designer": "XxLuckyXx (28717)",
       "location": "2024 September Battle Center",
-      "retired": false,
+      "retired": true,
       "bonus": {
         "hunger": 10
       },
@@ -2414,7 +2414,7 @@
       "description": "",
       "designer": "XxLuckyXx (28717)",
       "location": "2024 September Battle Center",
-      "retired": false,
+      "retired": true,
       "bonus": {},
       "diamond_dust": false,
       "contains": false
@@ -2428,7 +2428,7 @@
       "description": "",
       "designer": "XxLuckyXx (28717)",
       "location": "2024 September Battle Center",
-      "retired": false,
+      "retired": true,
       "bonus": {},
       "diamond_dust": false,
       "contains": false
@@ -2442,7 +2442,7 @@
       "description": "",
       "designer": "XxLuckyXx (28717)",
       "location": "2024 September Battle Center",
-      "retired": false,
+      "retired": true,
       "bonus": {},
       "pet_image": "CozyConjurer.gif"
     },
