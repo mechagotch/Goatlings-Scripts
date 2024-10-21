@@ -6875,7 +6875,7 @@
     "name": "Rosemary Bread",
     "date": "2023-12-27T00:00:00.000Z",
     "designer": "Fairybread (78929)",
-    "location": "Inside 'Rosemary Moth Orb'",
+    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP Shop (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -6888,7 +6888,7 @@
     "name": "Quartz Moth",
     "date": "2023-12-27T00:00:00.000Z",
     "designer": "Fairybread (78929)",
-    "location": "Inside 'Rosemary Moth Orb'",
+    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP Shop (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -8466,9 +8466,9 @@
       "mood": 50
     },
     "craftable": [
-      {name: "Phantom Maestro Brooch", image: "PhantomMaestroBrooch.gif"},
-      {name: "Phantom Maestro Sheet Music", image: "PhantomMaestroSheetMusic.gif"},
-      {name: "Phantom Maestro Cursed Baton", image: "PhantomMaestroCursedBaton.gif"}
+      {"name": "Phantom Maestro Brooch", "image": "PhantomMaestroBrooch.gif"},
+      {"name": "Phantom Maestro Sheet Music", "image": "PhantomMaestroSheetMusic.gif"},
+      {"name": "Phantom Maestro Cursed Baton", "image": "PhantomMaestroCursedBaton.gif"}
     ]
   },
   {
@@ -8517,9 +8517,9 @@
     "designer": "IWasBored (19566)",
     "location": "Zurora's Crafting Shop, Craftable 2023 Monster Masquerade",
     "craftable": [
-      {name: "Deathly Growler Metal Guitar", image: "DeathlyGrowlerMetalGuitar.gif"},
-      {name: "Deathly Growler Drumsticks", image: "DeathlyGrowlerDrumsticks.gif"},
-      {name: "Deathly Growler Guitar Pick", image: "DeathlyGrowlerGuitarPick.gif"}
+      {"name": "Deathly Growler Metal Guitar", "image": "DeathlyGrowlerMetalGuitar.gif"},
+      {"name": "Deathly Growler Drumsticks", "image": "DeathlyGrowlerDrumsticks.gif"},
+      {"name": "Deathly Growler Guitar Pick", "image": "DeathlyGrowlerGuitarPick.gif"}
     ],
     "retired": true,
     "bonus": {
@@ -108503,7 +108503,7 @@
     "retired": false,
     "bonus": {},
     "contains": [
-      {name: "Nothing", "image": "Nothing.gif"}
+      {"name": "Nothing", "image": "Nothing.gif"}
     ]
   },
   {
