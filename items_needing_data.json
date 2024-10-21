@@ -43250,8 +43250,8 @@
     "date": "2020-07-22T00:00:00.000Z",
     "value": 1000,
     "type": "collectible",
-    "description": "Collectible stamp with a picture of the Rotten Candy baddy. Rotten Candy is an original member design by Sphynx (18754).",
-    "designer": "Krisgoat (2)",
+    "description": "Collectible stamp with a picture of the Rotten Candy baddy.",
+    "designer": "Sphynx (18754) and Krisgoat (2)",
     "location": "Seasonal Explore Area Midnight Carnival 1",
     "retired": false,
     "bonus": {},
@@ -43746,8 +43746,8 @@
       {"name": "Blue Rock Candy", "image": "BlueRockCandy.gif"},
       {"name": "Purple Rock Candy", "image": "PurpleRockCandy.gif"},
       {"name": "Pink Rock Candy", "image": "PinkRockCandy.gif"},
-      {"name": "Rainbow Rock Candy", "image": "RainbowRockCandy.gif"},
-    ],
+      {"name": "Rainbow Rock Candy", "image": "RainbowRockCandy.gif"}
+],
     "bonus": {}
   },
   {
@@ -46089,8 +46089,8 @@
       {"name": "Yellow Star Mallow", "image": "YellowStarMallow.gif"}
     ],
     "contains": [
-      {"name": "Yellow Bonnet AD", "image": "YellowBonnetAD.gif"},
-    ]
+      {"name": "Yellow Bonnet AD", "image": "YellowBonnetAD.gif"}
+]
   },
   {
     "image": "PinkEgg4.gif",
@@ -105157,7 +105157,7 @@
     "diamond_dust": false,
     "contains": [
       {    "image": "item_365.gif",
-        "name": "Spring Basket",}
+        "name": "Spring Basket"}
     ]
   },
   {
@@ -105190,7 +105190,7 @@
     "diamond_dust": false,
     "contains": [
       {    "image": "item_363.gif",
-        "name": "Choco Bun",}
+        "name": "Choco Bun"}
     ]
   },
   {
@@ -105221,7 +105221,7 @@
     "diamond_dust": false,
     "contains": [
       {    "image": "item_361.gif",
-        "name": "Candy Beans",}
+        "name": "Candy Beans"}
     ]
   },
   {
@@ -105251,7 +105251,8 @@
     "diamond_dust": false,
     "contains": [
       {    "image": "item_359.gif",
-        "name": "Bunnyling AD",}
+            "name": "Bunnyling AD"
+        }
     ]
   },
   {
