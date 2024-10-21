@@ -550,7 +550,7 @@
     "contains": false,
     "craftable": false,
     "type": "food",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "PumpkinSpiritBP.gif",
@@ -601,7 +601,7 @@
     "contains": false,
     "craftable": false,
     "type": "food",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "Musicalitea.gif",
@@ -666,7 +666,7 @@
     "contains": false,
     "craftable": false,
     "type": "food",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "DeathlyFrappe.gif",
@@ -683,7 +683,7 @@
     "contains": false,
     "craftable": false,
     "type": "food",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "CharmingMouseBP.gif",
@@ -698,7 +698,7 @@
     "contains": false,
     "craftable": false,
     "type": "battle_item_att",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "FairyGhostmotherWand.gif",
@@ -713,7 +713,7 @@
     "contains": false,
     "craftable": false,
     "type": "wearable",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "MonsterTeethIcon.gif",
@@ -728,7 +728,7 @@
     "contains": false,
     "craftable": false,
     "type": "usericon",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "HauntedHostessHair.gif",
@@ -743,7 +743,7 @@
     "contains": false,
     "craftable": false,
     "type": "wearable",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "HauntedHostessTray.gif",
@@ -758,7 +758,7 @@
     "contains": false,
     "craftable": false,
     "type": "wearable",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "HauntedHostessEyes.gif",
@@ -773,7 +773,7 @@
     "contains": false,
     "craftable": false,
     "type": "wearable",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "HauntedHostessDress.gif",
@@ -788,7 +788,7 @@
     "contains": false,
     "craftable": false,
     "type": "wearable",
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "ZombeeBudBP.gif",
@@ -803,7 +803,7 @@
     "type": "battle_item_att",
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "ZombeeWings.gif",
@@ -818,7 +818,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "ZombeeTop.gif",
@@ -833,7 +833,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "ZombeeHat.gif",
@@ -848,7 +848,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "ZombeeFace.gif",
@@ -863,7 +863,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "ZombeeEars.gif",
@@ -878,7 +878,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "ZombeeBase.gif",
@@ -893,7 +893,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "WormEarrings.gif",
@@ -908,7 +908,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "MonsterTrackerCape.gif",
@@ -923,7 +923,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "MonsterTrackerTop.gif",
@@ -938,7 +938,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "MonsterTrackerFace.gif",
@@ -953,7 +953,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "MonsterTrackerHat.gif",
@@ -968,7 +968,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "MonsterTrackerHair.gif",
@@ -983,7 +983,7 @@
     "bonus": {},
     "contains": false,
     "craftable": false,
-    "value": 1000,
+    "value": 1000
   },
   {
     "image": "SilverMoonAD.gif",
@@ -1542,7 +1542,7 @@
     "contains": false,
     "craftable": false,
     "value": 1000,
-    "type": "wearable",
+    "type": "wearable"
   },
   {
     "image": "AbyssalTentacles.gif",
@@ -1571,7 +1571,7 @@
     "contains": false,
     "craftable": false,
     "value": 1000,
-    "type": "wearable",
+    "type": "wearable"
   },
   {
     "image": "AbyssalHair.gif",
@@ -1587,7 +1587,7 @@
     "diamond_dust": false,
     "contains": false,
     "value": 1000,
-    "type": "wearable",
+    "type": "wearable"
   },
   {
     "image": "AbyssalFace.gif",
@@ -1603,7 +1603,7 @@
     "diamond_dust": false,
     "contains": false,
     "value": 1000,
-    "type": "wearable",
+    "type": "wearable"
   },
   {
     "image": "AbyssalDetritus.gif",
@@ -1619,7 +1619,7 @@
     "diamond_dust": false,
     "contains": false,
     "value": 1000,
-    "type": "wearable",
+    "type": "wearable"
   },
   {
     "image": "AbyssalCrown.gif",
@@ -1634,7 +1634,7 @@
     "contains": false,
     "craftable": false,
     "value": 1000,
-    "type": "wearable",
+    "type": "wearable"
   },
   {
     "image": "AbyssalCoral.gif",
@@ -47703,7 +47703,7 @@
     "location": "Inside a 'Lovers Locket' from the 2020 Sweetheart Celebration",
     "retired": true,
     "bonus": {},
-    "diamond_dust": true,
+    "diamond_dust": true
   },
   {
     "image": "WistfulSuitorHair.gif",
