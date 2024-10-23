@@ -1,4 +1,4 @@
-var items = [
+[
   {
     "name": "Spiced Shrine Tea",
     "image": "SpicedShrineTea.gif",
@@ -110307,5 +110307,3 @@ var items = [
     }
   }
 ]
-
-module.exports = items
