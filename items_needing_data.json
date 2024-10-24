@@ -2335,7 +2335,7 @@
     "type": "pet_look",
     "description": "Winner of the July 2024 Design-A-Goatling contest.",
     "designer": "PanyaCat (60600)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "craftable": [
       {
         "name": "Paradise Toucan BP",
@@ -2483,7 +2483,7 @@
     "type": "pet_look",
     "description": "Winner of the June 2024 Design-A-Goatling contest.",
     "designer": "BerryMilk (58926)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "craftable": [
       {
         "name": "Android Base",
@@ -3536,11 +3536,11 @@
     "type": "pet_look",
     "description": "Winner of the May 2024 Design-A-Goatling contest.",
     "designer": "cinnaphos (106654)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "craftable": [
-      "Beloved Bag",
-      "Lovely Lightsticks",
-      "Dark Girly Blouse"
+      {"name": "Dark Girly Blouse", "image": "DarkGirlyBlouse.gif"},
+      {"name": "Beloved Bag", "image": "BelovedBag.gif"},
+      {"name": "Lovely Lightsticks", "image": "LovelyLightsticks.gif"}
     ],
     "retired": false,
     "bonus": {},
@@ -3590,10 +3590,15 @@
     "type": "pet_look",
     "description": "Winner of the April 2024 Design-A-Goatling contest.",
     "designer": "AiMcsweets (52144)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
-    "pet_image": "Impressionist.gif"
+    "pet_image": "Impressionist.gif",
+    "craftable": [
+      {"name": "Paint Canvas", "image": "PaintCanvas.gif"},
+      {"name": "Paint Water", "image": "PaintWater.gif"},
+      {"name": "Self Portrait", "image": "SelfPortrait.gif"}
+    ]
   },
   {
     "image": "TransPrideFrame.gif",
@@ -4348,10 +4353,15 @@
     "type": "pet_look",
     "description": "Winner of the March 2024 Design-A-Goatling contest.",
     "designer": "r00p (20210)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
-    "pet_image": "DestinedDuet.gif"
+    "pet_image": "DestinedDuet.gif",
+    "craftable": [
+      {"name": "Heart Song Feather", "image": "HeartSongFeather.gif"},
+      {"name": "Duet Sheet Music", "image": "DuetSheetMusic.gif"},
+      {"name": "Melody Feather", "image": "MelodyFeather.gif"}
+    ]
   },
   {
     "image": "HeldBasket.gif",
@@ -4402,10 +4412,15 @@
     "type": "pet_look",
     "description": "Winner of the January 2024 Design-A-Goatling contest.",
     "designer": "Fuzzy (66434)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
-    "pet_image": "BreadBasket.gif"
+    "pet_image": "BreadBasket.gif",
+    "craftable": [
+      {"name": "Held Basket", "image": "HeldBasket.gif"},
+      {"name": "Baked Goods", "image": "BakedGoods.gif"},
+      {"name": "Mischeivous Mouse BP", "image": "MischeivousMouseBP.gif"}
+    ]
   },
   {
     "image": "SunflowerSeedPack.gif",
@@ -4683,10 +4698,15 @@
     "type": "pet_look",
     "description": "Winner of the February 2024 Design-A-Goatling contest.",
     "designer": "FawnHearted (77231)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
-    "pet_image": "WitchyGardener.gif"
+    "pet_image": "WitchyGardener.gif",
+    "craftable": [
+      {"name": "Daisy Wand", "image": "DaisyWand.gif"},
+      {"name": "Dandelion Broom", "image": "DandelionBroom.gif"},
+      {"name": "Gardening Familiar BP", "image": "GardeningFamiliarBP.gif"}
+    ]
   },
   {
     "image": "SakuraLatte.gif",
@@ -4873,10 +4893,15 @@
     "type": "pet_look",
     "description": "",
     "designer": "SugarDreamsHK (52082)",
-    "location": "Trickster's Tavern",
+    "location": "Craft item using Trickster's Tavern items",
     "retired": false,
     "bonus": {},
-    "pet_image": "SillyBilly.gif"
+    "pet_image": "SillyBilly.gif",
+    "craftable": [
+      {"name": "Blue Handkerchief", "image": "BlueHandkerchief.gif"},
+      {"name": "Yellow Handkerchief", "image": "YellowHandkerchief.gif"},
+      {"name": "Red Handkerchief", "image": "RedHandkerchief.gif"}
+    ]
   },
   {
     "image": "PrettyPennyVacationRAD.gif",
@@ -8568,6 +8593,10 @@
     "bonus": {},
     "diamond_dust": false,
     "craftable": [
+        {"name": "Haunted Portrait Stamp",
+        "image": "HauntedPortraitStamp.gif"},
+        {"name": "Haunted Portrait Stamp",
+        "image": "HauntedPortraitStamp.gif"},
         {"name": "Haunted Portrait Stamp",
         "image": "HauntedPortraitStamp.gif"}
     ],
@@ -25414,7 +25443,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Trickster's Tavern",
+    "location": "Craftable item using items from Trickster's Tavern",
     "retired": false,
     "bonus": {},
     "pet_image": "JestBalloon.gif"
@@ -39150,7 +39179,7 @@
     "type": "wearable",
     "description": "Hair bow with a tiny diamond gem decoration.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -87567,15 +87596,13 @@
     "type": "pet_look",
     "description": "",
     "designer": "Vanilly (7923)",
-    "location": "Craftable: \"Fawn Plush\", \"Pink Rose\", \"Lacy Toffee\"",
+    "location": "Craftable using buyable items",
     "retired": false,
-    "bonus": {
-      "craftable": [
-        "Fawn Plush",
-        "Pink Rose",
-        "Lacy Toffee"
-      ]
-    },
+    "craftable": [
+      {"name": "Fawn Plush", "image": "Fawn_Plush.gif"},
+      {"name": "Laced Toffee", "image": "Laced_Toffee.gif"},
+      {"name": "Pink Rose", "image": "Pink_Rose.gif"}
+    ],
     "pet_image": "Toffeeling.gif"
   },
   {
@@ -87736,11 +87763,16 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "2015 Zodiac Battle Center",
+    "location": "Craftable using 2015 Zodiac Battle Center loot",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Tattered Cloth", "image": "Tattered_Cloth.gif"},
+      {"name": "Broken Horn", "image": "Broken_Horn.gif"},
+      {"name": "Tuft Of Fur", "image": "Tuft_Of_Fur.gif"}
+    ]
   },
   {
     "image": "Tattered_Cloth.gif",
@@ -89533,7 +89565,7 @@
     "type": "container",
     "description": "There is a sweater inside. How awful will it be?",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable using 2014 December Battle Center loot",
     "retired": true,
     "contains": [
       {"name": "Awful Sweater 1", "image": "Awful_Sweater_1.gif"},
@@ -97003,7 +97035,7 @@
     "type": "wearable",
     "description": "Hair bow with a tiny sapphire gem decoration.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -97022,7 +97054,7 @@
     "type": "wearable",
     "description": "Hair bow with a tiny kunzite gem decoration.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -97041,7 +97073,7 @@
     "type": "wearable",
     "description": "Hair bow with a tiny emerald gem decoration.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -97060,7 +97092,7 @@
     "type": "wearable",
     "description": "Hair bow with a tiny citrine gem decoration.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -97079,7 +97111,7 @@
     "type": "wearable",
     "description": "Hair bow with a tiny amethyst gem decoration.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -97997,7 +98029,7 @@
     "type": "container",
     "description": "2014 Ethos year of the horse themed HA Buddy goodies.",
     "designer": "Krisgoat (2)",
-    "location": "2014 Zodiac Battle Center",
+    "location": "Craftable using 2014 Zodiac Battle Center loot",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -98034,7 +98066,7 @@
     "type": "pet_look",
     "description": "Classic Goatling of superior graphics.",
     "designer": "Jenny (3300)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": false,
     "bonus": {},
     "pet_image": "8bit_Goat.gif",
