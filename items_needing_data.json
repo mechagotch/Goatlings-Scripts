@@ -16704,6 +16704,7 @@
   {
     "image": "AirCorsairWings.gif",
     "name": "Air Corsair Wings",
+    "price": 2000000,
     "date": "2023-01-16T00:00:00.000Z",
     "designer": "IWasBored (19566)",
     "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
@@ -16718,6 +16719,7 @@
     "image": "AirCorsairHat.gif",
     "name": "Air Corsair Hat",
     "date": "2023-01-16T00:00:00.000Z",
+    "price": 2000000,
     "designer": "IWasBored (19566)",
     "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
     "description": "",
@@ -16746,6 +16748,7 @@
     "name": "Air Corsair Face",
     "date": "2023-01-16T00:00:00.000Z",
     "designer": "IWasBored (19566)",
+    "price": 2000000,
     "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
     "description": "",
     "retired": false,
