@@ -6637,6 +6637,8 @@
     "name": "Star Key",
     "date": "2024-01-06T00:00:00.000Z",
     "designer": "Weast (51336)",
+    "price": 3000000,
+    "type": "collectible",
     "location": "Inside a 'Travel Satchel' from Princely Premiums VIP Shop (32)",
     "description": "",
     "retired": false,
@@ -18808,7 +18810,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "TopsyTurvyMouseBP.gif",
@@ -18838,7 +18842,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "TopsyTurvyHat.gif",
@@ -18879,7 +18885,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "TopsyTurvyBG.gif",
@@ -18892,7 +18900,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "TopsyTurvyBase.gif",
@@ -18931,7 +18941,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "SpiritConductorEyes.gif",
@@ -18944,7 +18956,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "SpiritConductorEars.gif",
@@ -18957,7 +18971,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "SpiritConductorCap.gif",
@@ -18970,7 +18986,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "SpiritConductorBeard.gif",
@@ -18983,7 +19001,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "LostTicket.gif",
@@ -19092,7 +19112,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "ScareDresserHair.gif",
@@ -19105,7 +19127,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "ScareDresserEyes.gif",
@@ -19179,7 +19203,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "HauntedMascotShirt.gif",
@@ -19192,7 +19218,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "HauntedMascotPrizeToy.gif",
@@ -19343,7 +19371,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "FlyLordHorns.gif",
@@ -19370,7 +19400,9 @@
     "diamond_dust": false,
     "bonus": {},
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "FlyLordEyes.gif",
