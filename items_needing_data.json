@@ -1576,8 +1576,6 @@
     "image": "AbyssalHair.gif",
     "name": "Abyssal Hair",
     "date": "2024-10-02T00:00:00.000Z",
-    "price": 1000,
-    "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
     "location": "Inside an 'Abyssal Abode' from the 2024 Monster Masquerade event",
@@ -1592,8 +1590,6 @@
     "image": "AbyssalFace.gif",
     "name": "Abyssal Face",
     "date": "2024-10-02T00:00:00.000Z",
-    "price": 1000,
-    "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
     "location": "Inside an 'Abyssal Abode' from the 2024 Monster Masquerade event",
@@ -1608,8 +1604,6 @@
     "image": "AbyssalDetritus.gif",
     "name": "Abyssal Detritus",
     "date": "2024-10-02T00:00:00.000Z",
-    "price": 1000,
-    "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
     "location": "Inside an 'Abyssal Abode' from the 2024 Monster Masquerade event",
@@ -2753,7 +2747,7 @@
     "type": "toy",
     "description": "",
     "designer": "BerryMilk (58926)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "craftable": [
       {
         "name": "Balloon Lamb Plush",
@@ -2772,7 +2766,7 @@
     "bonus": {
       "mood": 90
     },
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -12441,12 +12435,12 @@
     "type": "toy",
     "description": "",
     "designer": "Ikkyoutan (78186)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item",
     "retired": true,
     "bonus": {
       "mood": 100
     },
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false,
     "craftable": [
       {
@@ -14052,7 +14046,7 @@
     "type": "food",
     "description": "Oops! You dropped it...",
     "designer": "zoro (70313)",
-    "location": "Egg from Variety VIP Shop (9)",
+    "location": "Inside an 'Egg' from the Variety VIP Shop (9)",
     "retired": false,
     "bonus": {
       "hunger": 10
@@ -14068,7 +14062,7 @@
     "type": "collectible",
     "description": "A rare and inedible egg.",
     "designer": "zoro (70313) and BerryMilk (58926)",
-    "location": "Egg from Variety VIP Shop (9)",
+    "location": "Inside an 'Egg' from the Variety VIP Shop (9)",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -14214,10 +14208,16 @@
     "type": "pet_look",
     "description": "",
     "designer": "BerryMilk (58926)",
-    "location": "Trickster's Tavern",
+    "location": "Craftable item using items from Trickster's Tavern",
     "retired": false,
     "bonus": {},
-    "pet_image": "DaisyYolk.gif"
+    "pet_image": "DaisyYolk.gif",
+    "craftable": [
+      {"name": "Heart Egg Toast", "image": "HeartEggToast.gif"},
+      {"name": "Daisy Egg", "image": "DaisyEgg.gif"},
+      {"name": "Jammy Eggs", "image": "JammyEggs.gif"}
+    ]
+    
   },
   {
     "image": "TiangouPlush.gif",
@@ -14750,7 +14750,7 @@
     "type": "container",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "2023 Spring and Summer Diamond Dust Special",
+    "location": "2023 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
     "contains": [
@@ -14797,7 +14797,7 @@
     "type": "collectible",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Botanist Bag from the 2023 Spring and Summer Diamond Dust Special",
+    "location": "Inside a 'Botanist Bag' from the 2023 Spring Diamond Dust Special",
     "retired": true,
     "bonus": {},
     "diamond_dust": true,
@@ -14811,7 +14811,7 @@
     "type": "collectible",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Botanist Bag from the 2023 Spring and Summer Diamond Dust Special",
+    "location": "Inside a 'Botanist Bag' from the 2023 Spring Diamond Dust Special",
     "retired": true,
     "bonus": {},
     "diamond_dust": true,
@@ -14825,7 +14825,7 @@
     "type": "collectible",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Botanist Bag from the 2023 Spring and Summer Diamond Dust Special",
+    "location": "Inside a 'Botanist Bag' from the 2023 Spring Diamond Dust Special",
     "retired": true,
     "bonus": {},
     "diamond_dust": true,
@@ -14839,7 +14839,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Botanist Bag from the 2023 Spring and Summer Diamond Dust Special",
+    "location": "Inside a 'Botanist Bag' from the 2023 Spring Diamond Dust Special",
     "retired": true,
     "bonus": {},
     "diamond_dust": true,
@@ -14866,7 +14866,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Botanist Bag from the 2023 Spring and Summer Diamond Dust Special",
+    "location": "Inside a 'Botanist Bag' from the 2023 Spring Diamond Dust Special",
     "retired": true,
     "bonus": {},
     "diamond_dust": true,
@@ -14880,7 +14880,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Botanist Bag from the 2023 Spring and Summer Diamond Dust Special",
+    "location": "Inside a 'Botanist Bag' from the 2023 Spring Diamond Dust Special",
     "retired": true,
     "bonus": {},
     "diamond_dust": true,
@@ -14894,7 +14894,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Inside a 'Botanist Bag' from the 2023 Spring and Summer Diamond Dust Special",
+    "location": "Inside a 'Botanist Bag' from the 2023 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
     "bonus": {},
@@ -18407,13 +18407,18 @@
     "type": "toy",
     "description": "Special 2022 Monster Masquerade Mascot plush.",
     "designer": "21kkn (70313)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item using 2022 Monster Masquerade loot",
     "retired": true,
     "bonus": {
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Ribbon Mummy Plush", "image": "RibbonMummyPlush.gif"},
+      {"name": "Graveyard Groom Plush", "image": "GraveyardGroomPlush.gif"},
+      {"name": "Forgotten Cup", "image": "ForgottenCup.gif"}
+    ]
   },
   {
     "image": "NightmareEaterVeil.gif",
@@ -19490,11 +19495,16 @@
     "type": "toy",
     "description": "Special 2022 Monster Masquerade Mascot plush.",
     "designer": "21kkn (70313)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable using 2022 Monster Masquerade loot",
     "retired": true,
     "bonus": {
       "mood": 50
-    }
+    },
+    "craftable": [
+      {"name": "Cute Bandages", "image": "CuteBandages.gif"},
+      {"name": "Lamb Plush", "image": "LambPlush.gif"},
+      {"name": "Sugar Bones", "image": "SugarBones.gif"}
+    ]
   },
   {
     "image": "GraveyardGroomPlush.gif",
@@ -19504,13 +19514,18 @@
     "type": "toy",
     "description": "Special 2022 Monster Masquerade Mascot plush.",
     "designer": "21kkn (70313)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable using 2022 Monster Masquerade loot",
     "retired": true,
     "bonus": {
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Forgotten Stone", "image": "ForgottenStone.gif"},
+      {"name": "Graveyard Groom Ring", "image": "GraveyardGroomRing.gif"},
+      {"name": "Graveyard Bouquet", "image": "GraveyardBouquet.gif"}
+    ]
   },
   {
     "image": "ForgottenCup.gif",
@@ -19606,7 +19621,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Special Event Area Eerie Estate 2 during October",
+    "location": "Event Explore Area Eerie Estate 2",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -21740,13 +21755,18 @@
     "type": "toy",
     "description": "",
     "designer": "MaknCheeze (76284)",
-    "location": "Craft with Goat Pearl, Cat Pearl, and Bun Pearl",
+    "location": "Craftable using loot from the Diamond Dust special",
     "retired": true,
     "bonus": {
       "mood": 30
     },
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "craftable": [
+      {"name": "Goat Pearl", "image": "GoatPearl.gif"},
+      {"name": "Cat Pearl", "image": "CatPearl.gif"},
+      {"name": "Bun Pearl", "image": "BunPearl.gif"}
+    ]
   },
   {
     "image": "BobaCup.gif",
@@ -25488,7 +25508,7 @@
     "type": "collectible",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Can be found during the April Jestling Event",
+    "location": "Craftable item using April Jestling Event loot",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -25516,7 +25536,7 @@
     "type": "collectible",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Can be found during the April Jestling Event",
+    "location": "Craftable item using April Jestling Event loot",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -25544,7 +25564,7 @@
     "type": "collectible",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Can be found during the April Jestling Event",
+    "location": "Craftable item using April Jestling Event loot",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -29548,13 +29568,18 @@
     "type": "toy",
     "description": "Special 2021 Monster Masquerade plush.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable using 2021 Monster Masquerade loot",
     "retired": true,
     "bonus": {
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Sweet Bat Plush", "image": "SweetBatPlush.gif"},
+      {"name": "Pumpkin Pirate Plush", "image": "PumpkinPiratePlush.gif"},
+      {"name": "Pumpkin Cookie Sandwich", "image": "PumpkinCookieSandwich.gif"}
+    ]
   },
   {
     "image": "FroggyDelight.gif",
@@ -29578,13 +29603,18 @@
     "type": "toy",
     "description": "Special 2021 Monster Masquerade plush.",
     "designer": "Lostysaur (8901)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable using 2021 Monster Masquerade loot",
     "retired": true,
     "bonus": {
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Golden Pumpkin", "image": "GoldenPumpkin.gif"},
+      {"name": "Pirate Feather", "image": "PirateFeather.gif"},
+      {"name": "Pumpkin Leaf", "image": "PumpkinLeaf.gif"}
+    ]
   },
   {
     "image": "SweetBatPlush.gif",
@@ -29594,13 +29624,18 @@
     "type": "toy",
     "description": "Special 2021 Monster Masquerade plush.",
     "designer": "Vampira (63093)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable using 2021 Monster Masquerade loot",
     "retired": true,
     "bonus": {
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Beary Scary Teddy", "image": "BearyScaryTeddy.gif"},
+      {"name": "Sweet Heart Pillow", "image": "SweetHeartPillow.gif"},
+      {"name": "Sweet Bat Pillow", "image": "SweetBatPillow.gif"}
+    ]
   },
   {
     "image": "PumpkinCookieSandwich.gif",
@@ -37103,11 +37138,16 @@
     "type": "collectible",
     "description": "",
     "designer": "PrettySkitty (18716)",
-    "location": "Seasonal April Jestling Event, a currency used at Trickster's Tavern",
+    "location": "Seasonal April Jestling Event, currency used at Trickster's Tavern",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Chewed Cardboard", "image": "ChewedCardboard.gif"},
+      {"name": "Wet Cardboard", "image": "WetCardboard.gif"},
+      {"name": "Dry Marker", "image": "DryMarker.gif"}
+    ]
   },
   {
     "image": "TrashFriendRatBP.gif",
@@ -41166,13 +41206,19 @@
     "type": "toy",
     "description": "Special 2020 Monster Masquerade plush.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable using 2020 Monster Masquerade loot",
     "retired": true,
     "bonus": {
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Mothman Plush", "image": "MothmanPlush.gif"},
+      {"name": "Vampirella Plush", "image": "VampirellaPlush.gif"},
+      {"name": "Mothirella Rose", "image": "MothirellaRose.gif"}
+    ]
+    
   },
   {
     "image": "MothmanPlush.gif",
@@ -41181,14 +41227,19 @@
     "price": 1000,
     "type": "toy",
     "description": "Special 2020 Monster Masquerade plush.",
-    "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "designer": "sugarbunnies (50239)",
+    "location": "Craftable item using 2020 Monster Masquerade loot",
     "retired": true,
     "bonus": {
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Mothman Fang", "image": "MothmanFang.gif"},
+      {"name": "Mothman Feather", "image": "MothmanFeather.gif"},
+      {"name": "Mothman Friend", "image": "MothmanFriend.gif"}
+    ]
   },
   {
     "image": "VampirellaPlush.gif",
@@ -41198,11 +41249,16 @@
     "type": "toy",
     "description": "Special 2020 Monster Masquerade plush.",
     "designer": "yumekitti (4093)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item using 2020 Monster Masquerade loot",
     "retired": true,
     "bonus": {
       "mood": 50
-    }
+    },
+    "craftable": [
+      {"name": "Vampirella Brooch", "image": "VampirellaBrooch.gif"},
+      {"name": "Vampirella Wing", "image": "VampirellaWing.gif"},
+      {"name": "Vampirella Tiny Crown", "image": "VampirellaTinyCrown.gif"}
+    ]
   },
   {
     "image": "MothirellaRose.gif",
@@ -41223,7 +41279,7 @@
     "price": 1000,
     "type": "collectible",
     "description": "Small craft item.",
-    "designer": "Krisgoat (2)",
+    "designer": "sugarbunnies (50239)",
     "location": "2020 October Battle Center",
     "retired": true,
     "bonus": {},
@@ -41237,7 +41293,7 @@
     "price": 1000,
     "type": "collectible",
     "description": "Small craft item.",
-    "designer": "Krisgoat (2)",
+    "designer": "sugarbunnies (50239)",
     "location": "2020 October Battle Center",
     "retired": true,
     "bonus": {}
@@ -41249,7 +41305,7 @@
     "price": 1000,
     "type": "collectible",
     "description": "Small craft item.",
-    "designer": "Krisgoat (2)",
+    "designer": "sugarbunnies (50239)",
     "location": "2020 October Battle Center",
     "retired": true,
     "bonus": {}
@@ -41261,7 +41317,7 @@
     "price": 1000,
     "type": "collectible",
     "description": "Small craft item.",
-    "designer": "Krisgoat (2)",
+    "designer": "yumekitti (4093)",
     "location": "2020 October Battle Center",
     "retired": true,
     "bonus": {},
@@ -46037,7 +46093,7 @@
     "type": "container",
     "description": "Open for a surprise!",
     "designer": "Krisgoat (2)",
-    "location": "2020 Jestling Event",
+    "location": "Craftable item using 2020 Jestling Event loot",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -46058,7 +46114,7 @@
     "type": "container",
     "description": "Open for a surprise!",
     "designer": "Krisgoat (2)",
-    "location": "2020 Jestling Event",
+    "location": "Craftable item using 2020 Jestling Event loot",
     "retired": true,
     "contains": [
       {"name": "Blue Bonnet AD", "image": "BlueBonnetAD.gif"}
@@ -46078,7 +46134,7 @@
     "type": "container",
     "description": "Open for a surprise!",
     "designer": "Krisgoat (2)",
-    "location": "2020 Jestling Event",
+    "location": "Craftable item using 2020 Jestling Event loot",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -46099,7 +46155,7 @@
     "type": "container",
     "description": "Open for a surprise!",
     "designer": "Krisgoat (2)",
-    "location": "2020 Jestling Event",
+    "location": "Craftable item using 2020 Jestling Event loot",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -50055,7 +50111,12 @@
       "mood": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Evil Scientist Plush", "image": "EvilScientistPlush.gif"},
+      {"name": "Weird Witch Plush", "image": "WeirdWitchPlush.gif"},
+      {"name": "Weird Science Fire", "image": "WeirdScienceFire.gif"}
+    ]
   },
   {
     "image": "WeirdWitchPlush.gif",
@@ -50071,7 +50132,12 @@
       "mood": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Weird Witch Blob", "image": "WeirdWitchBlob.gif"},
+      {"name": "Weird Witch Clock", "image": "WeirdWitchClock.gif"},
+      {"name": "Weird Witch Scrap", "image": "WeirdWitchScrap.gif"}
+    ]
   },
   {
     "image": "EvilScientistPlush.gif",
@@ -50087,7 +50153,12 @@
       "mood": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Evil Scientist Blob", "image": "EvilScientistBlob.gif"},
+      {"name": "Evil Scientist Lens", "image": "EvilScientistLens.gif"},
+      {"name": "Evil Scientist Spill", "image": "EvilScientistSpill.gif"}
+    ]
   },
   {
     "image": "WeirdScienceFire.gif",
@@ -52801,11 +52872,16 @@
     "type": "collectible",
     "description": "Can be traded for Carnival prizes!",
     "designer": "Krisgoat (2)",
-    "location": "Annual Summer Night Carnival Event in July and August",
+    "location": "Annual Summer Night Carnival Event, Craftable item",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Clip On Stache", "image": "ClipOnStache.gif"},
+      {"name": "Stick On Tattoo", "image": "StickOnTattoo.gif"},
+      {"name": "Balloon Barbells", "image": "BalloonBarbells.gif"}
+    ]
   },
   {
     "image": "ClownEars.gif",
@@ -55054,7 +55130,7 @@
     "type": "pet_look",
     "description": "A bean sprout.",
     "designer": "Walten (12536)",
-    "location": "2019 Jestling Event",
+    "location": "Craftable item using 2019 Jestling Event loot",
     "retired": true,
     "craftable": [
       {
@@ -55081,7 +55157,7 @@
     "type": "collectible",
     "description": "A bean.",
     "designer": "Krisgoat (2)",
-    "location": "Craft item 2019 Jestling Event",
+    "location": "Craft item from the 2019 Jestling Event",
     "retired": true,
     "bonus": {}
   },
@@ -55093,7 +55169,7 @@
     "type": "collectible",
     "description": "A bean.",
     "designer": "Krisgoat (2)",
-    "location": "Craft item 2019 Jestling Event",
+    "location": "Craft item from the 2019 Jestling Event",
     "retired": true,
     "bonus": {}
   },
@@ -75718,8 +75794,8 @@
     "price": 1000,
     "type": "wearable",
     "description": "A little something to light your way.",
-    "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "designer": "xooemily (30010)",
+    "location": "2016 November Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -75732,8 +75808,8 @@
     "price": 1000,
     "type": "wearable",
     "description": "A collection of thoughtful poems.",
-    "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "designer": "xooemily (30010)",
+    "location": "2016 November Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -76919,7 +76995,7 @@
     "type": "wearable",
     "description": "A precious treasure from the Treasure Hunter set.",
     "designer": "darjeeling (31220)",
-    "location": "Unknown",
+    "location": "2016 August Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -76933,7 +77009,7 @@
     "type": "wearable",
     "description": "A precious treasure from the Treasure Hunter set.",
     "designer": "darjeeling (31220)",
-    "location": "Unknown",
+    "location": "2016 August Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -76947,7 +77023,7 @@
     "type": "wearable",
     "description": "A precious treasure from the Treasure Hunter set.",
     "designer": "darjeeling (31220)",
-    "location": "Unknown",
+    "location": "2016 August Battle Center",
     "retired": true,
     "bonus": {}
   },
@@ -76959,7 +77035,7 @@
     "type": "wearable",
     "description": "A precious treasure from the Treasure Hunter set.",
     "designer": "darjeeling (31220)",
-    "location": "Unknown",
+    "location": "2016 August Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -77679,7 +77755,7 @@
     "type": "food",
     "description": "Classic summertime beverage.",
     "designer": "witico (31651)",
-    "location": "Unknown",
+    "location": "2016 July Battle Center",
     "retired": true,
     "bonus": {
       "hunger": 20
@@ -77692,8 +77768,8 @@
     "price": 1000,
     "type": "wearable",
     "description": "Lime time!",
-    "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "designer": "Life (11644)",
+    "location": "2016 July Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -77706,8 +77782,8 @@
     "price": 1000,
     "type": "wearable",
     "description": "Lime time!",
-    "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "designer": "Life (11644)",
+    "location": "2016 July Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -77720,8 +77796,8 @@
     "price": 1000,
     "type": "wearable",
     "description": "A sweetly sour hair accessory.",
-    "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "designer": "Life (11644)",
+    "location": "2016 July Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -78282,7 +78358,7 @@
     "type": "collectible",
     "description": "Collectable stamp with a picture of the Sleepy Sunflower Minions.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Annual May Battle Center",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -78296,7 +78372,7 @@
     "type": "collectible",
     "description": "Collectable stamp with a picture of the Sleepy Sunflower baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Annual May Battle Center",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -78323,7 +78399,7 @@
     "type": "wearable",
     "description": "A rockin hair style.",
     "designer": "jestling (4372)",
-    "location": "Unknown",
+    "location": "2016 May Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -78337,7 +78413,7 @@
     "type": "wearable",
     "description": "A rockin jacket.",
     "designer": "jestling (4372)",
-    "location": "Unknown",
+    "location": "2016 May Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -78351,7 +78427,7 @@
     "type": "wearable",
     "description": "A rockin necklace.",
     "designer": "jestling (4372)",
-    "location": "Unknown",
+    "location": "2016 May Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -79091,7 +79167,7 @@
     "type": "collectible",
     "description": "In time, even a broken friendship can be mended.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item using 2016 March event loot",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -80666,7 +80742,7 @@
     "type": "collectible",
     "description": "A thin chain discovered in Misty Meadows. Could be a clue. Better hold onto it just in case.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Explore Area Misty Meadows 5",
     "retired": true,
     "bonus": {}
   },
@@ -81712,8 +81788,8 @@
     "price": 700,
     "type": "toy",
     "description": "Set of stones marked with runes.",
-    "designer": "cinnristreusel",
-    "location": "Unknown",
+    "designer": "cinnristreusel (3053)",
+    "location": "2015 November Battle Center",
     "retired": true,
     "bonus": {
       "mood": 70
@@ -81729,7 +81805,7 @@
     "type": "food",
     "description": "Perfectly preserved in frost.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 November Battle Center",
     "retired": true,
     "bonus": {
       "hunger": 5
@@ -81743,7 +81819,7 @@
     "type": "wearable",
     "description": "Deer antlers that resemble a tree in Fall.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 November Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -81757,7 +81833,7 @@
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Frost Guardian Minions.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Yearly November Battle Center",
     "retired": false,
     "bonus": {}
   },
@@ -81769,7 +81845,7 @@
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Frost Guardian baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Yearly November Battle Center",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -82087,7 +82163,7 @@
     "type": "collectible",
     "description": "Perfect scarecrow stuffing.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 October Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -82101,7 +82177,7 @@
     "type": "food",
     "description": "A special October snack.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 October Battle Center",
     "retired": true,
     "bonus": {
       "hunger": 6
@@ -82115,7 +82191,7 @@
     "type": "collectible",
     "description": "A jar of glowing fireflies but the lid is missing.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 October Battle Center",
     "retired": true,
     "bonus": {}
   },
@@ -82127,7 +82203,7 @@
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Scarecrow Minions.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Yearly October Battle Center",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -82141,7 +82217,7 @@
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Scarecrow baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Yearly October Battle Center",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -82221,8 +82297,8 @@
     "price": 100,
     "type": "toy",
     "description": "Simple handmade decoration for fall.",
-    "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "designer": "jane (17080)",
+    "location": "2015 September Battle Center",
     "retired": true,
     "bonus": {
       "mood": 10
@@ -82237,8 +82313,8 @@
     "price": 1000,
     "type": "collectible",
     "description": "Smells like a fresh fall breeze.",
-    "designer": "Uboa",
-    "location": "Unknown",
+    "designer": "Uboa (25101)",
+    "location": "2015 September Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -82251,8 +82327,8 @@
     "price": 1000,
     "type": "wearable",
     "description": "Kitty shaped hair decoration.",
-    "designer": "scamp",
-    "location": "Unknown",
+    "designer": "scamp (26816)",
+    "location": "2015 September Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -82266,7 +82342,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Tortle (6895)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {},
     "pet_image": "Autumnling.gif"
@@ -82279,7 +82355,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Asthmatic (16170)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {},
     "pet_image": "Black_Veil.gif"
@@ -82292,7 +82368,7 @@
     "type": "wearable",
     "description": "Cast a spell with maple leaves.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82304,7 +82380,7 @@
     "type": "wearable",
     "description": "Cast a spell with maple leaves.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82316,7 +82392,7 @@
     "type": "wearable",
     "description": "Cast a spell with maple leaves.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82328,7 +82404,7 @@
     "type": "wearable",
     "description": "Cast a spell with maple leaves.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82340,7 +82416,7 @@
     "type": "wearable",
     "description": "A look that may just cast a charm on you.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82352,7 +82428,7 @@
     "type": "wearable",
     "description": "A look that may just cast a charm on you.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82364,7 +82440,7 @@
     "type": "wearable",
     "description": "A look that may just cast a charm on you.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82376,7 +82452,7 @@
     "type": "wearable",
     "description": "Eye shirt confirmed.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82388,7 +82464,7 @@
     "type": "wearable",
     "description": "Dress up like a curious kitty.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82400,7 +82476,7 @@
     "type": "wearable",
     "description": "Dress up like a curious kitty.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82412,7 +82488,7 @@
     "type": "wearable",
     "description": "Dress up like a curious kitty.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82424,7 +82500,7 @@
     "type": "wearable",
     "description": "Dress up like a curious kitty.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82436,7 +82512,7 @@
     "type": "wearable",
     "description": "Dress up like a curious kitty.",
     "designer": "Uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82448,7 +82524,7 @@
     "type": "wearable",
     "description": "A charming toothy grin.",
     "designer": "sharkies (25994)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82460,7 +82536,7 @@
     "type": "wearable",
     "description": "Waterproof ears.",
     "designer": "sharkies (25994)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82472,7 +82548,7 @@
     "type": "wearable",
     "description": "A small pumpkin used as a hat.",
     "designer": "Rider (19433)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82484,7 +82560,7 @@
     "type": "wearable",
     "description": "Falling maple leaves.",
     "designer": "Rider (19433)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82496,7 +82572,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Rider (19433)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82508,7 +82584,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Rider (19433)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Seasonal Fall Antique Shop (30)",
     "retired": false,
     "bonus": {}
   },
@@ -82682,7 +82758,7 @@
     "type": "wearable",
     "description": "Mysterious fox mask found in the Phantom Forest.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 August Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -82736,7 +82812,7 @@
     "type": "collectible",
     "description": "Stamp with a picture of the Phoenix Fox Minions.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Yearly August Battle Center",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -82750,7 +82826,7 @@
     "type": "collectible",
     "description": "Stamp with a picture of the Phoenix Fox baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Yearly August Battle Center",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -83095,7 +83171,7 @@
     "type": "collectible",
     "description": "Stamp with a picture of the Squid Kid Minions.",
     "designer": "Krisgoat (2)",
-    "location": "July Battle Center",
+    "location": "Yearly July Battle Center",
     "retired": false,
     "bonus": {}
   },
@@ -83107,7 +83183,7 @@
     "type": "collectible",
     "description": "Stamp with a picture of the Squid Kid baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Yearly July Battle Center",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -83121,7 +83197,7 @@
     "type": "toy",
     "description": "Must have beach fun basics.",
     "designer": "Free_Willy (21628)",
-    "location": "Unknown",
+    "location": "2015 July Battle Center",
     "retired": true,
     "bonus": {
       "mood": 50
@@ -83137,7 +83213,7 @@
     "type": "toy",
     "description": "Professional hugger.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 July Battle Center",
     "retired": true,
     "bonus": {
       "mood": 60
@@ -83151,7 +83227,7 @@
     "type": "toy",
     "description": "Professional hugger.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 July Battle Center",
     "retired": true,
     "bonus": {
       "mood": 60
@@ -83231,11 +83307,16 @@
     "type": "collectible",
     "description": "Represents the bond between two people in love.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Zurora's Crafting Shop",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Wedding Band", "image": "Wedding_Band.gif"},
+      {"name": "Wedding Band", "image": "Wedding_Band.gif"},
+      {"name": "Wedding Cake", "image": "Wedding_Cake.gif"}
+    ]
   },
   {
     "image": "Joined_Rings_2.gif",
@@ -83245,11 +83326,17 @@
     "type": "collectible",
     "description": "Represents the bond between two people in love.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Zurora's Crafting Shop",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Wedding Ring", "image": "Wedding_Ring.gif"},
+      {"name": "Wedding Ring", "image": "Wedding_Ring.gif"},
+      {"name": "Wedding Cake", "image": "Wedding_Cake.gif"}
+    ]
+    
   },
   {
     "image": "Joined_Rings_1.gif",
@@ -83259,11 +83346,16 @@
     "type": "collectible",
     "description": "Represents the bond between two people in love.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Zurora's Crafting Shop",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Wedding Band", "image": "Wedding_Band.gif"},
+      {"name": "Wedding Ring", "image": "Wedding_Ring.gif"},
+      {"name": "Wedding Cake", "image": "Wedding_Cake.gif"}
+    ]
   },
   {
     "image": "Wedding_Band.gif",
@@ -83568,7 +83660,7 @@
     "price": 100000,
     "type": "wearable",
     "description": "Nautical fashion.",
-    "designer": "Nogalina",
+    "designer": "Nogalina (13205)",
     "location": "Summer Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {},
@@ -83596,7 +83688,7 @@
     "price": 100000,
     "type": "wearable",
     "description": "Nautical fashion.",
-    "designer": "Nogalina",
+    "designer": "Nogalina (13205)",
     "location": "Summer Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {},
@@ -83624,7 +83716,7 @@
     "price": 100000,
     "type": "wearable",
     "description": "Nautical fashion.",
-    "designer": "Nogalina",
+    "designer": "Nogalina (13205)",
     "location": "Summer Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {},
@@ -83638,8 +83730,8 @@
     "price": 100000,
     "type": "wearable",
     "description": "Nautical fashion.",
-    "designer": "Nogalina",
-    "location": "Unknown",
+    "designer": "Nogalina (13205)",
+    "location": "Summer Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -83666,7 +83758,7 @@
     "price": 100000,
     "type": "wearable",
     "description": "Nautical fashion.",
-    "designer": "Nogalina",
+    "designer": "Nogalina (13205)",
     "location": "Summer Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {},
@@ -84093,7 +84185,7 @@
     "price": 150000,
     "type": "usericon",
     "description": "Cute decoration for your display name.",
-    "designer": "Nogalina",
+    "designer": "Nogalina (13205)",
     "location": "Summer Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {},
@@ -84199,7 +84291,7 @@
     "price": 100000,
     "type": "food",
     "description": "Summer treat to beat the heat.",
-    "designer": "Nogalina",
+    "designer": "Nogalina (13205)",
     "location": "Summer Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
@@ -84469,7 +84561,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Nogalina (13205)",
-    "location": "Unknown",
+    "location": "2015 June Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -84483,7 +84575,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Nogalina (13205)",
-    "location": "Unknown",
+    "location": "2015 June Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -84497,7 +84589,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Nogalina (13205)",
-    "location": "Unknown",
+    "location": "2015 June Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -84511,7 +84603,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Nogalina (13205)",
-    "location": "Unknown",
+    "location": "2015 June Battle Center",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
@@ -84629,7 +84721,7 @@
     "type": "collectible",
     "description": "Shiny trophy won in Higher Or Lower.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Game Prize",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -84643,7 +84735,7 @@
     "type": "collectible",
     "description": "Shiny trophy won in Higher Or Lower.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Game Prize",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -84657,7 +84749,7 @@
     "type": "collectible",
     "description": "Shiny trophy won in Higher Or Lower.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Game Prize",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -84671,7 +84763,7 @@
     "type": "collectible",
     "description": "Shiny trophy won in Triple Scoop.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Game Prize",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -84685,7 +84777,7 @@
     "type": "collectible",
     "description": "Shiny trophy won in Triple Scoop.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Game Prize",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -84713,7 +84805,7 @@
     "type": "collectible",
     "description": "Shiny trophy won in Triple Scoop.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Game Prize",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -85689,7 +85781,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Explore Area Misty Meadows 4 during 2015 Jestling Event",
     "retired": true,
     "bonus": {
       "hunger": 50
@@ -85705,7 +85797,7 @@
     "type": "food",
     "description": "Trade these for valuable hunger points.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Explore Area Misty Meadows 4 during 2015 Jestling Event",
     "retired": true,
     "bonus": {
       "hunger": 30
@@ -85719,7 +85811,7 @@
     "type": "collectible",
     "description": "Just a little pillow.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Explore Area Misty Meadows 4 during 2015 Jestling Event",
     "retired": true,
     "bonus": {}
   },
@@ -85731,7 +85823,7 @@
     "type": "toy",
     "description": "Some kind of bootleg doll.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Explore Area Misty Meadows 4 during 2015 Jestling Event",
     "retired": true,
     "bonus": {
       "mood": 50
@@ -85747,7 +85839,7 @@
     "type": "collectible",
     "description": "Useless old sticker.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Explore Area Misty Meadows 4 during 2015 Jestling Event",
     "retired": true,
     "bonus": {}
   },
@@ -85944,7 +86036,7 @@
     "type": "food",
     "description": "Sweet smelling bundle of flowers.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Explore Area Misty Meadows 3",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -85958,7 +86050,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 March Battle Center",
     "retired": true,
     "bonus": {
       "hunger": 40
@@ -85974,7 +86066,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 March Battle Center",
     "retired": true,
     "bonus": {
       "hunger": 40
@@ -87522,7 +87614,7 @@
     "type": "collectible",
     "description": "Collectable stamp with a picture of the Cootie Baddy Minions.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Yearly February Battle Center",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
@@ -87536,11 +87628,16 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "Zurora's Crafting Shop",
     "retired": true,
     "bonus": {},
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "craftable": [
+      {"name": "Blossom", "image": "Blossom.gif"},
+      {"name": "Cherries", "image": "Cherries.gif"},
+      {"name": "Cherry Leaf", "image": "Cherry_Leaf.gif"}
+    ]
   },
   {
     "image": "Cherry_Leaf.gif",
@@ -87550,7 +87647,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 February Battle Center",
     "retired": true,
     "bonus": {
       "hunger": 30
@@ -87566,7 +87663,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 February Battle Center",
     "retired": true,
     "bonus": {
       "hunger": 30
@@ -87582,7 +87679,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Unknown",
+    "location": "2015 February Battle Center",
     "retired": true,
     "bonus": {
       "hunger": 30
