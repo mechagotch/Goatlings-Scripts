@@ -8153,7 +8153,7 @@
     "type": "toy",
     "description": "Special 2023 Monster Masquerade plush.",
     "designer": "Lostysaur (8901) and r00p (20210)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item using 2023 Monster Masquerade loot",
     "retired": false,
     "bonus": {
       "mood": 50
@@ -8161,9 +8161,9 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": [
-      "Deathly Growler Metal Guitar",
-      "Deathly Growler Drumsticks",
-      "Deathly Growler Guitar Pick"
+      {"name": "Deathly Growler Metal Guitar", "image": "DeathlyGrowlerMetalGuitar.gif"},
+      {"name": "Deathly Growler Drumsticks", "image": "DeathlyGrowlerDrumsticks.gif"},
+      {"name": "Deathly Growler Guitar Pick", "image": "DeathlyGrowlerGuitarPick.gif"}
     ]
   },
   {
@@ -8453,7 +8453,7 @@
     "type": "toy",
     "description": "Special 2023 Monster Masquerade plush.",
     "designer": "AiMcsweets (52144)",
-    "location": "Zurora's Crafting Shop, 2023 Monster Masquerade",
+    "location": "Craftable item using 2023 Monster Masquerade loot",
     "retired": true,
     "bonus": {
       "mood": 50
@@ -8508,7 +8508,7 @@
     "type": "toy",
     "description": "Special 2023 Monster Masquerade plush.",
     "designer": "IWasBored (19566)",
-    "location": "Zurora's Crafting Shop, Craftable 2023 Monster Masquerade",
+    "location": "Craftable item using 2023 Monster Masquerade loot",
     "craftable": [
       {"name": "Deathly Growler Metal Guitar", "image": "DeathlyGrowlerMetalGuitar.gif"},
       {"name": "Deathly Growler Drumsticks", "image": "DeathlyGrowlerDrumsticks.gif"},
@@ -8563,7 +8563,7 @@
     "type": "container",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Craftable item using Annual October Battle Center loot",
     "retired": false,
     "bonus": {},
     "diamond_dust": false,
