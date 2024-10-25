@@ -105547,10 +105547,11 @@
   {
     "image": "item_116.gif",
     "name": "Speed Gemdrop",
+    "type": "speed_inc",
     "date": "2012-01-31T00:00:00.000Z",
     "designer": "Krisgoat (2)",
     "location": "Inside a 'Holiday Gift Bag' 2012 Free Gift",
-    "description": "",
+    "description": "Give this Gemdrop to your Goatling to raise their speed by 1 point.",
     "retired": true,
     "diamond_dust": true,
     "contains": false,
