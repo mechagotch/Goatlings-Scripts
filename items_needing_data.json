@@ -133,7 +133,7 @@
         "image": "FairyGhostmotherAD.gif"
       },
       {
-        "name": "Doppleganger AD",
+        "name": "Doppelganger AD",
         "image": "DopplegangerAD.gif"
       },
       {
@@ -260,7 +260,7 @@
   },
   {
     "image": "DopplegangerAD.gif",
-    "name": "Doppleganger AD",
+    "name": "Doppelganger AD",
     "date": "2024-10-16T00:00:00.000Z",
     "price": 300000,
     "type": "pet_look",
