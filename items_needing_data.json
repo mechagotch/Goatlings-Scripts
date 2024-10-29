@@ -37413,7 +37413,7 @@
     "price": 1000,
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Tulip Tender baddy.",
-    "designer": "Goromi",
+    "designer": "21kkn (70313)",
     "location": "2021 Battle Center",
     "retired": false,
     "diamond_dust": false,
@@ -95355,6 +95355,7 @@
     "location": "Battle Weapons Shop (8)",
     "retired": false,
     "bonus": {
+      "strength": 7,
       "durability": 70
     }
   },
