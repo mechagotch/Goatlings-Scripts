@@ -2137,12 +2137,14 @@
     "name": "Autumn Dragon Eyes",
     "date": "2024-09-14T00:00:00.000Z",
     "designer": "chizumaki (34208) and Snow (3651)",
-    "location": "From 'Autumn Dragon Egg'",
+    "location": "Inside an 'Autumn Dragon Egg' from the 2024 Fall Diamond Dust Special",
     "description": "",
     "retired": "",
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "AutumnDragonBG.gif",
