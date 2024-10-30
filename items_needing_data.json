@@ -97711,8 +97711,7 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false,
-    "pet_image": "ChalkyHearts"
+    "contains": false
   },
   {
     "image": "item_283.gif",
