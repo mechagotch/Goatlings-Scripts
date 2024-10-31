@@ -69447,7 +69447,7 @@
     "designer": "Pit (16043)",
     "location": "Inside a 'Winter Fir Lucky Box' from the 2016 Winter Diamond Dust Special",
     "retired": true,
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -69483,7 +69483,7 @@
     "designer": "Pit (16043)",
     "location": "Inside a 'Winter Fir Lucky Box' from the 2016 Winter Diamond Dust Special",
     "retired": true,
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
