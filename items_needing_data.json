@@ -21163,7 +21163,7 @@
     "contains": false
   },
   {
-    "image": "MagicHatAD.gif",
+    "image": "MagicHat.gif",
     "name": "Magic Hat",
     "date": "2022-07-23T00:00:10.000Z",
     "price": 1000,
@@ -21171,8 +21171,7 @@
     "description": "",
     "designer": "Berrymilk (58926)",
     "location": "Seasonal Explore Area Midnight Carnival 1",
-    "retired": false,
-    "pet_image": "MagicHat"
+    "retired": false
   },
   {
     "image": "PocketWatch.gif",
@@ -43615,8 +43614,7 @@
     "retired": false,
     "bonus": {
       "hunger": 20
-    },
-    "pet_image": "StrawBerrymilk (58926)"
+    }
   },
   {
     "image": "MilkBottle.gif",
