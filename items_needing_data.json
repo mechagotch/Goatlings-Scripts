@@ -1162,7 +1162,7 @@
     "type": "container",
     "description": "Goatling drop rate: 21.4%. HA Buddy item drop rate: 14%.",
     "designer": "BerryMilk (58926)",
-    "location": "2024 Monster Masquerade Diamond Dust Shop",
+    "location": "2024 Monster Masquerade",
     "diamond_dust": true,
     "retired": false,
     "contains": [
@@ -1367,7 +1367,7 @@
     "type": "container",
     "description": "Goatling drop rate: 21.4%. HA Buddy item drop rate: 14%.",
     "designer": "r00p (20210)",
-    "location": "2024 Monster Masquerade Diamond Dust Shop",
+    "location": "2024 Monster Masquerade",
     "diamond_dust": true,
     "retired": false,
     "contains": [
@@ -25478,7 +25478,7 @@
     "designer": "pukaparade (1958)",
     "location": "Inside a 'Love Letters Post Box' from the 2022 Sweethearts Celebration",
     "retired": true,
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -25491,7 +25491,7 @@
     "designer": "pukaparade (1958)",
     "location": "Inside a 'Love Letters Post Box' from the 2022 Sweethearts Celebration",
     "retired": true,
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -25504,7 +25504,7 @@
     "designer": "pukaparade (1958)",
     "location": "Inside a 'Love Letters Post Box' from the 2022 Sweethearts Celebration",
     "retired": true,
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -25517,7 +25517,7 @@
     "designer": "pukaparade (1958)",
     "location": "Inside a 'Love Letters Post Box' from the 2022 Sweethearts Celebration",
     "retired": true,
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -25530,6 +25530,7 @@
     "designer": "pukaparade (1958)",
     "location": "Inside a 'Love Letters Post Box' from the 2022 Sweethearts Celebration",
     "retired": true,
+    "diamond_dust": true,
     "pet_image": "LoveLetters.gif"
   },
   {
