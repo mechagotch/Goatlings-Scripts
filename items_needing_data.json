@@ -61187,6 +61187,7 @@
     "designer": "hoopla (23347)",
     "location": "Inside a 'Candy Heart Box' from the 2018 Sweethearts Celebration",
     "retired": true,
+    "diamond_dust": true,
     "pet_image": "CandyHeart.gif"
   },
   {
@@ -98891,7 +98892,7 @@
     }
   },
   {
-    "image": "item_5.gif",
+    "image": "item_205.gif",
     "name": "Revolver",
     "date": "2012-01-31T00:00:00.000Z",
     "price": 6000,
