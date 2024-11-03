@@ -66,6 +66,9 @@
     "location": "Craftable using items from the 2024 Monster Masquerade",
     "retired": false,
     "diamond_dust": false,
+    "bonus": {
+      "mood": 50
+    },
     "craftable": [
       {"name": "Big Bad Red Plush", "image": "BigBadRedPlush.gif"},
       {"name": "Abyssal Plush", "image": "AbyssalPlush.gif"},
