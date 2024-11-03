@@ -48859,7 +48859,7 @@
     "designer": "r00p (20210)",
     "location": "Inside a 'Fish Bag' from the 2019 Summer Night Carnival Diamond Dust Special",
     "retired": true,
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -48871,7 +48871,8 @@
     "description": "Summer Night Carnival Fish Scoop game prize!",
     "designer": "r00p (20210)",
     "location": "Inside a 'Fish Bag' from the 2019 Summer Night Carnival Diamond Dust Special",
-    "retired": true},
+    "retired": true,
+    "diamond_dust": true},
   {
     "image": "BettaEyes.gif",
     "name": "Betta Eyes",
@@ -48882,7 +48883,7 @@
     "designer": "r00p (20210)",
     "location": "Inside a 'Fish Bag' from the 2019 Summer Night Carnival Diamond Dust Special",
     "retired": true,
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -48898,7 +48899,7 @@
     "bonus": {
       "mood": 50
     },
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -48913,7 +48914,8 @@
     "retired": true,
     "bonus": {
       "mood": 50
-    }
+    },
+    "diamond_dust": true
   },
   {
     "image": "GoldKoiPlush.gif",
@@ -48927,7 +48929,8 @@
     "retired": true,
     "bonus": {
       "mood": 50
-    }
+    },
+    "diamond_dust": true
   },
   {
     "image": "KoiPlush.gif",
@@ -48941,7 +48944,8 @@
     "retired": true,
     "bonus": {
       "mood": 50
-    }
+    },
+    "diamond_dust": true
   },
   {
     "image": "MiniGoldfishPlush.gif",
@@ -48956,7 +48960,7 @@
     "bonus": {
       "mood": 50
     },
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -48972,7 +48976,7 @@
     "bonus": {
       "mood": 50
     },
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -48987,7 +48991,8 @@
     "retired": true,
     "bonus": {
       "mood": 50
-    }
+    },
+    "diamond_dust": true
   },
   {
     "image": "TicketVendorAD.gif",
