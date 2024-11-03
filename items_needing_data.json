@@ -1,5 +1,61 @@
 [
   {
+    "name": "Sugar Star Cluster Bag",
+    "image": "SugarStarCusterBag.gif",
+    "date": "2024-11-02T00:00:10.000Z",
+    "price": 30000,
+    "type": "toy",
+    "description": "A rare glittering bag of magical candy. Open to receive 30,000, 60,000, or 90,000 Sugar Stars! Item drop rate: 1/3 chance each.",
+    "designer": "Krisgoat (2)",
+    "location": "Arcade, Random Events, and Fundraisers",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": [
+      {"name": "30K Sugar Star Cluster", "image": "30KSugarStarCluster.gif"},
+      {"name": "60K Sugar Star Cluster", "image": "60KSugarStarCluster.gif"},
+      {"name": "90K Sugar Star Cluster", "image": "90KSugarStarCluster.gif"}
+    ]
+  },
+  {
+    "name": "90K Sugar Star Cluster",
+    "image": "90KSugarStarCluster.gif",
+    "date": "2024-11-02T00:00:10.000Z",
+    "price": 90000,
+    "type": "collectible",
+    "description": "A rare glittering bag of magical candy. Pawn to receive 90,000 Sugar Stars!",
+    "designer": "Krisgoat (2)",
+    "location": "Inside a 'Sugar Star Cluster Bag' from the Arcade, Random Events, and Fundraisers",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "name": "60K Sugar Star Cluster",
+    "image": "60KSugarStarCluster.gif",
+    "date": "2024-11-02T00:00:10.000Z",
+    "price": 60000,
+    "type": "collectible",
+    "description": "A rare glittering bag of magical candy. Pawn to receive 60,000 Sugar Stars!",
+    "designer": "Krisgoat (2)",
+    "location": "Inside a 'Sugar Star Cluster Bag' from the Arcade, Random Events, and Fundraisers",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "name": "30K Sugar Star Cluster",
+    "image": "30KSugarStarCluster.gif",
+    "date": "2024-11-02T00:00:10.000Z",
+    "price": 30000,
+    "type": "collectible",
+    "description": "A rare glittering bag of magical candy. Pawn to receive 30,000 Sugar Stars!",
+    "designer": "Krisgoat (2)",
+    "location": "Inside a 'Sugar Star Cluster Bag' from the Arcade, Random Events, and Fundraisers",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
     "name": "Grimmgill Plush",
     "image": "GrimmgillPlush.gif",
     "date": "2024-11-01T00:00:10.000Z",
