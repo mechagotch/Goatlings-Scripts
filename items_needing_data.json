@@ -1,5 +1,92 @@
 [
   {
+    "name": "Marshmallow Bag",
+    "image": "MarshmallowBag.gif",
+    "date": "2024-11-04T00:00:10.000Z",
+    "price": 100,
+    "type": "container",
+    "description": "Open to receive one marshmallow. ",
+    "designer": "Mercedes (31786)",
+    "location": "2024 November Battle Center",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": [
+      {"name": "Marshmallow", "image": "Marshmallow.gif"}
+    ]
+  },
+  {
+    "name": "Marshmallow",
+    "image": "Marshmallow.gif",
+    "date": "2024-11-04T00:00:10.000Z",
+    "price": 100,
+    "type": "food",
+    "description": "",
+    "designer": "Mercedes (31786)",
+    "location": "Inside a 'Marshmallow Bag' from the 2024 November Battle Center",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false,
+    "bonus": 
+    {"hunger": 10}
+  },
+  {
+    "name": "Graham Crackers",
+    "image": "GrahamCrackers.gif",
+    "date": "2024-11-04T00:00:10.000Z",
+    "price": 100,
+    "type": "food",
+    "description": "",
+    "designer": "Mercedes (31786)",
+    "location": "2024 November Battle Center",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false,
+    "bonus": 
+    {"hunger": 10}
+  },
+  {
+    "name": "Chocolate Bar",
+    "image": "ChocolateBar.gif",
+    "date": "2024-11-04T00:00:10.000Z",
+    "price": 100,
+    "type": "food",
+    "description": "",
+    "designer": "Mercedes (31786)",
+    "location": "2024 November Battle Center",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false,
+    "bonus": 
+    {"hunger": 10}
+  },
+  {
+    "name": "Toasty Marshmallow Base",
+    "image": "ToastyMarshmallowBase.gif",
+    "date": "2024-11-04T00:00:10.000Z",
+    "price": 100,
+    "type": "wearable",
+    "description": "",
+    "designer": "Mercedes (31786)",
+    "location": "2024 November Battle Center",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "name": "Toasty Marshmallow AD",
+    "image": "ToastyMarshmallowAD.gif",
+    "date": "2024-11-04T00:00:10.000Z",
+    "price": 1000,
+    "type": "pet_look",
+    "description": "",
+    "designer": "Mercedes (31786)",
+    "location": "2024 November Battle Center",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false,
+    "pet_image": "ToastyMarshmallow.gif"
+  },
+  {
     "name": "Sugar Star Cluster Bag",
     "image": "SugarStarClusterBag.gif",
     "date": "2024-11-02T00:00:10.000Z",
@@ -1081,7 +1168,7 @@
     "description": "Small craft item.",
     "designer": "Berrymilk (58926) and r00p (20210)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1094,7 +1181,7 @@
     "description": "Small craft item.",
     "designer": "Berrymilk (58926)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1107,7 +1194,7 @@
     "description": "Small craft item.",
     "designer": "Berrymilk (58926)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1120,7 +1207,7 @@
     "description": "Small craft item.",
     "designer": "Berrymilk (58926)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1133,7 +1220,7 @@
     "description": "Small craft item.",
     "designer": "r00p (20210)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1146,7 +1233,7 @@
     "description": "Small craft item.",
     "designer": "r00p (20210)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1159,7 +1246,7 @@
     "description": "Small craft item.",
     "designer": "r00p (20210)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1182,7 +1269,7 @@
     "description": "",
     "designer": "MidWinter (67666)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1195,7 +1282,7 @@
     "description": "",
     "designer": "MidWinter (67666)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1208,7 +1295,7 @@
     "description": "",
     "designer": "MidWinter (67666)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1221,7 +1308,7 @@
     "description": "",
     "designer": "MidWinter (67666)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "contains": false
   },
@@ -1234,7 +1321,7 @@
     "description": "",
     "designer": "MidWinter (67666)",
     "location": "2024 October Battle Center",
-    "retired": false,
+    "retired": true,
     "pet_image": "PhantomFiance.gif"
   },
   {
