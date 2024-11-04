@@ -5,6 +5,8 @@
 // @author       mechagotch
 // @match        https://www.goatlings.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=goatlings.com
+// @downloadURL  https://raw.githubusercontent.com/automalix/Goatlings-Scripts/refs/heads/master/item_encyclopedia.js
+// @updateURL    https://raw.githubusercontent.com/automalix/Goatlings-Scripts/refs/heads/master/item_encyclopedia.js
 // @grant        none
 // ==/UserScript==
 
