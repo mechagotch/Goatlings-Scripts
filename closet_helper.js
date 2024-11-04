@@ -13,6 +13,8 @@
 // @match        https://www.goatlings.com/shops/view/25
 // @match        https://www.goatlings.com/inventory/view_action/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=goatlings.com
+// @downloadURL  https://raw.githubusercontent.com/automalix/Goatlings-Scripts/refs/heads/master/closet_helper.js
+// @updateURL    https://raw.githubusercontent.com/automalix/Goatlings-Scripts/refs/heads/master/closet_helper.js
 // @grant        none
 // ==/UserScript==
 
