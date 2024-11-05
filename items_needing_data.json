@@ -30040,7 +30040,7 @@
     }
   },
   {
-    "image": "StrawBerrymilkFace.gif",
+    "image": "StrawberryMilkFace.gif",
     "name": "Strawberry Milk Face",
     "date": "2021-09-05T00:00:10.000Z",
     "price": 2100,
@@ -30050,7 +30050,7 @@
     "location": "HA Buddy Face Space (20)",
     "retired": false},
   {
-    "image": "StrawBerrymilkEars.gif",
+    "image": "StrawberryMilkEars.gif",
     "name": "Strawberry Milk Ears",
     "date": "2021-09-05T00:00:10.000Z",
     "price": 2000,
@@ -30060,7 +30060,7 @@
     "location": "HA Buddy Hats (23)",
     "retired": false},
   {
-    "image": "StrawBerrymilkCollar.gif",
+    "image": "StrawberryMilkCollar.gif",
     "name": "Strawberry Milk Collar",
     "date": "2021-09-05T00:00:10.000Z",
     "price": 1000,
@@ -30070,7 +30070,7 @@
     "location": "HA Buddy Boutique (12)",
     "retired": false},
   {
-    "image": "StrawBerrymilkBase.gif",
+    "image": "StrawberryMilkBase.gif",
     "name": "Strawberry Milk Base",
     "date": "2021-09-05T00:00:10.000Z",
     "price": 3000,
@@ -30078,9 +30078,10 @@
     "description": "",
     "designer": "viator (85985)",
     "location": "HA Buddy Base Place (21)",
-    "retired": false},
+    "retired": false
+  },
   {
-    "image": "StrawBerrymilkAD.gif",
+    "image": "StrawberryMilkAD.gif",
     "name": "Strawberry Milk AD",
     "date": "2021-09-05T00:00:10.000Z",
     "price": 100000,
