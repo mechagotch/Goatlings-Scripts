@@ -81020,7 +81020,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Hairdo_12.gif",
@@ -81032,7 +81034,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Hairdo_11.gif",
@@ -81070,7 +81074,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Hairdo_8.gif",
@@ -81082,7 +81088,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Hairdo_7.gif",
@@ -81094,7 +81102,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Hairdo_6.gif",
@@ -81106,7 +81116,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Hairdo_5.gif",
@@ -81118,7 +81130,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Hairdo_4.gif",
@@ -81143,7 +81157,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Hairdo_2.gif",
@@ -81168,7 +81184,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Face_8.gif",
@@ -81193,7 +81211,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Face_6.gif",
@@ -81218,7 +81238,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Face_4.gif",
@@ -81230,7 +81252,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Face_3.gif",
@@ -81268,7 +81292,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "GU_Sweater_3.gif",
@@ -81281,7 +81307,8 @@
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 58000000
   },
   {
     "image": "GU_Sweater_2.gif",
@@ -81294,7 +81321,8 @@
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 40000000
   },
   {
     "image": "GU_Sweater_1.gif",
@@ -81307,7 +81335,8 @@
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 37000000
   },
   {
     "image": "White_Flower_Crown.gif",
