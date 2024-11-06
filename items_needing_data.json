@@ -12488,7 +12488,7 @@
     "description": "",
     "designer": "r00p (20210)",
     "location": "Inside a 'Coffee Box' from the Justice June Charity Fundraiser",
-    "retired": false,
+    "retired": true,
     "bonus": {
       "hunger": 50
     }
@@ -12507,7 +12507,7 @@
       "strength": 3,
       "stamina": 30
     },
-    "diamond_dust": false,
+    "diamond_dust": true,
     "contains": false
   },
   {
@@ -12520,8 +12520,9 @@
     "designer": "r00p (20210)",
     "location": "Inside a 'Coffee Box' from the Justice June Charity Fundraiser",
     "retired": false,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 19000000
   },
   {
     "image": "MewchaFriend.gif",
@@ -12533,8 +12534,9 @@
     "designer": "r00p (20210)",
     "location": "Inside a 'Coffee Box' from the Justice June Charity Fundraiser",
     "retired": false,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 3000000
   },
   {
     "image": "CatpuccinoFriend.gif",
@@ -12546,20 +12548,24 @@
     "designer": "r00p (20210)",
     "location": "Inside a 'Coffee Box' from the Justice June Charity Fundraiser",
     "retired": false,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 12000000
   },
   {
     "image": "JusticeRADTop.gif",
     "name": "Justice RAD Top",
     "date": "2023-06-07T00:00:10.000Z",
     "designer": "r00p (20210)",
-    "location": "Inside 'Coffee Box'",
+    "location": "Inside a 'Coffee Box' from the Justice June Charity Fundraiser",
     "description": "",
     "retired": false,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable",
+    "usershop_price": 900000
   },
   {
     "image": "JusticeRADStars.gif",
@@ -12571,8 +12577,9 @@
     "designer": "r00p (20210)",
     "location": "Inside a 'Coffee Box' from the Justice June Charity Fundraiser",
     "retired": false,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 3500000
   },
   {
     "image": "TransPrideRibbon.gif",
@@ -76000,7 +76007,8 @@
     "location": "Inside an 'Essence Of Sweet Pea' from the 2016 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 28000000
   },
   {
     "image": "Sweet_Pea_Flowers.gif",
@@ -76012,7 +76020,10 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 5000,
+    "type": "wearable",
+    "usershop_price": 40000000
   },
   {
     "image": "Sweet_Pea_Ears.gif",
@@ -76025,7 +76036,8 @@
     "location": "Inside an 'Essence Of Sweet Pea' from the 2016 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 40000000
   },
   {
     "image": "Sweet_Pea_Hair.gif",
@@ -76037,7 +76049,8 @@
     "designer": "r00p (20210)",
     "location": "Inside an 'Essence of Sweet Pea' from the 2016 Spring Diamond Dust Box Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 15500000
 },
   {
     "image": "Sweet_Pea_Hood.gif",
@@ -76050,7 +76063,8 @@
     "location": "Inside an 'Essence Of Sweet Pea' from the 2016 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 5700000
   },
   {
     "image": "Sweet_Pea_Cape.gif",
@@ -76061,7 +76075,9 @@
     "description": "Part of the limited edition Sweet Pea set.",
     "designer": "r00p (20210)",
     "location": "Inside an 'Essence Of Sweet Pea' from the 2016 Spring Diamond Dust Special",
-    "retired": true
+    "retired": true,
+    "diamond_dust": true,
+    "usershop_price": 10000000
 },
   {
     "image": "Lily_Of_The_Valley_AD.gif",
