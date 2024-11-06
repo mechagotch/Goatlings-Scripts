@@ -1,5 +1,44 @@
 [
   {
+    "name": "White Grimmgill Hood",
+    "image": "WhiteGrimmgillHood.gif",
+    "date": "2024-11-05T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "Froggio (46777) and r00p (20210)",
+    "location": "HA Buddy Boutique (12)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "name": "Teal Grimmgill Hood",
+    "image": "TealGrimmgillHood.gif",
+    "date": "2024-11-05T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "Froggio (46777) and r00p (20210)",
+    "location": "HA Buddy Boutique (12)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "name": "Red Grimmgill Hood",
+    "image": "RedGrimmgillHood.gif",
+    "date": "2024-11-05T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "Froggio (46777) and r00p (20210)",
+    "location": "HA Buddy Boutique (12)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
     "name": "Grimmgill Face",
     "image": "GrimmgillFace.gif",
     "date": "2024-11-04T00:00:10.000Z",
