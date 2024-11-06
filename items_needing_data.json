@@ -77561,7 +77561,7 @@
     "contains": false
   },
   {
-    "image": "Winter_Friends_Lucky_Box.gif",
+    "image": "Winter%20Friends%20Lucky%20Box.gif",
     "name": "Winter Friends Lucky Box",
     "date": "2015-12-26T00:00:10.000Z",
     "price": 5000,
@@ -77574,28 +77574,29 @@
     "contains": [
       {
         "name": "Snow Leopard",
-        "image": "Snow_Leopard.gif"
+        "image": "Snow%20Leopard.gif"
       },
       {
         "name": "Snow Bunnies",
-        "image": "Snow_Bunnies.gif"
+        "image": "Snow%20Bunnies.gif"
       },
       {
         "name": "Polar Bear",
-        "image": "Polar_Bear.gif"
+        "image": "Polar%20Bear.gif"
       },
       {
         "name": "Polar Bear Cubs",
-        "image": "Polar_Bear_Cubs.gif"
+        "image": "Polar%20Bear%20Cubs.gif"
       },
       {
         "name": "Penguin Pal",
-        "image": "Penguin_Pal.gif"
+        "image": "Penguin%20Pal.gif"
       }
-    ]
+    ],
+    "usershop_price": 20000000
   },
   {
-    "image": "Snow_Leopard.gif",
+    "image": "Snow%20Leopard.gif",
     "name": "Snow Leopard",
     "date": "2015-12-26T00:00:10.000Z",
     "price": 5000,
@@ -77604,10 +77605,11 @@
     "designer": "Caliber (13970)",
     "location": "Inside a 'Winter Friends Lucky Box' Winter 2015 Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 30000000
 },
   {
-    "image": "Snow_Bunnies.gif",
+    "image": "Snow%20Bunnies.gif",
     "name": "Snow Bunnies",
     "date": "2015-12-26T00:00:10.000Z",
     "price": 5000,
@@ -77616,10 +77618,11 @@
     "designer": "Caliber (13970)",
     "location": "Inside a 'Winter Friends Lucky Box' Winter 2015 Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 15000000
 },
   {
-    "image": "Polar_Bear.gif",
+    "image": "Polar%20Bear.gif",
     "name": "Polar Bear",
     "date": "2015-12-26T00:00:10.000Z",
     "price": 5000,
@@ -77628,10 +77631,11 @@
     "designer": "Caliber (13970)",
     "location": "Inside a 'Winter Friends Lucky Box' from the 2015 Winter Diamond Dust Special",
     "retired": true,
-    "diamond_dust": true
+    "diamond_dust": true,
+    "usershop_price": 8000000
 },
   {
-    "image": "Polar_Bear_Cubs.gif",
+    "image": "Polar%20Bear%20Cubs.gif",
     "name": "Polar Bear Cubs",
     "date": "2015-12-26T00:00:10.000Z",
     "price": 5000,
@@ -77641,10 +77645,11 @@
     "location": "Inside a 'Winter Friends Lucky Box' from the 2015 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 9400000
   },
   {
-    "image": "Penguin_Pal.gif",
+    "image": "Penguin%20Pal.gif",
     "name": "Penguin Pal",
     "date": "2015-12-26T00:00:10.000Z",
     "price": 5000,
@@ -77654,7 +77659,8 @@
     "location": "Inside a 'Winter Friends Lucky Box' from the 2015 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 9000000
   },
   {
     "image": "Ninja_AD.gif",
@@ -80918,7 +80924,9 @@
     "description": "Portable magic.",
     "designer": "Krisgoat (2)",
     "location": "2015 May-August Diamond Dust Shop",
-    "retired": true
+    "retired": true,
+    "usershop_price": 54000000,
+    "diamond_dust": true
 },
   {
     "image": "GU_Glasses.gif",
@@ -80930,8 +80938,9 @@
     "designer": "Krisgoat (2)",
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 60000000
   },
   {
     "image": "GU_Pennant_2.gif",
@@ -80943,8 +80952,9 @@
     "designer": "Krisgoat (2)",
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 30000000
   },
   {
     "image": "GU_Pennant_1.gif",
@@ -80956,8 +80966,9 @@
     "designer": "Krisgoat (2)",
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 30000000
   },
   {
     "image": "Graduation_Cap_3.gif",
@@ -80981,8 +80992,9 @@
     "designer": "Krisgoat (2)",
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 99000000
   },
   {
     "image": "Graduation_Cap_1.gif",
@@ -80994,8 +81006,9 @@
     "designer": "Krisgoat (2)",
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 100000000
   },
   {
     "image": "GU_Hairdo_14.gif",
@@ -81007,8 +81020,9 @@
     "designer": "Krisgoat (2)",
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_13.gif",
@@ -81022,7 +81036,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_12.gif",
@@ -81036,7 +81051,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_11.gif",
@@ -81049,7 +81065,8 @@
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_10.gif",
@@ -81061,8 +81078,9 @@
     "designer": "Krisgoat (2)",
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_9.gif",
@@ -81076,7 +81094,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_8.gif",
@@ -81090,7 +81109,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_7.gif",
@@ -81104,7 +81124,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_6.gif",
@@ -81118,7 +81139,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_5.gif",
@@ -81132,7 +81154,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_4.gif",
@@ -81144,8 +81167,9 @@
     "designer": "Krisgoat (2)",
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_3.gif",
@@ -81159,7 +81183,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_2.gif",
@@ -81171,8 +81196,9 @@
     "designer": "Krisgoat (2)",
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
-    "diamond_dust": false,
-    "contains": false
+    "diamond_dust": true,
+    "contains": false,
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Hairdo_1.gif",
@@ -81186,7 +81212,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 25000000
   },
   {
     "image": "GU_Face_8.gif",
@@ -81199,7 +81226,8 @@
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 15000000
   },
   {
     "image": "GU_Face_7.gif",
@@ -81213,7 +81241,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 15000000
   },
   {
     "image": "GU_Face_6.gif",
@@ -81226,7 +81255,8 @@
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 15000000
   },
   {
     "image": "GU_Face_5.gif",
@@ -81240,7 +81270,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 15000000
   },
   {
     "image": "GU_Face_4.gif",
@@ -81254,7 +81285,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 15000000
   },
   {
     "image": "GU_Face_3.gif",
@@ -81267,7 +81299,8 @@
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 15000000
   },
   {
     "image": "GU_Face_2.gif",
@@ -81280,7 +81313,8 @@
     "location": "2015 May-August Diamond Dust Shop",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 15000000
   },
   {
     "image": "GU_Face_1.gif",
@@ -81294,7 +81328,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 15000000
   },
   {
     "image": "GU_Sweater_3.gif",
