@@ -28491,7 +28491,9 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "NocturnalNinjaHair.gif",
@@ -28568,7 +28570,9 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "SpaceFriendUFOs.gif",
