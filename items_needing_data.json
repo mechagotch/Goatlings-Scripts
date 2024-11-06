@@ -72454,9 +72454,10 @@
     "type": "pet_look",
     "description": "Greetings little one. My, don't we look terrifying? Hahaha!",
     "designer": "Krisgoat (2)",
-    "location": "Explore Area Eerie Estate 2",
+    "location": "Explore Area Eerie Estate 2 during the 2016 Monster Masquerade",
     "retired": true,
-    "pet_image": "HauntedPortrait.gif"
+    "pet_image": "HauntedPortrait.gif",
+    "usershop_price": 150000000
   },
   {
     "image": "Treat_Bucket.gif",
@@ -72830,7 +72831,7 @@
     "contains": false
   },
   {
-    "image": "Cinnawitch_Box.gif",
+    "image": "Cinnawitch Box.gif",
     "name": "Cinnawitch Box",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72841,17 +72842,17 @@
     "retired": true,
     "diamond_dust": true,
     "contains": [
-      {"name": "Cinnawitch Staff", "image": "Cinnawitch_Staff.gif"},
-      {"name": "Cinnawitch Hat", "image": "Cinnawitch_Hat.gif"},
-      {"name": "Cinnawitch Hair", "image": "Cinnawitch_Hair.gif"},
-      {"name": "Cinnawitch Face", "image": "Cinnawitch_Face.gif"},
-      {"name": "Cinnawitch Cloak", "image": "Cinnawitch_Cloak.gif"},
-      {"name": "Cinnawitch AD", "image": "Cinnawitch_AD.gif"}
+      {"name": "Cinnawitch Staff", "image": "Cinnawitch Staff.gif"},
+      {"name": "Cinnawitch Hat", "image": "Cinnawitch Hat.gif"},
+      {"name": "Cinnawitch Hair", "image": "Cinnawitch Hair.gif"},
+      {"name": "Cinnawitch Face", "image": "Cinnawitch Face.gif"},
+      {"name": "Cinnawitch Cloak", "image": "Cinnawitch Cloak.gif"},
+      {"name": "Cinnawitch AD", "image": "Cinnawitch AD.gif"}
     ]
     
   },
   {
-    "image": "Cinnawitch_Hat.gif",
+    "image": "Cinnawitch Hat.gif",
     "name": "Cinnawitch Hat",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72861,10 +72862,11 @@
     "location": "Inside a 'Cinnawitch Box' from the 2016 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 22000000
   },
   {
-    "image": "Cinnawitch_Face.gif",
+    "image": "Cinnawitch Face.gif",
     "name": "Cinnawitch Face",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72872,10 +72874,11 @@
     "description": "Sweet kindness will determine who is the most marvelous Monster Masquerader!",
     "designer": "Ghostram (21242)",
     "location": "Inside a 'Cinnawitch Box' from the 2016 Monster Masquerade",
-    "retired": true
+    "retired": true,
+    "usershop_price": 10000000
 },
   {
-    "image": "Cinnawitch_Hair.gif",
+    "image": "Cinnawitch Hair.gif",
     "name": "Cinnawitch Hair",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72885,10 +72888,11 @@
     "location": "Inside a 'Cinnawitch Box' from the 2016 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 4000000
   },
   {
-    "image": "Cinnawitch_Cloak.gif",
+    "image": "Cinnawitch Cloak.gif",
     "name": "Cinnawitch Cloak",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72898,10 +72902,11 @@
     "location": "Inside a 'Cinnawitch Box' from the 2016 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 15000000
   },
   {
-    "image": "Cinnawitch_Staff.gif",
+    "image": "Cinnawitch Staff.gif",
     "name": "Cinnawitch Staff",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72911,7 +72916,8 @@
     "location": "Inside a 'Cinnawitch Box' from the 2016 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 25000000
   },
   {
     "image": "Ye_Xian_Top.gif",
@@ -73039,7 +73045,8 @@
     "location": "Inside a 'Red Maple Bottle' from the 2016 Fall Diamond Dust Special",
     "retired": false,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 21500000
   },
   {
     "image": "Red_Maple_Scarf.gif",
@@ -73052,7 +73059,8 @@
     "location": "Inside a 'Red Maple Bottle' from the 2016 Fall Diamond Dust Special",
     "retired": false,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 65000000
   },
   {
     "image": "Red_Maple_Bags.gif",
@@ -73065,7 +73073,8 @@
     "location": "Inside a 'Red Maple Bottle' from the 2016 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 7000000
   },
   {
     "image": "Red_Maple_AD.gif",
@@ -73078,7 +73087,8 @@
     "location": "Inside a 'Red Maple Bottle' from the 2016 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "RedMaple.gif"
+    "pet_image": "RedMaple.gif",
+    "usershop_price": 79000000
   },
   {
     "image": "Spirit_Board.gif",
