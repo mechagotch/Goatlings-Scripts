@@ -3104,7 +3104,8 @@
     "location": "Inside a 'Toy Clown Box' from the 2024 Summer Night Carnival Diamond Dust Special",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "ToyClown.gif"
+    "pet_image": "ToyClown.gif",
+    "usershop_price": 45000000
   },
   {
     "image": "PeafowlRADTop.gif",
@@ -3508,7 +3509,8 @@
     "location": "Inside a 'Pineapple Crush Bag' from the 2024 Summer Diamond Dust Special",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "PineappleCrush.gif"
+    "pet_image": "PineappleCrush.gif",
+    "usershop_price": 15000000
   },
   {
     "image": "KeffiyehNeckscarf.gif",
@@ -5455,7 +5457,8 @@
     "location": "Inside a 'Digital Idol Music Player' from the 2024 Spring Diamond Dust Special",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "DigitalIdol.gif"
+    "pet_image": "DigitalIdol.gif",
+    "usershop_price": 19000000
   },
   {
     "image": "ShillBriefcase.gif",
@@ -5903,7 +5906,8 @@
     "location": "Inside a 'Glamorous CD Player' from the 2024 Sweethearts Celebration",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "GlamorousTween.gif"
+    "pet_image": "GlamorousTween.gif",
+    "usershop_price": 8000000
   },
   {
     "image": "LipGlossPurse.gif",
@@ -7614,7 +7618,8 @@
     "location": "Inside a 'Straw Fox Bundle' from the 2023 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "StrawFox.gif"
+    "pet_image": "StrawFox.gif",
+    "usershop_price": 13500000
   },
   {
     "image": "TeaTheDragon.gif",
@@ -10657,7 +10662,8 @@
     "location": "Inside a 'Chess Queen Board' from the 2023 Fall Diamond Dust Special",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "ChessQueen.gif"
+    "pet_image": "ChessQueen.gif",
+    "usershop_price": 35000000
   },
   {
     "image": "FallScholarPapers.gif",
@@ -12395,7 +12401,8 @@
     "location": "Inside a 'Thousand Wishes Bottle' from the 2023 Summer Diamond Dust Special",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "ThousandWishes.gif"
+    "pet_image": "ThousandWishes.gif",
+    "usershop_price": 69000000
   },
   {
     "image": "Surfboard.gif",
@@ -14544,7 +14551,8 @@
     "location": "Inside a 'Botanist Bag' from the 2023 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "Botanist.gif"
+    "pet_image": "Botanist.gif",
+    "usershop_price": 25000000
   },
   {
     "image": "PigToaster.gif",
@@ -15051,7 +15059,8 @@
     "designer": "Kaizin (94233)",
     "location": "Inside a 'School Sweetheart Box' from the 2023 Sweethearts Celebration",
     "retired": true,
-    "pet_image": "SchoolSweetheart.gif"
+    "pet_image": "SchoolSweetheart.gif",
+    "usershop_price": 5000000
   },
   {
     "image": "AngelCakeRADFork.gif",
@@ -16910,7 +16919,8 @@
     "location": "Inside a 'Bone Chilling Box' from the 2022 Winter Diamond Dust Special",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "BoneChilling.gif"
+    "pet_image": "BoneChilling.gif",
+    "usershop_price": 25000000
   },
   {
     "image": "FestiveFanfareAD.gif",
@@ -21367,7 +21377,8 @@
     "location": "Inside a 'Milk Tea Kit' from the 2022 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "MilkTea.gif"
+    "pet_image": "MilkTea.gif",
+    "usershop_price": 40000000
   },
   {
     "image": "Poppies.gif",
@@ -23789,7 +23800,8 @@
     "location": "Inside a 'Fairytale Ending Box' from the 2022 Summer Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "FairytaleEnding.gif"
+    "pet_image": "FairytaleEnding.gif",
+    "usershop_price": 32000000
   },
   {
     "image": "JusticeFrappe.gif",
@@ -24926,7 +24938,8 @@
     "location": "Inside a 'Gaming Box' from the 2022 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "EpicGamer.gif"
+    "pet_image": "EpicGamer.gif",
+    "usershop_price": 11500000
   },
   {
     "image": "SakuraPerfume.gif",
@@ -26415,7 +26428,8 @@
     "location": "Inside a 'Love Letters Post Box' from the 2022 Sweethearts Celebration",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "LoveLetters.gif"
+    "pet_image": "LoveLetters.gif",
+    "usershop_price": 34500000
   },
   {
     "image": "GlamRockLoveGuitar.gif",
@@ -27977,7 +27991,8 @@
     "location": "Inside a 'Sugar Star Festival Bag' from the 2021 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "SugarStarFestival.gif"
+    "pet_image": "SugarStarFestival.gif",
+    "usershop_price": 22500000
   },
   {
     "image": "PeppermintLeopardPlush.gif",
@@ -30311,7 +30326,8 @@
     "location": "Inside a 'Monarch Box' from the 2021 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "Monarch.gif"
+    "pet_image": "Monarch.gif",
+    "usershop_price": 68000000
   },
   {
     "image": "FallPostcard.gif",
@@ -31443,7 +31459,8 @@
     "location": "Inside a 'Unicorn Kid Bag' from the 2021 Summer Night Carnival Diamond Dust Special",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "UnicornKid.gif"
+    "pet_image": "UnicornKid.gif",
+    "usershop_price": 37000000
   },
   {
     "image": "CarnivalTent.gif",
@@ -32704,7 +32721,8 @@
     "location": "Inside a 'Grape Bowl' from the 2021 Summer Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "Grapevines.gif"
+    "pet_image": "Grapevines.gif",
+    "usershop_price": 18250000
   },
   {
     "image": "Clipboard.gif",
@@ -36040,7 +36058,8 @@
     "location": "Inside a 'Sweet Cookie Jar' from the 2021 Spring Diamond Dust Special",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "Cookie.gif"
+    "pet_image": "Cookie.gif",
+    "usershop_price": 11000000
   },
   {
     "image": "WhiteSeabunIcon.gif",
@@ -37705,7 +37724,8 @@
     "location": "Inside a 'Gold Leaf Dessert Box' from the 2021 Sweethearts Celebration",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "GoldLeaf.gif"
+    "pet_image": "GoldLeaf.gif",
+    "usershop_price": 25000000
   },
   {
     "image": "CelebrationAD.gif",
@@ -38950,7 +38970,8 @@
     "location": "Inside a 'Rat King Box' from the 2020 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "RatKing.gif"
+    "pet_image": "RatKing.gif",
+    "usershop_price": 24000000
   },
   {
     "image": "RatKingBox.gif",
@@ -40808,7 +40829,8 @@
     "location": "Inside a 'Gamer Kid Controller' from the 2020 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "GamerKid.gif"
+    "pet_image": "GamerKid.gif",
+    "usershop_price": 35000000
   },
   {
     "image": "GhostHunterEquipment.gif",
@@ -42596,7 +42618,8 @@
     "location": "Inside a 'Beach Bag' from the 2020 Summer Diamond Dust Special",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "BeachBabe.gif"
+    "pet_image": "BeachBabe.gif",
+    "usershop_price": 25000000
   },
   {
     "image": "CottonCandyIcon.gif",
@@ -45634,7 +45657,8 @@
     "location": "Inside a 'Garden Party Invitation' from the 2020 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "GardenParty.gif"
+    "pet_image": "GardenParty.gif",
+    "usershop_price": 23000000
   },
   {
     "image": "WhiteShortBangs.gif",
@@ -45983,7 +46007,8 @@
     "location": "Inside a 'Lovers Locket' from the 2020 Sweethearts Celebration",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "WistfulSuitor.gif"
+    "pet_image": "WistfulSuitor.gif",
+    "usershop_price": 89000000
   },
   {
     "image": "WistfulSuitorBouquet.gif",
@@ -51802,7 +51827,8 @@
     "location": "Inside a 'Sunflower Bottle' from the 2019 Summer Diamond Dust Special",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "SunFlowerBeaut.gif"
+    "pet_image": "SunFlowerBeaut.gif",
+    "usershop_price": 11000000
   },
   {
     "image": "SunflowerGentAD.gif",
@@ -51815,7 +51841,8 @@
     "location": "Inside a 'Sunflower Bottle' from the 2019 Summer Diamond Dust Special",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "SunflowerGent.gif"
+    "pet_image": "SunflowerGent.gif",
+    "usershop_price": 55000000
   },
   {
     "image": "YellowPaintedAD.gif",
@@ -54091,7 +54118,8 @@
     "location": "Inside a 'Lovesick Casanova Bag' from the 2019 Sweethearts Celebration",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "Casanova.gif"
+    "pet_image": "Casanova.gif",
+    "usershop_price": 30000000
   },
   {
     "image": "LovesickAD.gif",
@@ -54103,7 +54131,8 @@
     "designer": "Bumblebunny (47942)",
     "location": "Inside a 'Lovesick Casanova Bag' from the 2019 February Sweethearts Celebration",
     "retired": true,
-    "pet_image": "Lovesick.gif"
+    "pet_image": "Lovesick.gif",
+    "usershop_price": 87000000
   },
   {
     "image": "PatchworkPlushBox.gif",
@@ -54229,7 +54258,8 @@
     "designer": "chocoferret (33906)",
     "location": "Inside a 'Patchwork Plush Box' from the 2019 Sweetheart Celebration Diamond Dust Special",
     "retired": true,
-    "pet_image": "PatchworkPlush.gif"
+    "pet_image": "PatchworkPlush.gif",
+    "usershop_price": 41000000
   },
   {
     "image": "AuroraHorns.gif",
@@ -56028,7 +56058,8 @@
     "location": "Inside a 'Pink Ribbon Box' from the 2018 BCRF Fundraiser",
     "diamond_dust": true,
     "retired": true,
-    "pet_image": "PinkBeauty.gif"
+    "pet_image": "PinkBeauty.gif",
+    "usershop_price": 70000000
   },
   {
     "image": "PinkCutieAD.gif",
@@ -56068,7 +56099,8 @@
     "designer": "Lostysaur (8901)",
     "location": "Inside a 'Pink Ribbon Box' from the 2018 BCRF Fundraiser",
     "retired": true,
-    "pet_image": "PinkSweetheart.gif"
+    "pet_image": "PinkSweetheart.gif",
+    "usershop_price": 50000000
   },
   {
     "image": "BatLabrys.gif",
@@ -57231,7 +57263,8 @@
     "location": "Inside a 'Crow Family Box' from the 2018 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "CrowMonarch.gif"
+    "pet_image": "CrowMonarch.gif",
+    "usershop_price": 55000000
   },
   {
     "image": "WhiteCrowAD.gif",
@@ -63203,7 +63236,8 @@
     "location": "Inside a 'Candy Heart Box' from the 2018 Sweethearts Celebration",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "CandyHeart.gif"
+    "pet_image": "CandyHeart.gif",
+    "usershop_price": 15000000
   },
   {
     "image": "SunsetOmbre.gif",
@@ -69810,7 +69844,9 @@
       {"name": "Tea Party Hair", "image": "Tea_Party_Hair.gif"},
       {"name": "Short Tea Party Hair", "image": "Short_Tea_Party_Hair.gif"},
       {"name": "Tea Party Blouse", "image": "Tea_Party_Blouse.gif"}
-    ]},
+    ],
+    "usershop_price": 90000000
+  },
   {
     "image": "Tea_Party_Bow.gif",
     "name": "Tea Party Bow",
@@ -72929,8 +72965,8 @@
       {"name": "Red Maple Face", "image": "Red_Maple_Face.gif"},
       {"name": "Red Maple Hair", "image": "Red_Maple_Hair.gif"},
       {"name": "Red Maple Scarf", "image": "Red_Maple_Scarf.gif"}
-    ]
-    
+    ],
+    "usershop_price": 79000000
   },
   {
     "image": "Red_Maple_Face.gif",
@@ -75931,7 +75967,8 @@
     "location": "Inside an 'Essence Of Sweet Pea' from the 2016 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "SweetPea.gif"
+    "pet_image": "SweetPea.gif",
+    "usershop_price": 25000000
   },
   {
     "image": "Essence_Of_Sweet_Pea.gif",
@@ -88256,7 +88293,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "type": "wearable",
+    "price": 1000
   },
   {
     "image": "Icelandic_Sweater.gif",
@@ -88268,7 +88307,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "type": "wearable",
+    "price": 1000
   },
   {
     "image": "Dragon_Plush.gif",
@@ -90808,9 +90849,12 @@
     "image": "Student_Face_2.gif",
     "name": "Student Face 2",
     "date": "2014-05-01T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "usershop_price": 80000000,
+    "description": "Special limited edition item created for a fundraising campaign in 2014.",
     "designer": "Krisgoat (2)",
-    "location": "Diamond Dust Shop",
-    "description": "",
+    "location": "'Send a Friend to School' fundraiser",
     "retired": true,
     "diamond_dust": true,
     "contains": false,
@@ -90822,6 +90866,7 @@
     "date": "2014-05-01T00:00:10.000Z",
     "price": 1000,
     "type": "wearable",
+    "usershop_price": 80000000,
     "description": "Special limited edition item created for a fundraising campaign in 2014.",
     "designer": "Krisgoat (2)",
     "location": "'Send a Friend to School' fundraiser",
@@ -90834,7 +90879,10 @@
     "name": "Student Jacket 3",
     "date": "2014-05-01T00:00:10.000Z",
     "designer": "Krisgoat (2)",
-    "location": "Diamond Dust Shop",
+    "location": "'Send a Friend to School' fundraiser",
+    "price": 1000,
+    "type": "wearable",
+    "usershop_price": 80000000,
     "description": "",
     "retired": true,
     "diamond_dust": true,
@@ -90846,7 +90894,10 @@
     "name": "Student Jacket 2",
     "date": "2014-05-01T00:00:10.000Z",
     "designer": "Krisgoat (2)",
-    "location": "Diamond Dust Shop",
+    "location": "'Send a Friend to School' fundraiser",
+    "price": 1000,
+    "type": "wearable",
+    "usershop_price": 80000000,
     "description": "",
     "retired": true,
     "diamond_dust": true,
@@ -90878,7 +90929,8 @@
     "location": "'Send a Friend to School' fundraiser",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 80000000
   },
   {
     "image": "Student_BG.gif",
@@ -90891,7 +90943,8 @@
     "location": "'Send a Friend to School' fundraiser",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 50000000
   },
   {
     "image": "Brick_BG.gif",
@@ -90903,7 +90956,10 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable",
+    "usershop_price": 50000000
   },
   {
     "image": "Spring_Frosting_Cake.gif",
@@ -92473,7 +92529,8 @@
     "craftable": false,
     "price": 5000,
     "type": "wearable",
-    "description": "Special item created for a fundraising campaign in 2013."
+    "description": "Special item created for a fundraising campaign in 2013.",
+    "usershop_price": 90000000
   },
   {
     "image": "Indie_Hat.gif",
@@ -92487,7 +92544,8 @@
     "craftable": false,
     "price": 5000,
     "type": "wearable",
-    "description": "Special item created for a fundraising campaign in 2013."
+    "description": "Special item created for a fundraising campaign in 2013.",
+    "usershop_price": 65000000
   },
   {
     "image": "Indie_Hair_2.gif",
@@ -92500,7 +92558,8 @@
     "location": "Indiegogo Campaign Fundraiser",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 70000000
   },
   {
     "image": "Indie_Hair_1.gif",
@@ -92513,7 +92572,8 @@
     "location": "Indiegogo Campaign Fundraiser",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 60000000
   },
   {
     "image": "Indie_Face_2.gif",
@@ -92527,7 +92587,8 @@
     "craftable": false,
     "price": 5000,
     "type": "wearable",
-    "description": "Special item created for a fundraising campaign in 2013."
+    "description": "Special item created for a fundraising campaign in 2013.",
+    "usershop_price": 100000000
   },
   {
     "image": "Indie_Face_1.gif",
@@ -92541,7 +92602,8 @@
     "craftable": false,
     "price": 5000,
     "type": "wearable",
-    "description": "Special item created for a fundraising campaign in 2013."
+    "description": "Special item created for a fundraising campaign in 2013.",
+    "usershop_price": 150000000
   },
   {
     "image": "Indie_BG.gif",
@@ -92555,7 +92617,8 @@
     "craftable": false,
     "price": 5000,
     "type": "wearable",
-    "description": "Special item created for a fundraising campaign in 2013."
+    "description": "Special item created for a fundraising campaign in 2013.",
+    "usershop_price": 100000000
   },
   {
     "image": "Duchess_Heartthrob_AD.gif",
