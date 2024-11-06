@@ -62351,7 +62351,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 5000,
+    "type": "wearable"
   },
   {
     "image": "RedMask.gif",
@@ -62363,7 +62365,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 5000,
+    "type": "wearable"
   },
   {
     "image": "PurpleMask.gif",
@@ -66638,12 +66642,14 @@
     "name": "Shrine Ears",
     "date": "2017-09-01T00:00:10.000Z",
     "designer": "r00p (20210)",
-    "location": "Inside 'Shrine Bundle'",
+    "location": "Inside a 'Shrine Bundle' from the 2017 Fall Diamond Dust Special",
     "description": "",
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "ShrineAD.gif",
@@ -71868,7 +71874,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "Winter_Fir_Hat.gif",
@@ -71905,7 +71913,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "Winter_Fir_Friend_AD.gif",
@@ -72985,7 +72995,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 3000,
+    "type": "wearable"
   },
   {
     "image": "Red_Maple_Ears.gif",
@@ -74515,7 +74527,8 @@
     "location": "Inside an 'Essence Of Snowdrop' from the 2016 Summer Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 58000000
   },
   {
     "image": "Snowdrop_Hairpin.gif",
@@ -74527,7 +74540,8 @@
     "designer": "Cervine (4030)",
     "location": "Inside an 'Essence Of Snowdrop' from the 2016 Summer Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 9000000
 },
   {
     "image": "Snowdrop_Sleeves.gif",
@@ -74539,7 +74553,8 @@
     "designer": "Cervine (4030)",
     "location": "Inside an 'Essence Of Snowdrop' from the 2016 Summer Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 14000000
 },
   {
     "image": "Snowdrop_Face.gif",
@@ -74551,7 +74566,10 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "usershop_price": 50000000,
+    "price": 5000,
+    "type": "wearable"
   },
   {
     "image": "Snowdrop_Accsents.gif",
@@ -74563,7 +74581,8 @@
     "designer": "Cervine (4030)",
     "location": "Inside an 'Essence Of Snowdrop' from the 2016 Summer Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 10000000
 },
   {
     "image": "Snowdrop_Corset.gif",
@@ -74576,7 +74595,8 @@
     "location": "Inside an 'Essence Of Snowdrop' from the 2016 Summer Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 50000000
   },
   {
     "image": "Snowdrop_AD.gif",
