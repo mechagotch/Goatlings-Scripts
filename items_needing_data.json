@@ -722,7 +722,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "RibbonMummyTart.gif",
@@ -738,7 +739,8 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "CandyCornCakeRoll.gif",
@@ -755,7 +757,8 @@
     "contains": false,
     "craftable": false,
     "type": "food",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PumpkinSpiritBP.gif",
@@ -772,7 +775,8 @@
       "stamina": 60
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Cursed Coins"
   },
   {
     "image": "GhostlyGourdsBP.gif",
@@ -789,7 +793,8 @@
       "stamina": 60
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Cursed Coins"
   },
   {
     "image": "GourdGoop.gif",
@@ -806,7 +811,8 @@
     "contains": false,
     "craftable": false,
     "type": "food",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "Musicalitea.gif",
@@ -822,7 +828,8 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "MaestroMousse.gif",
@@ -838,7 +845,8 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "GrowlerEnergyDrink.gif",
@@ -854,7 +862,8 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "GraveyardGroomTrifle.gif",
@@ -871,7 +880,8 @@
     "contains": false,
     "craftable": false,
     "type": "food",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DeathlyFrappe.gif",
@@ -888,7 +898,8 @@
     "contains": false,
     "craftable": false,
     "type": "food",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "CharmingMouseBP.gif",
@@ -902,7 +913,8 @@
     "contains": false,
     "craftable": false,
     "type": "battle_item_att",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "2 Cursed Coins"
   },
   {
     "image": "FairyGhostmotherWand.gif",
@@ -916,7 +928,8 @@
     "contains": false,
     "craftable": false,
     "type": "wearable",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "MonsterTeethIcon.gif",
@@ -930,7 +943,8 @@
     "contains": false,
     "craftable": false,
     "type": "usericon",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedHostessHair.gif",
@@ -944,7 +958,8 @@
     "contains": false,
     "craftable": false,
     "type": "wearable",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedHostessTray.gif",
@@ -958,7 +973,8 @@
     "contains": false,
     "craftable": false,
     "type": "wearable",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedHostessEyes.gif",
@@ -972,7 +988,8 @@
     "contains": false,
     "craftable": false,
     "type": "wearable",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedHostessDress.gif",
@@ -986,7 +1003,8 @@
     "contains": false,
     "craftable": false,
     "type": "wearable",
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombeeBudBP.gif",
@@ -1000,7 +1018,8 @@
     "type": "battle_item_att",
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "2 Cursed Coins"
   },
   {
     "image": "ZombeeWings.gif",
@@ -1014,7 +1033,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombeeTop.gif",
@@ -1028,7 +1048,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombeeHat.gif",
@@ -1042,7 +1063,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombeeFace.gif",
@@ -1056,7 +1078,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombeeEars.gif",
@@ -1070,7 +1093,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombeeBase.gif",
@@ -1084,7 +1108,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "WormEarrings.gif",
@@ -1098,7 +1123,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "MonsterTrackerCape.gif",
@@ -1112,7 +1138,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "MonsterTrackerTop.gif",
@@ -1126,7 +1153,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "MonsterTrackerFace.gif",
@@ -1140,7 +1168,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "MonsterTrackerHat.gif",
@@ -1154,7 +1183,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "MonsterTrackerHair.gif",
@@ -1168,7 +1198,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "price": 1000
+    "price": 1000,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SilverMoonAD.gif",
@@ -1182,7 +1213,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "pet_image": "SilverMoon.gif"
+    "pet_image": "SilverMoon.gif",
+    "item_cost": "2 Cursed Coins"
   },
   {
     "image": "BigBadRedPlush.gif",
@@ -1200,7 +1232,7 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": [
-      {"name": "Wolf Plushie", "image": "WolfPlushie.gif"},
+      {"name": "Wolf Plush", "image": "WolfPlushie.gif"},
       {"name": "Essence Of Shadow", "image": "EssenceOfShadow.gif"},
       {"name": "Shadow Wolf Plush", "image": "ShadowWolfPlush.gif"}
     ]
@@ -8881,7 +8913,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PossessedCrownTop.gif",
@@ -8894,7 +8927,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PossessedCrownHair.gif",
@@ -8907,7 +8941,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PossessedCrownFace.gif",
@@ -8921,7 +8956,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PossessedCrownEars.gif",
@@ -8935,7 +8971,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SandwitchHat.gif",
@@ -8949,7 +8986,8 @@
     "diamond_dust": false,
     "contains": false,
     "craftable": false,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SandwitchFace.gif",
@@ -8962,7 +9000,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SandwitchEars.gif",
@@ -8976,7 +9015,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SandwitchCheese.gif",
@@ -8990,7 +9030,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SandwitchCape.gif",
@@ -9004,7 +9045,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "GhoulCaramelApple.gif",
@@ -9020,7 +9062,8 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "GoatGhoulBP.gif",
@@ -9037,7 +9080,8 @@
       "stamina": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PartyGhoulToy.gif",
@@ -9053,7 +9097,8 @@
       "mood": 40
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SpookyPartyHat.gif",
@@ -9066,7 +9111,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PartyGhoulCostume.gif",
@@ -9079,7 +9125,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PopUpHat.gif",
@@ -9093,7 +9140,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PopUpHair.gif",
@@ -9107,7 +9155,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PopUpFace.gif",
@@ -9121,7 +9170,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PopUpEars.gif",
@@ -9135,7 +9185,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "PopUpCollar.gif",
@@ -9148,7 +9199,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "GhostPirateChest.gif",
@@ -9161,7 +9213,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "GhostPirateTop.gif",
@@ -9174,7 +9227,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "GhostPirateHair.gif",
@@ -9187,7 +9241,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "GhostPirateFace.gif",
@@ -9201,7 +9256,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DemonDesperadoBoots.gif",
@@ -9214,7 +9270,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DemonDesperadoBoloTie.gif",
@@ -9227,7 +9284,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DemonDesperadoCactus.gif",
@@ -9240,7 +9298,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "CursedRiverBG.gif",
@@ -9253,7 +9312,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "CursedFerrymanShortHair.gif",
@@ -9266,7 +9326,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "CursedFerrymanHat.gif",
@@ -9280,7 +9341,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "CursedFerrymanHair.gif",
@@ -9293,7 +9355,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "CursedFerrymanFace.gif",
@@ -9307,7 +9370,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "2023MonsterBox.gif",
@@ -11292,10 +11356,11 @@
     "type": "collectible",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+    "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffSignedPolaroid.gif",
@@ -11305,10 +11370,11 @@
     "type": "collectible",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+    "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "50 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffPhotocards.gif",
@@ -11318,10 +11384,11 @@
     "type": "collectible",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+    "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffLightStick.gif",
@@ -11331,10 +11398,11 @@
     "type": "collectible",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+    "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "100 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffFanmeetTicket.gif",
@@ -11344,10 +11412,11 @@
     "type": "collectible",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+    "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "50 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffCheerKit.gif",
@@ -11357,10 +11426,11 @@
     "type": "collectible",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+    "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffBeanPlush.gif",
@@ -11370,13 +11440,14 @@
     "type": "toy",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+    "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "bonus": {
       "mood": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "AcrobaticHoop.gif",
@@ -18046,7 +18117,8 @@
     "retired": false,
     "bonus": {
       "hunger": 30
-    }
+    },
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "WickedCandyTop.gif",
@@ -18059,7 +18131,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "WickedCandyStars.gif",
@@ -18071,7 +18144,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "WickedCandyMakeup.gif",
@@ -18084,7 +18158,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "WickedCandyHair.gif",
@@ -18097,7 +18172,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "WickedCandyEyes.gif",
@@ -18111,7 +18187,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "TopsyTurvyMouseBP.gif",
@@ -18128,7 +18205,8 @@
       "stamina": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "TopsyTurvyTop.gif",
@@ -18142,7 +18220,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "TopsyTurvyHat.gif",
@@ -18155,7 +18234,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "TopsyTurvyHair.gif",
@@ -18168,7 +18248,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "TopsyTurvyFace.gif",
@@ -18182,7 +18263,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "TopsyTurvyBG.gif",
@@ -18196,7 +18278,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "TopsyTurvyBase.gif",
@@ -18209,7 +18292,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SpilledTea.gif",
@@ -18220,7 +18304,8 @@
     "description": "",
     "designer": "silky (97045)",
     "location": "Baleful Bootique Event Shop",
-    "retired": false
+    "retired": false,
+    "item_cost": "1 Cursed Coin"
 },
   {
     "image": "SpiritConductorUniform.gif",
@@ -18234,7 +18319,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SpiritConductorEyes.gif",
@@ -18248,7 +18334,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SpiritConductorEars.gif",
@@ -18262,7 +18349,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SpiritConductorCap.gif",
@@ -18276,7 +18364,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SpiritConductorBeard.gif",
@@ -18290,7 +18379,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "LostTicket.gif",
@@ -18301,7 +18391,8 @@
     "description": "",
     "designer": "Metroghost (94079)",
     "location": "Baleful Bootique Event Shop",
-    "retired": false
+    "retired": false,
+    "item_cost": "1 Cursed Coin"
 },
   {
     "image": "HauntedToyTrain.gif",
@@ -18317,7 +18408,8 @@
       "mood": 20
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "AbandonedCap.gif",
@@ -18330,7 +18422,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ScareDresserScissors.gif",
@@ -18341,7 +18434,8 @@
     "description": "",
     "designer": "jug (96168)",
     "location": "Baleful Bootique Event Shop",
-    "retired": false
+    "retired": false,
+    "item_cost": "1 Cursed Coin"
 },
   {
     "image": "ScareDresserBag.gif",
@@ -18354,7 +18448,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ScareDresserTop.gif",
@@ -18367,7 +18462,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ScareDresserShears.gif",
@@ -18380,7 +18476,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ScareDresserHood.gif",
@@ -18394,7 +18491,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ScareDresserHair.gif",
@@ -18408,7 +18506,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ScareDresserEyes.gif",
@@ -18421,7 +18520,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NightcrawlerBP.gif",
@@ -18438,7 +18538,8 @@
       "stamina": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedMascotConewich.gif",
@@ -18454,7 +18555,8 @@
       "hunger": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedAnnualPass.gif",
@@ -18467,7 +18569,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedThemeParkBG.gif",
@@ -18481,7 +18584,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedMascotShirt.gif",
@@ -18495,7 +18599,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedMascotPrizeToy.gif",
@@ -18508,7 +18613,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedMascotPhotoVeil.gif",
@@ -18521,7 +18627,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedMascotMallet.gif",
@@ -18534,7 +18641,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedMascotHoodie.gif",
@@ -18547,7 +18655,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedMascotHead.gif",
@@ -18560,7 +18669,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedMascotCap.gif",
@@ -18573,7 +18683,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedMascotBase.gif",
@@ -18586,7 +18697,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "RoyalSwatter.gif",
@@ -18599,7 +18711,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "FlyLordPerfume.gif",
@@ -18610,7 +18723,8 @@
     "description": "",
     "designer": "RiverRacer (6590)",
     "location": "Baleful Bootique Event Shop",
-    "retired": false
+    "retired": false,
+    "item_cost": "1 Cursed Coin"
 },
   {
     "image": "FlyLordWings.gif",
@@ -18623,7 +18737,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "FlyLordTop.gif",
@@ -18637,7 +18752,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "FlyLordHorns.gif",
@@ -18650,7 +18766,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "FlyLordHair.gif",
@@ -18664,7 +18781,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "FlyLordEyes.gif",
@@ -18677,7 +18795,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "FlyLordEars.gif",
@@ -18690,7 +18809,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "FlyLordCrown.gif",
@@ -18703,7 +18823,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "FlyLordBG.gif",
@@ -18716,7 +18837,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "FlyLordBP.gif",
@@ -18733,7 +18855,8 @@
       "stamina": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DocShockBP.gif",
@@ -18750,7 +18873,8 @@
       "stamina": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DatingSimVeil.gif",
@@ -18763,7 +18887,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DatingSimHair.gif",
@@ -18776,7 +18901,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DatingSimGlitches.gif",
@@ -18789,7 +18915,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DatingSimDialogueWindow.gif",
@@ -18802,7 +18929,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DatingSimCursor.gif",
@@ -18815,7 +18943,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "CursedCartridge.gif",
@@ -18828,7 +18957,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "RibbonMummyPlush.gif",
@@ -21953,13 +22083,14 @@
     "type": "food",
     "description": "",
     "designer": "fright (3422)",
-    "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+    "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "bonus": {
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "YeehonkAD.gif",
@@ -28807,7 +28938,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DeviledEggWings.gif",
@@ -28820,7 +28952,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DeviledEggTop.gif",
@@ -28833,7 +28966,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DeviledEggPitchfork.gif",
@@ -28846,7 +28980,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DeviledEggHorns.gif",
@@ -28859,7 +28994,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DeviledEggHair.gif",
@@ -28872,7 +29008,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DeviledEggFace.gif",
@@ -28885,7 +29022,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "DeviledEggEars.gif",
@@ -28899,7 +29037,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombiePunkSprayPaint.gif",
@@ -28912,7 +29051,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombiePunkScrews.gif",
@@ -28925,7 +29065,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombiePunkBracelet.gif",
@@ -28938,7 +29079,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombiePunkTop.gif",
@@ -28952,7 +29094,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombiePunkHair.gif",
@@ -28965,7 +29108,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombiePunkFace.gif",
@@ -28978,7 +29122,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombiePunkCollar.gif",
@@ -28991,7 +29136,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombiePunkClips.gif",
@@ -29004,7 +29150,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ZombiePunkBase.gif",
@@ -29017,7 +29164,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NocturnalNinjaShuriken.gif",
@@ -29030,7 +29178,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NocturnalNinjaTop.gif",
@@ -29043,7 +29192,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NocturnalNinjaScarf.gif",
@@ -29056,7 +29206,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NocturnalNinjaMuffler.gif",
@@ -29070,7 +29221,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NocturnalNinjaHair.gif",
@@ -29083,7 +29235,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NocturnalNinjaFace.gif",
@@ -29096,7 +29249,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NocturnalNinjaEars.gif",
@@ -29109,7 +29263,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NocturnalNinjaBG.gif",
@@ -29122,7 +29277,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NocturnalNinjaBats.gif",
@@ -29135,7 +29291,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "NocturnalNinjaBase.gif",
@@ -29149,7 +29306,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SpaceFriendUFOs.gif",
@@ -31475,13 +31633,14 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+    "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "bonus": {
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "IceCreamSpheres.gif",
@@ -40110,7 +40269,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "ToothyGrin.gif",
@@ -40123,7 +40283,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HypnotizedEyes.gif",
@@ -40136,7 +40297,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "RavenPlush.gif",
@@ -40152,7 +40314,8 @@
       "mood": 40
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "HauntedPortraitBrush.gif",
@@ -40165,7 +40328,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "SpookyCrystalBall.gif",
@@ -40178,7 +40342,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "BootVase.gif",
@@ -40191,7 +40356,8 @@
     "location": "Baleful Bootique Event Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Cursed Coin"
   },
   {
     "image": "CursedCoin.gif",
@@ -40201,7 +40367,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Diamond Dust Shop, Daily Gachapon in October, used at Baleful Bootique Event Shop",
+    "location": "Diamond Dust Shop, Daily Gachapon in October, Baleful Bootique Event Shop Currency",
     "diamond_dust": true,
     "retired": false,
     "item_cost": "50 Diamond Dust"
@@ -41702,7 +41868,8 @@
       "stamina": 80
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "100 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffBod.gif",
@@ -41715,7 +41882,8 @@
     "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "100 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffMask.gif",
@@ -41728,7 +41896,8 @@
     "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "50 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffFace.gif",
@@ -41740,7 +41909,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "50 Tuff Stuff Stamps"
   },
   {
     "image": "TuffBar.gif",
@@ -41756,7 +41926,8 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffHorns.gif",
@@ -41769,7 +41940,8 @@
     "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "TuffStuffEars.gif",
@@ -41782,7 +41954,8 @@
     "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "JumboStache.gif",
@@ -41795,7 +41968,8 @@
     "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "JumboBrows.gif",
@@ -41808,7 +41982,8 @@
     "location": "Tuff Stuff Fan Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "25 Tuff Stuff Stamps"
   },
   {
     "image": "CraneGamePrizes.gif",
@@ -50330,7 +50505,8 @@
       "mood": 100
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "100 Tuff Stuff Stamps"
   },
   {
     "image": "FingerPuppet.gif",
@@ -50381,7 +50557,7 @@
     },
     "diamond_dust": false,
     "contains": false,
-    "item_cost": "1 Carnival Ticket"
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "SnakePlush.gif",
