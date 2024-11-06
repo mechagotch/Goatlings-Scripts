@@ -50479,7 +50479,7 @@
     "type": "collectible",
     "description": "Stamp with a picture of the Tuff Stuff baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly July and August Battle Center",
+    "location": "Annual July and August Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -77730,7 +77730,7 @@
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Frost Guardian Minions.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly November Battle Center",
+    "location": "Annual November Battle Center",
     "retired": false
 },
   {
@@ -77741,7 +77741,7 @@
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Frost Guardian baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly November Battle Center",
+    "location": "Annual November Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -78079,7 +78079,7 @@
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Scarecrow Minions.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly October Battle Center",
+    "location": "Annual October Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -78092,7 +78092,7 @@
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Scarecrow baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly October Battle Center",
+    "location": "Annual October Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -78644,7 +78644,7 @@
     "type": "collectible",
     "description": "Stamp with a picture of the Phoenix Fox Minions.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly August Battle Center",
+    "location": "Annual August Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -78657,7 +78657,7 @@
     "type": "collectible",
     "description": "Stamp with a picture of the Phoenix Fox baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly August Battle Center",
+    "location": "Annual August Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -78977,7 +78977,7 @@
     "type": "collectible",
     "description": "Stamp with a picture of the Squid Kid Minions.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly July Battle Center",
+    "location": "Annual July Battle Center",
     "retired": false
 },
   {
@@ -78988,7 +78988,7 @@
     "type": "collectible",
     "description": "Stamp with a picture of the Squid Kid baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly July Battle Center",
+    "location": "Annual July Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -83151,7 +83151,7 @@
     "type": "collectible",
     "description": "Collectable stamp with a picture of the Cootie Baddy Minions.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly February Battle Center",
+    "location": "Annual February Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -87195,7 +87195,7 @@
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Cold Frisson Minion baddys.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly October Battle Center",
+    "location": "Annual October Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -89661,7 +89661,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "item_cost": "400 Diamond Dust"
+    "item_cost": "400 Diamond Dust",
+    "usershop_price": 4000000
 },
   {
     "image": "Heatwave_Minion_Stamp.gif",
@@ -89671,7 +89672,7 @@
     "type": "collectible",
     "description": "Collectable stamp with a picture of the Heatwave Minion baddys.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly Summer Battle Center",
+    "location": "Annual Summer Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -91857,7 +91858,7 @@
     "type": "collectible",
     "description": "Collectable stamp with a picture of the Trileaf Minion baddys.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly March Battle Center",
+    "location": "Annual March Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -91873,6 +91874,7 @@
     "location": "2014 March Battle Center",
     "retired": true,
     "pet_image": "Lucky.gif",
+    "old_ad": true,
     "craftable": [
       {
         "name": "Bronze Goat Coin",
@@ -94782,7 +94784,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "item_cost": "400 Diamond Dust"
+    "item_cost": "400 Diamond Dust",
+    "usershop_price": 4000000
 },
   {
     "image": "item_777.gif",
@@ -100877,7 +100880,7 @@
     "type": "collectible",
     "description": "Collectable stamp with a picture of the Cootie baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Yearly February Battle Center",
+    "location": "Annual February Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -104824,7 +104827,7 @@
     "date": "2012-01-31T00:00:10.000Z",
     "price": 200,
     "type": "toy",
-    "description": "Can you walk the dog?",
+    "description": "Can you walk the dog.",
     "designer": "Krisgoat (2)",
     "location": "Toy Shop (1)",
     "retired": false,
