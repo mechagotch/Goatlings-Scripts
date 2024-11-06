@@ -34807,7 +34807,8 @@
       "stamina": 70
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "10 Daily Errands Stickers"
   },
   {
     "image": "BlepBP.gif",
@@ -34824,7 +34825,8 @@
       "stamina": 70
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "10 Daily Errands Stickers"
   },
   {
     "image": "IceDragonBP.gif",
@@ -34839,7 +34841,8 @@
     "bonus": {
       "strength": 7,
       "stamina": 70
-    }
+    },
+    "item_cost": "10 Daily Errands Stickers"
   },
   {
     "image": "FireDragonBP.gif",
@@ -34856,7 +34859,8 @@
       "stamina": 70
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "10 Daily Errands Stickers"
   },
   {
     "image": "EarthDragonBP.gif",
@@ -34873,7 +34877,8 @@
       "stamina": 70
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "10 Daily Errands Stickers"
   },
   {
     "image": "FishBowlBP.gif",
@@ -34886,7 +34891,8 @@
     "location": "Daily Errands Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Daily Errands Sticker"
   },
   {
     "image": "BookOfLove.gif",
@@ -34902,7 +34908,8 @@
       "intel": 1
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "20 Daily Errands Stickers"
   },
   {
     "image": "SaltTea.gif",
@@ -34918,7 +34925,8 @@
       "hunger": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Daily Errands Stickers"
   },
   {
     "image": "LoveCake.gif",
@@ -34934,7 +34942,8 @@
       "hunger": 20
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Daily Errands Stickers"
   },
   {
     "image": "PeachMilk.gif",
@@ -34950,7 +34959,8 @@
       "hunger": 20
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Daily Errands Stickers"
   },
   {
     "image": "FrogTea.gif",
@@ -34964,7 +34974,8 @@
     "retired": false,
     "bonus": {
       "hunger": 20
-    }
+    },
+    "item_cost": "5 Daily Errands Stickers"
   },
   {
     "image": "BentoBag.gif",
@@ -34994,7 +35005,8 @@
         "name": "Panda Bento",
         "image": "PandaBento.gif"
       }
-    ]
+    ],
+    "item_cost": "5 Daily Errands Stickers"
   },
   {
     "image": "PandaBento.gif",
@@ -35074,7 +35086,8 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Daily Errands Stickers"
   },
   {
     "image": "MallowPanPop.gif",
@@ -35090,7 +35103,8 @@
       "hunger": 80
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Daily Errands Stickers"
   },
   {
     "image": "CutePillows.gif",
@@ -35101,7 +35115,8 @@
     "description": "",
     "designer": "Berrymilk (58926)",
     "location": "Daily Errands Shop",
-    "retired": false
+    "retired": false,
+    "item_cost": "1 Daily Errands Sticker"
 },
   {
     "image": "ErinPlush.gif",
@@ -35117,7 +35132,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Daily Errands Stickers"
   },
   {
     "image": "ErinCollar.gif",
@@ -35130,7 +35146,8 @@
     "location": "Daily Errands Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "3 Daily Errands Stickers"
   },
   {
     "image": "ErinEars.gif",
@@ -35143,7 +35160,8 @@
     "location": "Daily Errands Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "3 Daily Errands Stickers"
   },
   {
     "image": "ErinFace.gif",
@@ -35156,7 +35174,8 @@
     "location": "Daily Errands Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "3 Daily Errands Stickers"
   },
   {
     "image": "ErinHair.gif",
@@ -35169,7 +35188,8 @@
     "location": "Daily Errands Shop",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "3 Daily Errands Stickers"
   },
   {
     "image": "ErinHat.gif",
@@ -35181,7 +35201,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "3 Daily Errands Stickers"
   },
   {
     "image": "ErinAD.gif",
@@ -35193,7 +35214,8 @@
     "designer": "r00p (20210)",
     "location": "Daily Errands Shop",
     "retired": false,
-    "pet_image": "Erin.gif"
+    "pet_image": "Erin.gif",
+    "item_cost": "20 Daily Errands Stickers"
   },
   {
     "image": "JestlingRAD.gif",
