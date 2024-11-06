@@ -377,7 +377,8 @@
         "image": "BrainwormsAD.gif"
       }
     ],
-    "craftable": false
+    "craftable": false,
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "ZombeeAD.gif",
@@ -1451,7 +1452,8 @@
         "name": "Big Bad Red BG",
         "image": "BigBadRedBG.gif"
       }
-    ]
+    ],
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "ShreddedVeil.gif",
@@ -1656,7 +1658,8 @@
         "name": "Cave BG",
         "image": "CaveBG.gif"
       }
-    ]
+    ],
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "CaveMouth.gif",
@@ -2282,7 +2285,8 @@
         "name": "Autumn Dragon BG",
         "image": "AutumnDragonBG.gif"
       }
-    ]    
+    ],
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "AutumnDragonHorn.gif",
@@ -3892,7 +3896,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "300 Diamond Dust"
 },
   {
     "image": "DandelionHoney.gif",
@@ -4896,7 +4901,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "PrettyPennyVacation.gif"
+    "pet_image": "PrettyPennyVacation.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Wafers.gif",
@@ -12675,7 +12681,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "10 Diamond Dust"
 },
   {
     "image": "YellowRubberDuckie.gif",
@@ -12687,7 +12694,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "10 Diamond Dust"
 },
   {
     "image": "PinkRubberDuckie.gif",
@@ -12699,7 +12707,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "10 Diamond Dust"
 },
   {
     "image": "BlueRubberDuckie.gif",
@@ -12711,7 +12720,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "10 Diamond Dust"
 },
   {
     "image": "BlackRubberDuckie.gif",
@@ -12723,7 +12733,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "10 Diamond Dust"
 },
   {
     "image": "SlicedCucumbers.gif",
@@ -12735,7 +12746,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "20 Diamond Dust"
 },
   {
     "image": "WashCloths.gif",
@@ -12747,7 +12759,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "25 Diamond Dust"
 },
   {
     "image": "PinkBubbleBath.gif",
@@ -12759,7 +12772,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "25 Diamond Dust"
 },
   {
     "image": "EucalyptusSprig.gif",
@@ -12771,7 +12785,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "25 Diamond Dust"
 },
   {
     "image": "CuteTissue.gif",
@@ -12783,7 +12798,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "25 Diamond Dust"
 },
   {
     "image": "ScentedCandles.gif",
@@ -12795,7 +12811,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "25 Diamond Dust"
 },
   {
     "image": "YellowBathRobe.gif",
@@ -12807,7 +12824,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "WhiteBathRobe.gif",
@@ -12819,7 +12837,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "TealBathRobe.gif",
@@ -12831,7 +12850,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "PinkBathRobe.gif",
@@ -12843,7 +12863,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BlueBathRobe.gif",
@@ -12855,7 +12876,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BlackBathRobe.gif",
@@ -12867,7 +12889,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "CucumberOnEyes.gif",
@@ -12879,7 +12902,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "25 Diamond Dust"
 },
   {
     "image": "DuckieHeadband.gif",
@@ -12891,7 +12915,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "RubberDuckieFriend.gif",
@@ -12903,7 +12928,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BubbleFreckles.gif",
@@ -12915,7 +12941,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "25 Diamond Dust"
 },
   {
     "image": "BubbleEarrings.gif",
@@ -12927,7 +12954,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "5 Diamond Dust"
 },
   {
     "image": "BubbleBathVeil.gif",
@@ -12939,7 +12967,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "50 Diamond Dust"
 },
   {
     "image": "BubbleHair.gif",
@@ -12951,7 +12980,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BubbleBuns.gif",
@@ -12963,7 +12993,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BubbleBun.gif",
@@ -12975,7 +13006,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BubbleBathFace.gif",
@@ -12987,7 +13019,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BubbleBathBG.gif",
@@ -12999,7 +13032,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BathBubbles.gif",
@@ -13011,7 +13045,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BubbleBathAD.gif",
@@ -13024,7 +13059,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "BubbleBath.gif"
+    "pet_image": "BubbleBath.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "JarOfBlackHearts.gif",
@@ -16571,7 +16607,8 @@
     "designer": "Lostysaur (8901)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "PetrifiedTreesBG.gif",
@@ -16583,7 +16620,8 @@
     "designer": "Lostysaur (8901)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "LoomingStormBG.gif",
@@ -16595,7 +16633,8 @@
     "designer": "Lostysaur (8901)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "FrozenForestBG.gif",
@@ -16607,7 +16646,8 @@
     "designer": "Lostysaur (8901)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "ForebodingMountainBG.gif",
@@ -16619,7 +16659,8 @@
     "designer": "Lostysaur (8901)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BoneChillingBox.gif",
@@ -19621,7 +19662,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Soldier.gif"
+    "pet_image": "Soldier.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "SoldierDrum.gif",
@@ -33988,7 +34030,8 @@
     "designer": "r00p (20210)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "20 Diamond Dust"
 },
   {
     "image": "RoseFiddle.gif",
@@ -34000,7 +34043,8 @@
     "designer": "r00p (20210)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "25 Diamond Dust"
 },
   {
     "image": "PointlingMusicBox.gif",
@@ -34012,7 +34056,8 @@
     "designer": "Berrymilk (58926)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "25 Diamond Dust"
 },
   {
     "image": "PowderPuff.gif",
@@ -34024,7 +34069,8 @@
     "designer": "Berrymilk (58926)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "10 Diamond Dust"
 },
   {
     "image": "PrincessEyeshadow.gif",
@@ -34036,7 +34082,8 @@
     "designer": "r00p (20210)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "10 Diamond Dust"
 },
   {
     "image": "PrinceEyeshadow.gif",
@@ -34048,7 +34095,8 @@
     "designer": "r00p (20210)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "10 Diamond Dust"
 },
   {
     "image": "Lipstick.gif",
@@ -34060,7 +34108,8 @@
     "designer": "r00p (20210)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "10 Diamond Dust"
 },
   {
     "image": "WatercolorTray.gif",
@@ -34072,7 +34121,8 @@
     "designer": "r00p (20210)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "5 Diamond Dust"
 },
   {
     "image": "DisposableCamera.gif",
@@ -34084,7 +34134,8 @@
     "designer": "r00p (20210)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "5 Diamond Dust"
 },
   {
     "image": "BestFriendMug.gif",
@@ -34096,7 +34147,8 @@
     "designer": "Hotarubi (17112)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "5 Diamond Dust"
 },
   {
     "image": "DentalFloss.gif",
@@ -37411,7 +37463,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Celebration.gif"
+    "pet_image": "Celebration.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "DiamondBow.gif",
@@ -40076,7 +40129,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop, Daily Gachapon in October, used at Baleful Bootique Event Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "50 Diamond Dust"
 },
   {
     "image": "MothmanBottle.gif",
@@ -40098,7 +40152,8 @@
       {"name": "Mothman Wings", "image": "MothmanWings.gif"},
       {"name": "Found Photo", "image": "FoundPhoto.gif"},
       {"name": "Mothman BG", "image": "MothmanBG.gif"}
-    ]
+    ],
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "FoundPhoto.gif",
@@ -40216,7 +40271,9 @@
       {"name": "Vampirella Veil", "image": "VampirellaVeil.gif"},
       {"name": "Vampirella Cameo", "image": "VampirellaCameo.gif"},
       {"name": "Ballroom BG", "image": "BallroomBG.gif"}
-    ]},
+    ],
+    "item_cost": "200 Diamond Dust"
+  },
   {
     "image": "VampirellaCameo.gif",
     "name": "Vampirella Cameo",
@@ -43824,7 +43881,8 @@
       {"name": "Wearable Swirl Party Hat", "image": "WearableSwirlPartyHat.gif"},
       {"name": "Wearable Wavy Party Hat", "image": "WearableWavyPartyHat.gif"},
       {"name": "Wearable Zebra Party Hat", "image": "WearableZebraPartyHat.gif"}
-    ]
+    ],
+    "item_cost": "50 Diamond Dust"
     
   },
   {
@@ -43972,7 +44030,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Partytime.gif"
+    "pet_image": "Partytime.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "PaintedBonnetAD.gif",
@@ -45886,7 +45945,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Lyra.gif"
+    "pet_image": "Lyra.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "BlizzardJar.gif",
@@ -58639,7 +58699,8 @@
     "designer": "Uboa (25101)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "PurpleAppleBob.gif",
@@ -58651,7 +58712,8 @@
     "designer": "Uboa (25101)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "PinkAppleBob.gif",
@@ -58663,7 +58725,8 @@
     "designer": "Uboa (25101)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "OrangeAppleBob.gif",
@@ -58675,7 +58738,8 @@
     "designer": "Uboa (25101)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "LimeAppleBob.gif",
@@ -58687,7 +58751,8 @@
     "designer": "Uboa (25101)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "GreenAppleBob.gif",
@@ -58699,7 +58764,8 @@
     "designer": "Uboa (25101)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BrownAppleBob.gif",
@@ -58711,7 +58777,8 @@
     "designer": "Uboa (25101)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BlueAppleBob.gif",
@@ -58723,7 +58790,8 @@
     "designer": "Uboa (25101)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BlondAppleBob.gif",
@@ -58735,7 +58803,8 @@
     "designer": "Uboa (25101)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "BlackAppleBob.gif",
@@ -58747,7 +58816,8 @@
     "designer": "Uboa (25101)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "WhiteFlipHair.gif",
@@ -59347,7 +59417,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Saison.gif"
+    "pet_image": "Saison.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "BoomBox.gif",
@@ -61228,7 +61299,9 @@
     "location": "2018 April Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "PrettyPenny.gif"
+    "pet_image": "PrettyPenny.gif",
+    "usershop_price": 300000,
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "KarlGroomRAD.gif",
@@ -61255,7 +61328,8 @@
     "location": "2018 April Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Karl.gif"
+    "pet_image": "Karl.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "FlourCrown.gif",
@@ -62063,7 +62137,8 @@
         "name": "Unicorn PJ Mittens",
         "image": "UnicornPJMittens.gif"
       }
-    ]
+    ],
+    "item_cost": "100 Diamond Dust"
   },
   {
     "image": "PJGiftBox.gif",
@@ -62113,7 +62188,8 @@
         "name": "Unicorn PJs",
         "image": "UnicornPJs.gif"
       }
-    ]
+    ],
+    "item_cost": "100 Diamond Dust"
   },
   {
     "image": "UnicornPJMittens.gif",
@@ -67459,7 +67535,8 @@
     "designer": "Cervine (4030)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "SharkIcon.gif",
@@ -68898,7 +68975,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Griff.gif"
+    "pet_image": "Griff.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Polly_AD.gif",
@@ -68911,7 +68989,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Polly.gif"
+    "pet_image": "Polly.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Lisa_AD.gif",
@@ -68924,7 +69003,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Lisa.gif"
+    "pet_image": "Lisa.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Spice_AD.gif",
@@ -68937,7 +69017,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Spice.gif"
+    "pet_image": "Spice.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Patches_AD.gif",
@@ -68950,7 +69031,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Patches.gif"
+    "pet_image": "Patches.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Hattie_AD.gif",
@@ -68963,7 +69045,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Hattie.gif"
+    "pet_image": "Hattie.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Sugar_AD.gif",
@@ -68976,7 +69059,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Sugar.gif"
+    "pet_image": "Sugar.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Hairriet_AD.gif",
@@ -68989,7 +69073,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Hairriet.gif"
+    "pet_image": "Hairriet.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Green_Scar_Face.gif",
@@ -69914,7 +69999,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Violin.gif",
@@ -77761,7 +77847,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "DWI.gif"
+    "pet_image": "DWI.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Spotlight_BG.gif",
@@ -78437,7 +78524,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Shortcake.gif"
+    "pet_image": "Shortcake.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Valkyrie_Band.gif",
@@ -78782,7 +78870,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Knight_Sword.gif",
@@ -79700,7 +79789,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Slotted_Sunglasses_3.gif",
@@ -81644,7 +81734,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "WishingWellSis.gif"
+    "pet_image": "WishingWellSis.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Wishing_Well_Bro_AD.gif",
@@ -81657,7 +81748,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "WishingWellBro.gif"
+    "pet_image": "WishingWellBro.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Spring_Badge.gif",
@@ -82882,7 +82974,8 @@
     "designer": "bearsister (6495)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Game_Kid_Icon.gif",
@@ -83586,7 +83679,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "Nurseling.gif"
+    "pet_image": "Nurseling.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Gem_Carving.gif",
@@ -86045,7 +86139,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Starry_Night_BG.gif",
@@ -86893,7 +86988,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "10 Diamond Dust"
 },
   {
     "image": "Anger_Brows_2.gif",
@@ -87165,7 +87261,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop, Battle Center, Daily Gachapon",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "25 Diamond Dust"
 },
   {
     "image": "Pumpkin_Icon.gif",
@@ -87223,7 +87320,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Bamboo_BG.gif",
@@ -87274,7 +87372,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Orange_Party_Punch.gif",
@@ -88012,7 +88111,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "KawaiiIdol.gif"
+    "pet_image": "KawaiiIdol.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "Tidepool_AD.gif",
@@ -89560,7 +89660,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "400 Diamond Dust"
 },
   {
     "image": "Heatwave_Minion_Stamp.gif",
@@ -92910,7 +93011,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "ManekiNekoling.gif"
+    "pet_image": "ManekiNekoling.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "BeanGoatToy2.gif",
@@ -93780,7 +93882,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Neko_Icon.gif",
@@ -93792,7 +93895,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Moon_Wand_Icon.gif",
@@ -93804,7 +93908,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Magic_Star_Icon.gif",
@@ -93816,7 +93921,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Castle_Icon.gif",
@@ -93828,7 +93934,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Blue_Bow_Icon.gif",
@@ -93840,7 +93947,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Lasagna.gif",
@@ -94337,7 +94445,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "Shoot_Star_DNI.gif",
@@ -94374,7 +94483,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "PancakesIcon.gif",
@@ -94397,7 +94507,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_798.gif",
@@ -94409,7 +94520,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_797.gif",
@@ -94421,7 +94533,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_796.gif",
@@ -94433,7 +94546,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_795.gif",
@@ -94445,7 +94559,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_794.gif",
@@ -94457,7 +94572,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_793.gif",
@@ -94469,7 +94585,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_792.gif",
@@ -94481,7 +94598,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_791.gif",
@@ -94493,7 +94611,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_790.gif",
@@ -94505,7 +94624,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_789.gif",
@@ -94517,7 +94637,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_788.gif",
@@ -94529,7 +94650,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_787.gif",
@@ -94541,7 +94663,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_786.gif",
@@ -94553,7 +94676,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_785.gif",
@@ -94565,7 +94689,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_784.gif",
@@ -94577,7 +94702,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_783.gif",
@@ -94589,7 +94715,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_782.gif",
@@ -94601,7 +94728,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_781.gif",
@@ -94613,7 +94741,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_780.gif",
@@ -94625,7 +94754,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_779.gif",
@@ -94638,7 +94768,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "pet2_39.gif"
+    "pet_image": "pet2_39.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "item_778.gif",
@@ -94650,7 +94781,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "400 Diamond Dust"
 },
   {
     "image": "item_777.gif",
@@ -95718,7 +95850,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "1000 Diamond Dust"
 },
   {
     "image": "item_680.gif",
@@ -95730,7 +95863,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_679.gif",
@@ -95742,7 +95876,8 @@
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
-    "retired": false
+    "retired": false,
+    "item_cost": "100 Diamond Dust"
 },
   {
     "image": "item_678.gif",
@@ -98459,7 +98594,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "pet2_33.gif"
+    "pet_image": "pet2_33.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "item_447.gif",
@@ -99577,7 +99713,8 @@
     "location": "Diamond Dust Shop",
     "diamond_dust": true,
     "retired": false,
-    "pet_image": "pet2_25.gif"
+    "pet_image": "pet2_25.gif",
+    "item_cost": "200 Diamond Dust"
   },
   {
     "image": "item_369.gif",
@@ -104687,7 +104824,7 @@
     "date": "2012-01-31T00:00:10.000Z",
     "price": 200,
     "type": "toy",
-    "description": "Can you walk the dog.",
+    "description": "Can you walk the dog?",
     "designer": "Krisgoat (2)",
     "location": "Toy Shop (1)",
     "retired": false,
