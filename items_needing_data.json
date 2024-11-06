@@ -72997,7 +72997,8 @@
     "contains": false,
     "craftable": false,
     "price": 3000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 40000000
   },
   {
     "image": "Red_Maple_Ears.gif",
@@ -73010,7 +73011,8 @@
     "location": "Inside a 'Red Maple Bottle' from the 2016 Fall Diamond Dust Special",
     "retired": false,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 30000000
   },
   {
     "image": "Red_Maple_Crown.gif",
@@ -73023,7 +73025,8 @@
     "location": "Inside a 'Red Maple Bottle' from the 2016 Fall Diamond Dust Special",
     "retired": false,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 100000000
   },
   {
     "image": "Red_Maple_Hair.gif",
@@ -76043,7 +76046,7 @@
     "craftable": false,
     "price": 5000,
     "type": "wearable",
-    "usershop_price": 40000000
+    "usershop_price": 100000000
   },
   {
     "image": "Sweet_Pea_Ears.gif",
