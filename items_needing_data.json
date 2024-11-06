@@ -3187,7 +3187,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FacepaintTiger.gif",
@@ -3200,7 +3201,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FacepaintRainbowTiara.gif",
@@ -3213,7 +3215,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FacepaintFlowers.gif",
@@ -3225,7 +3228,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FacepaintButterfly.gif",
@@ -3237,7 +3241,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FacePainterAD.gif",
@@ -3249,7 +3254,8 @@
     "designer": "_Celeste_ (76431)",
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
-    "pet_image": "FacePainter.gif"
+    "pet_image": "FacePainter.gif",
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "PineappleCrushBag.gif",
@@ -4806,7 +4812,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "7 Phun Bux"
   },
   {
     "image": "BlueHandkerchief.gif",
@@ -4819,7 +4826,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "7 Phun Bux"
   },
   {
     "image": "YellowHandkerchief.gif",
@@ -4832,7 +4840,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "7 Phun Bux"
   },
   {
     "image": "SillyBillyTop.gif",
@@ -4845,7 +4854,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "SillyBillyHat.gif",
@@ -4858,7 +4868,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "SillyBillyFacePaint.gif",
@@ -4871,7 +4882,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "SillyBillyAD.gif",
@@ -4881,7 +4893,8 @@
     "type": "pet_look",
     "description": "",
     "designer": "SugarDreamsHK (52082)",
-    "location": "Craft item using Trickster's Tavern items",
+    "location": "Zurora's Crafting Shop, Trickster's Tavern",
+    "item_cost": "20 Phun Bux",
     "retired": false,
     "pet_image": "SillyBilly.gif",
     "craftable": [
@@ -11115,7 +11128,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "GoosePlush.gif",
@@ -11131,7 +11145,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "PlatyPlushie.gif",
@@ -11147,7 +11162,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "WallabyPlush.gif",
@@ -11163,7 +11179,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "KangarooPlush.gif",
@@ -11179,7 +11196,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "SeaOtterPlush.gif",
@@ -11195,7 +11213,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "BlueOtterPlush.gif",
@@ -11211,7 +11230,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "LeafDuckyPlush.gif",
@@ -11227,7 +11247,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "BeePlush.gif",
@@ -11243,7 +11264,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "BabyDuckyPlush.gif",
@@ -11259,7 +11281,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "TuffStuffUchiwa.gif",
@@ -13665,7 +13688,8 @@
       "mood": 20
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "DaisyEgg.gif",
@@ -13679,7 +13703,8 @@
     "retired": false,
     "bonus": {
       "hunger": 20
-    }
+    },
+    "item_cost": "7 Phun Bux"
   },
   {
     "image": "HeartEggToast.gif",
@@ -13695,7 +13720,8 @@
       "hunger": 20
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "7 Phun Bux"
   },
   {
     "image": "JammyEggs.gif",
@@ -13711,7 +13737,8 @@
       "hunger": 20
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "7 Phun Bux"
   },
   {
     "image": "EggshellHat.gif",
@@ -13724,7 +13751,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "DaisyYolkRibbon.gif",
@@ -13737,7 +13765,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "DaisyYolkHairpin.gif",
@@ -13750,7 +13779,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "DaisyYolkHair.gif",
@@ -13763,7 +13793,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "DaisyYolkFace.gif",
@@ -13776,7 +13807,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "DaisyYolkAD.gif",
@@ -13786,15 +13818,15 @@
     "type": "pet_look",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Craftable item using items from Trickster's Tavern",
+    "location": "Zurora's Crafting Shop, Trickster's Tavern",
     "retired": false,
     "pet_image": "DaisyYolk.gif",
     "craftable": [
       {"name": "Heart Egg Toast", "image": "HeartEggToast.gif"},
       {"name": "Daisy Egg", "image": "DaisyEgg.gif"},
       {"name": "Jammy Eggs", "image": "JammyEggs.gif"}
-    ]
-    
+    ],
+    "item_cost": "20 Phun Bux"
   },
   {
     "image": "TiangouPlush.gif",
@@ -21939,7 +21971,8 @@
     "designer": "Metroghost (94079)",
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
-    "pet_image": "Yeehonk.gif"
+    "pet_image": "Yeehonk.gif",
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "YeehonkTop.gif",
@@ -21952,7 +21985,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "YeehonkMakeup.gif",
@@ -21965,7 +21999,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "YeehonkHat.gif",
@@ -21977,7 +22012,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "YeehonkBase.gif",
@@ -21989,7 +22025,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "HuggabullFriend.gif",
@@ -22002,7 +22039,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "YeehonkPlush.gif",
@@ -22018,7 +22056,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FruitPunchBarrel.gif",
@@ -22034,7 +22073,8 @@
       "hunger": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "3 Carnival Tickets"
   },
   {
     "image": "ClownMakeup.gif",
@@ -22047,7 +22087,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "YellowPaintedHuggabull.gif",
@@ -22063,7 +22104,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "SkunkHuggabull.gif",
@@ -22079,7 +22121,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "PrincessHuggabull.gif",
@@ -22095,7 +22138,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "HeatwaveHuggabull.gif",
@@ -22111,7 +22155,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "ColorfulHuggabull.gif",
@@ -22127,7 +22172,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "ClassicHuggabull.gif",
@@ -22143,7 +22189,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "BrownHuggabull.gif",
@@ -22159,7 +22206,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "SaltwaterTaffies.gif",
@@ -24279,7 +24327,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "DecalingAD.gif",
@@ -24424,9 +24473,10 @@
     "type": "pet_look",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Craftable item using items from Trickster's Tavern",
+    "location": "Zurora's Crafting Shop, Trickster's Tavern",
     "retired": false,
-    "pet_image": "JestBalloon.gif"
+    "pet_image": "JestBalloon.gif",
+    "item_cost": "20 Phun Bux"
   },
   {
     "image": "AutismInfinityIcon.gif",
@@ -24463,7 +24513,8 @@
         "name": "Yellow Deflated Balloon",
         "image": "YellowDeflatedBalloon.gif"
       }
-    ]
+    ],
+    "item_cost": "7 Phun Bux"
   },
   {
     "image": "BlueDeflatedBalloon.gif",
@@ -24596,7 +24647,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "BalloonString.gif",
@@ -24609,7 +24661,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "7 Phun Bux"
   },
   {
     "image": "HeliumTank.gif",
@@ -24622,7 +24675,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "7 Phun Bux"
   },
   {
     "image": "GamingBox.gif",
@@ -31273,7 +31327,8 @@
         "name": "Magic Hat Bun Friend",
         "image": "MagicHatBunFriend.gif"
       }
-    ]
+    ],
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "WhiteTigerFriend.gif",
@@ -31392,7 +31447,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "FrogFriendPlush.gif",
@@ -31408,7 +31464,8 @@
       "mood": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "ProteinShake.gif",
@@ -31440,7 +31497,8 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "3 Carnival Tickets"
   },
   {
     "image": "ChocolateBanana.gif",
@@ -31456,7 +31514,8 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "3 Carnival Tickets"
   },
   {
     "image": "TwistyMallows.gif",
@@ -31470,7 +31529,8 @@
     "retired": false,
     "bonus": {
       "hunger": 30
-    }
+    },
+    "item_cost": "3 Carnival Tickets"
   },
   {
     "image": "TwistyTails.gif",
@@ -31483,7 +31543,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "RedCarnivalBooth.gif",
@@ -31495,7 +31556,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "PinkCarnivalBooth.gif",
@@ -31507,7 +31569,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "BlueCarnivalBooth.gif",
@@ -31519,7 +31582,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FairyFlossJar.gif",
@@ -31565,7 +31629,8 @@
         "name": "Fairy Floss Pixie BP",
         "image": "FairyFlossPixie.gif"
       }
-    ]
+    ],
+    "item_cost": "5 Carnival Tickets"
     
   },
   {
@@ -31722,7 +31787,8 @@
         "name": "Starlit Carousel Hair",
         "image": "StarlitCarouselHair.gif"
       }
-    ]
+    ],
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "StarlitCarouselFace.gif",
@@ -35332,7 +35398,8 @@
     "type": "container",
     "description": "",
     "designer": "ego (75471)",
-    "location": "10 Phun Bux at Trickster's Tavern",
+    "location": "Trickster's Tavern",
+    "item_cost": "10 Phun Bux",
     "retired": false,
     "diamond_dust": false,
     "contains": [
@@ -35507,7 +35574,8 @@
         "name": "Dry Marker",
         "image": "DryMarker.gif"
       }
-    ]
+    ],
+    "item_cost": "2 Phun Bux"
     
   },
   {
@@ -35530,7 +35598,8 @@
         "name": "Phun Bux",
         "image": "PhunBux.gif"
       }
-    ]
+    ],
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "CleanCardboard.gif",
@@ -35543,7 +35612,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "ChewedCardboard.gif",
@@ -35556,7 +35626,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "WetCardboard.gif",
@@ -35569,7 +35640,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "DryMarker.gif",
@@ -35582,7 +35654,8 @@
     "location": "Trickster's Tavern",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "PhunBux.gif",
@@ -35592,7 +35665,7 @@
     "type": "collectible",
     "description": "",
     "designer": "PrettySkitty (18716)",
-    "location": "Seasonal April Jestling Event, currency used at Trickster's Tavern",
+    "location": "Seasonal April Jestling Event, Trickster's Tavern Currency",
     "retired": false,
     "diamond_dust": false,
     "contains": false,
@@ -35600,7 +35673,8 @@
       {"name": "Chewed Cardboard", "image": "ChewedCardboard.gif"},
       {"name": "Wet Cardboard", "image": "WetCardboard.gif"},
       {"name": "Dry Marker", "image": "DryMarker.gif"}
-    ]
+    ],
+    "item_cost": "2 Phun Bux"
   },
   {
     "image": "TrashFriendRatBP.gif",
@@ -41748,7 +41822,8 @@
     "retired": false,
     "bonus": {
       "mood": 30
-    }
+    },
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "CraneGameVeil.gif",
@@ -41761,7 +41836,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "CraneGameBG.gif",
@@ -41774,7 +41850,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "PrincessMask.gif",
@@ -41786,7 +41863,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "FoxMask.gif",
@@ -41798,7 +41876,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "BandKidDrum.gif",
@@ -41811,7 +41890,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "BandKidUniform.gif",
@@ -41824,7 +41904,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "BandKidHat.gif",
@@ -41837,7 +41918,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FryVendorFace.gif",
@@ -41849,7 +41931,10 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "5 Carnival Tickets",
+    "type": "wearable",
+    "price": 1000
   },
   {
     "image": "FryVendorApron.gif",
@@ -41862,7 +41947,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FryVendorShirt.gif",
@@ -41875,7 +41961,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FryVendorHat.gif",
@@ -41887,7 +41974,10 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "item_cost": "5 Carnival Tickets",
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "VendorFries.gif",
@@ -41903,7 +41993,8 @@
       "hunger": 30
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "WrappedRockCandy.gif",
@@ -41924,7 +42015,9 @@
       {"name": "Purple Rock Candy", "image": "PurpleRockCandy.gif"},
       {"name": "Pink Rock Candy", "image": "PinkRockCandy.gif"},
       {"name": "Rainbow Rock Candy", "image": "RainbowRockCandy.gif"}
-]},
+    ],
+    "item_cost": "1 Carnival Ticket"
+},
   {
     "image": "RainbowRockCandy.gif",
     "name": "Rainbow Rock Candy",
@@ -42079,7 +42172,8 @@
     "designer": "mousey (78028)",
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
-    "pet_image": "FryVendor.gif"
+    "pet_image": "FryVendor.gif",
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "BandKidAD.gif",
@@ -42091,7 +42185,8 @@
     "designer": "elegance (71058)",
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
-    "pet_image": "BandKid.gif"
+    "pet_image": "BandKid.gif",
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "StarCrossedPlanets.gif",
@@ -42314,10 +42409,11 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "yumekitti (4093)",
-    "location": "Summer Night Carnival event",
+    "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "BLMBanner.gif",
@@ -49939,9 +50035,10 @@
     "type": "pet_look",
     "description": "A Goatling that loves the carnival.",
     "designer": "Shipwreck (49919)",
-    "location": "Summer Night Carnival event",
+    "location": "Ticket Vendor Prize Booth",
     "retired": false,
-    "pet_image": "AfternoonCarnival.gif"
+    "pet_image": "AfternoonCarnival.gif",
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "CarnivalBG.gif",
@@ -50201,7 +50298,8 @@
     "designer": "moobuttt (403)",
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
-    "pet_image": "TicketVendor.gif"
+    "pet_image": "TicketVendor.gif",
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "BetaPlush.gif",
@@ -50215,7 +50313,8 @@
     "retired": false,
     "bonus": {
       "mood": 100
-    }
+    },
+    "item_cost": "10 Carnival Tickets"
   },
   {
     "image": "TuffStuffPlush.gif",
@@ -50247,7 +50346,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "FuzzyDice.gif",
@@ -50263,7 +50363,8 @@
       "mood": 10
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "InflatableHammer.gif",
@@ -50279,7 +50380,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "1 Carnival Ticket"
   },
   {
     "image": "SnakePlush.gif",
@@ -50295,7 +50397,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "AlpacaPlush.gif",
@@ -50311,7 +50414,8 @@
       "mood": 50
     },
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "RainbowPrizeBear.gif",
@@ -50324,7 +50428,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "PurplePrizeBear.gif",
@@ -50337,7 +50442,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "BrownPrizeBear.gif",
@@ -50350,7 +50456,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "SkyYukata.gif",
@@ -50363,7 +50470,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "PinkYukata.gif",
@@ -50376,7 +50484,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "BlueYukata.gif",
@@ -50389,7 +50498,8 @@
     "location": "Ticket Vendor Prize Booth",
     "retired": false,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "item_cost": "5 Carnival Tickets"
   },
   {
     "image": "FannyPack.gif",
