@@ -56828,7 +56828,9 @@
         "name": "Sweet Demon BG",
         "image": "SweetDemonBG.gif"
       }
-    ]},
+    ],
+    "usershop_price": 19000000
+  },
   {
     "image": "NightmareEaterMascotBox.gif",
     "name": "Nightmare Eater Mascot Box",
@@ -56873,7 +56875,9 @@
         "name": "Nightmare Eater BG",
         "image": "NightmareEaterBG.gif"
       }
-    ]},
+    ],
+    "usershop_price": 20000000
+  },
   {
     "image": "SweetDemonWings.gif",
     "name": "Sweet Demon Wings",
@@ -65278,7 +65282,8 @@
         "name": "Moon Veil",
         "image": "MoonVeil.gif"
       }
-    ]
+    ],
+    "usershop_price": 7800000
   },
   {
     "image": "StrawDollBox.gif",
@@ -65319,7 +65324,9 @@
         "name": "Straw Doll Hat",
         "image": "StrawDollHat.gif"
       }
-    ]},
+    ],
+    "usershop_price": 32000000
+  },
   {
     "image": "PumpkinHead.gif",
     "name": "Pumpkin Head",
@@ -65331,7 +65338,8 @@
     "location": "Inside a 'Jack O Lantern Box' from the 2017 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 7000000
   },
   {
     "image": "MoonVeil.gif",
@@ -65342,7 +65350,8 @@
     "description": "Part of the Team Jack O Lantern set. Monster Masquerade 2017.",
     "designer": "IWasBored (19566)",
     "location": "Inside a 'Jack O Lantern Box' from the 2017 Monster Masquerade",
-    "retired": true
+    "retired": true,
+    "usershop_price": 19000000
 },
   {
     "image": "JackCape.gif",
@@ -65355,7 +65364,8 @@
     "location": "Inside a 'Jack O Lantern Box' from the 2017 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 8000000
   },
   {
     "image": "JackJacket.gif",
@@ -65368,7 +65378,8 @@
     "location": "Inside a 'Jack O Lantern Box' from the 2017 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 2000000
   },
   {
     "image": "JackShirt.gif",
@@ -65379,7 +65390,8 @@
     "description": "Part of the Team Jack O Lantern set. Monster Masquerade 2017.",
     "designer": "IWasBored (19566)",
     "location": "Inside a 'Jack O Lantern Box' from the 2017 Monster Masquerade",
-    "retired": true
+    "retired": true,
+    "usershop_price": 8000000
 },
   {
     "image": "Lantern.gif",
@@ -65392,7 +65404,8 @@
     "location": "Inside a 'Jack O Lantern Box' from the 2017 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 24000000
   },
   {
     "image": "StrawDollOveralls.gif",
@@ -65403,7 +65416,8 @@
     "description": "Part of the Team Straw Doll Set. Monster Masquerade 2017. ",
     "designer": "IWasBored (19566)",
     "location": "Inside a 'Straw Doll Box' from the 2017 Monster Masquerade",
-    "retired": true
+    "retired": true,
+    "usershop_price": 9000000
 },
   {
     "image": "StrawDollBandanna.gif",
@@ -65414,7 +65428,8 @@
     "description": "Part of the Team Straw Doll Set. Monster Masquerade 2017. ",
     "designer": "IWasBored (19566)",
     "location": "Inside a 'Straw Doll Box' from the 2017 Monster Masquerade",
-    "retired": true
+    "retired": true,
+    "usershop_price": 5000000
 },
   {
     "image": "StrawDollFace.gif",
@@ -65427,7 +65442,8 @@
     "location": "Inside a 'Straw Doll Box' from the 2017 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 15000000
   },
   {
     "image": "StrawDollHair.gif",
@@ -65438,7 +65454,8 @@
     "description": "Part of the Team Straw Doll Set. Monster Masquerade 2017. ",
     "designer": "IWasBored (19566)",
     "location": "Inside a 'Straw Doll Box' from the 2017 Monster Masquerade",
-    "retired": true
+    "retired": true,
+    "usershop_price": 1800000
 },
   {
     "image": "StrawDollHat.gif",
@@ -65451,7 +65468,8 @@
     "location": "Inside a 'Straw Doll Box' from the 2017 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 2000000
   },
   {
     "image": "CrowFriends.gif",
@@ -65464,7 +65482,8 @@
     "location": "Inside a 'Straw Doll Box' from the 2017 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 69000000
   },
   {
     "image": "JackOLanternAD.gif",
@@ -76014,7 +76033,7 @@
     "usershop_price": 25000000
   },
   {
-    "image": "Essence_Of_Sweet_Pea.gif",
+    "image": "Essence%20Of%20Sweet%20Pea.gif",
     "name": "Essence Of Sweet Pea",
     "date": "2016-03-03T00:00:10.000Z",
     "price": 5000,
@@ -76025,15 +76044,17 @@
     "retired": true,
     "diamond_dust": true,
     "contains": [
-      {"name": "Sweet Pea AD", "image": "Sweet_Pea_AD.gif"},
-      {"name": "Sweet Pea Hood", "image": "Sweet_Pea_Hood.gif"},
-      {"name": "Sweet Pea Hair", "image": "Sweet_Pea_Hair.gif"},
-      {"name": "Sweet Pea Ears", "image": "Sweet_Pea_Ears.gif"},
-      {"name": "Sweet Pea Flowers", "image": "Sweet_Pea_Flowers.gif"},
-      {"name": "Sweet Pea Smile", "image": "Sweet_Pea_Smile.gif"}
-    ]},
+      {"name": "Sweet Pea AD", "image": "Sweet Pea AD.gif"},
+      {"name": "Sweet Pea Hood", "image": "Sweet Pea Hood.gif"},
+      {"name": "Sweet Pea Hair", "image": "Sweet Pea Hair.gif"},
+      {"name": "Sweet Pea Ears", "image": "Sweet Pea Ears.gif"},
+      {"name": "Sweet Pea Flowers", "image": "Sweet Pea Flowers.gif"},
+      {"name": "Sweet Pea Smile", "image": "Sweet Pea Smile.gif"}
+    ],
+    "usershop_price": 45000000
+  },
   {
-    "image": "Sweet_Pea_Smile.gif",
+    "image": "Sweet Pea Smile.gif",
     "name": "Sweet Pea Smile",
     "date": "2016-03-03T00:00:10.000Z",
     "price": 5000,
