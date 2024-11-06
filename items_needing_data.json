@@ -72747,7 +72747,7 @@
     "usershop_price": 150000000
   },
   {
-    "image": "Lovepire_Box.gif",
+    "image": "Lovepire Box.gif",
     "name": "Lovepire Box",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 100000,
@@ -72758,15 +72758,17 @@
     "diamond_dust": true,
     "retired": true,
     "contains": [
-      {"name": "Lovepire Wings", "image": "Lovepire_Wings.gif"},
-      {"name": "Lovepire Hair", "image": "Lovepire_Hair.gif"},
-      {"name": "Lovepire Face", "image": "Lovepire_Face.gif"},
-      {"name": "Lovepire Earrings", "image": "Lovepire_Earrings.gif"},
-      {"name": "Lovepire Cloak", "image": "Lovepire_Cloak.gif"},
-      {"name": "Lovepire AD", "image": "Lovepire_AD.gif"}
-    ]},
+      {"name": "Lovepire Wings", "image": "Lovepire Wings.gif"},
+      {"name": "Lovepire Hair", "image": "Lovepire Hair.gif"},
+      {"name": "Lovepire Face", "image": "Lovepire Face.gif"},
+      {"name": "Lovepire Earrings", "image": "Lovepire Earrings.gif"},
+      {"name": "Lovepire Cloak", "image": "Lovepire Cloak.gif"},
+      {"name": "Lovepire AD", "image": "Lovepire AD.gif"}
+    ],
+    "usershop_price": 90000000
+  },
   {
-    "image": "Lovepire_Cloak.gif",
+    "image": "Lovepire Cloak.gif",
     "name": "Lovepire Cloak",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72779,7 +72781,7 @@
     "contains": false
   },
   {
-    "image": "Lovepire_Face.gif",
+    "image": "Lovepire Face.gif",
     "name": "Lovepire Face",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72792,7 +72794,7 @@
     "contains": false
   },
   {
-    "image": "Lovepire_Hair.gif",
+    "image": "Lovepire Hair.gif",
     "name": "Lovepire Hair",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72805,7 +72807,7 @@
     "contains": false
   },
   {
-    "image": "Lovepire_Earrings.gif",
+    "image": "Lovepire Earrings.gif",
     "name": "Lovepire Earrings",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72818,7 +72820,7 @@
     "contains": false
   },
   {
-    "image": "Lovepire_Wings.gif",
+    "image": "Lovepire Wings.gif",
     "name": "Lovepire Wings",
     "date": "2016-10-01T00:00:10.000Z",
     "price": 2000,
@@ -72828,7 +72830,8 @@
     "location": "Inside a 'Lovepire Box' from the 2016 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 62000000
   },
   {
     "image": "Cinnawitch Box.gif",
@@ -72848,8 +72851,8 @@
       {"name": "Cinnawitch Face", "image": "Cinnawitch Face.gif"},
       {"name": "Cinnawitch Cloak", "image": "Cinnawitch Cloak.gif"},
       {"name": "Cinnawitch AD", "image": "Cinnawitch AD.gif"}
-    ]
-    
+    ],
+    "usershop_price": 98000000
   },
   {
     "image": "Cinnawitch Hat.gif",
