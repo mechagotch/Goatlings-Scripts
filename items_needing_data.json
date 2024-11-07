@@ -69874,7 +69874,7 @@
       {"name": "Tea Party Cup", "image": "Tea%20Party%20Cup.gif"},
       {"name": "Tea Party Bow", "image": "Tea%20Party%20Bow.gif"},
       {"name": "Tea Party Hair", "image": "Tea%20Party%20Hair.gif"},
-      {"name": "Short Tea Party Hair", "image": "Short_Tea%20Party%20Hair.gif"},
+      {"name": "Short Tea Party Hair", "image": "Short%20Tea%20Party%20Hair.gif"},
       {"name": "Tea Party Blouse", "image": "Tea%20Party%20Blouse.gif"}
     ],
     "usershop_price": 90000000
@@ -69917,7 +69917,7 @@
     "retired": true
 },
   {
-    "image": "Short_Tea%20Party%20Hair.gif",
+    "image": "Short%20Tea%20Party%20Hair.gif",
     "name": "Short Tea Party Hair",
     "date": "2017-03-25T00:00:10.000Z",
     "price": 2000,
