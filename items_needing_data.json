@@ -47252,7 +47252,8 @@
         "name": "Polar Ursa BG",
         "image": "PolarUrsaBG.gif"
       }
-    ]
+    ],
+    "usershop_price": 99000000
   },
   {
     "image": "PolarUrsaTeddy.gif",
@@ -47266,7 +47267,8 @@
     "retired": true,
     "bonus": {
       "mood": 60
-    }
+    },
+    "usershop_price": 47000000
   },
   {
     "image": "PolarUrsaBG.gif",
@@ -47279,7 +47281,8 @@
     "location": "Inside a 'Polar Ursa Box' from the 2019 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 35000000
   },
   {
     "image": "PolarUrsaStars.gif",
@@ -47292,7 +47295,8 @@
     "location": "Inside a 'Polar Ursa Box' from the 2019 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 60000000
   },
   {
     "image": "CreamPolarUrsaCoat.gif",
@@ -47305,7 +47309,8 @@
     "location": "Inside a 'Polar Ursa Box' from the 2019 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 30000000
   },
   {
     "image": "CreamPolarUrsaHat.gif",
@@ -47318,7 +47323,8 @@
     "location": "Inside a 'Polar Ursa Box' from the 2019 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 21500000
   },
   {
     "image": "PolarUrsaCoat.gif",
@@ -47330,7 +47336,10 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 3000,
+    "type": "wearable",
+    "usershop_price": 15000000
   },
   {
     "image": "PolarUrsaHat.gif",
@@ -47342,7 +47351,10 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 3000,
+    "type": "wearable",
+    "usershop_price": 34000000
   },
   {
     "image": "PolarUrsaAD.gif",
@@ -48614,7 +48626,8 @@
     "location": "Inside a 'Weird Witch Bag' from the 2019 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 20000000
   },
   {
     "image": "WeirdWitchEyes.gif",
@@ -59850,7 +59863,8 @@
     "location": "Inside a 'Boom Box' from the 2018 Summer Diamond Dust Special",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 40000000
   },
   {
     "image": "CardioStarTop.gif",
@@ -81063,7 +81077,8 @@
     "diamond_dust": true,
     "contains": [
       {"name": "GU Diploma", "image": "GU%20Diploma.gif"}
-    ]
+    ],
+    "usershop_price": 3350000
   },
   {
     "image": "GU%20Diploma.gif",
@@ -81076,7 +81091,8 @@
     "location": "Inside a 'GU Diploma' from the 2015 Diamond Dust Shop",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 300000
   },
   {
     "image": "Bookshelf%20BG.gif",
