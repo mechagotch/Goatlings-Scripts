@@ -16148,7 +16148,9 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 3000000,
+    "type": "wearable"
   },
   {
     "image": "AirCorsairCompass.gif",
