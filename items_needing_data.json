@@ -41610,7 +41610,9 @@
       {"name": "Doll Hair", "image": "DollHair.gif"},
       {"name": "Doll Face", "image": "DollFace.gif"},
       {"name": "Heart Key", "image": "HeartKey.gif"}
-    ]},
+    ],
+    "usershop_price": 50000000
+  },
   {
     "image": "HeartKey.gif",
     "name": "Heart Key",
@@ -41621,7 +41623,9 @@
     "designer": "Berrymilk (58926)",
     "location": "Inside a 'Music Box' from the 2020 Summer Night Carnival Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 50000000
+
 },
   {
     "image": "DollHat.gif",
@@ -41633,7 +41637,8 @@
     "designer": "Berrymilk (58926)",
     "location": "Inside a 'Music Box' from the 2020 Summer Night Carnival Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 23900000
 },
   {
     "image": "DollHair.gif",
@@ -41645,7 +41650,8 @@
     "designer": "Berrymilk (58926)",
     "location": "Inside a 'Music Box' from the 2020 Summer Night Carnival Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 8250000
 },
   {
     "image": "DollFace.gif",
@@ -41657,7 +41663,8 @@
     "designer": "Berrymilk (58926)",
     "location": "Inside a 'Music Box' from the 2020 Summer Night Carnival Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 19500000
 },
   {
     "image": "DollRibbon.gif",
@@ -41669,7 +41676,8 @@
     "designer": "Berrymilk (58926)",
     "location": "Inside a 'Music Box' from the 2020 Summer Night Carnival Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 14500000
 },
   {
     "image": "DollDress.gif",
@@ -41681,7 +41689,8 @@
     "designer": "Berrymilk (58926)",
     "location": "Inside a 'Music Box' from the 2020 Summer Night Carnival Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 80000000
 },
   {
     "image": "MusicDollAD.gif",
@@ -42598,7 +42607,9 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "BeachParasol.gif",
