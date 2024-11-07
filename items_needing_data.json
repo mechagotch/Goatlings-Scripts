@@ -62366,7 +62366,8 @@
         "name": "Fawn Mask",
         "image": "FawnMask.gif"
       }
-    ]
+    ],
+    "usershop_price": 100000000
   },
   {
     "image": "MasqlingPerfume.gif",
@@ -62379,7 +62380,8 @@
     "location": "Inside a 'Masqling Box' from the 2018 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 100000000
   },
   {
     "image": "WhiteMask.gif",
