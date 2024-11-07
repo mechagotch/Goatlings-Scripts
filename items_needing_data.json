@@ -56898,7 +56898,8 @@
     "location": "Inside a 'Sweet Demon Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 1800000
   },
   {
     "image": "SweetDemonTail.gif",
@@ -56911,7 +56912,8 @@
     "location": "Inside a 'Sweet Demon Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 700000
   },
   {
     "image": "SweetDemonHorns.gif",
@@ -56924,7 +56926,8 @@
     "location": "Inside a 'Sweet Demon Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 3500000
   },
   {
     "image": "SweetDemonHair.gif",
@@ -56937,7 +56940,8 @@
     "location": "Inside a 'Sweet Demon Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 750000
   },
   {
     "image": "SweetDemonFreckles.gif",
@@ -56950,7 +56954,8 @@
     "location": "Inside a 'Sweet Demon Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 900000
   },
   {
     "image": "SweetDemonFace.gif",
@@ -56963,7 +56968,8 @@
     "location": "Inside a 'Sweet Demon Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 700000
   },
   {
     "image": "SweetDemonBG.gif",
@@ -56976,7 +56982,8 @@
     "location": "Inside a 'Sweet Demon Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 3300000
   },
   {
     "image": "NightmareEaterMask.gif",
@@ -56987,7 +56994,8 @@
     "description": "Mysteriously dreamy mask.",
     "designer": "Pit (16043)",
     "location": "Inside a 'Nightmare Eater Mascot Box' from the 2018 Monster Masquerade",
-    "retired": true
+    "retired": true,
+    "usershop_price": 3200000
 },
   {
     "image": "NightmareEaterHair.gif",
@@ -57000,7 +57008,8 @@
     "location": "Inside a 'Nightmare Eater Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 900000
   },
   {
     "image": "NightmareEaterFriends.gif",
@@ -57011,7 +57020,8 @@
     "description": "Mysteriously dreamy friends.",
     "designer": "Pit (16043)",
     "location": "Inside a 'Nightmare Eater Mascot Box' from the 2018 Monster Masquerade",
-    "retired": true
+    "retired": true,
+    "usershop_price": 3300000
 },
   {
     "image": "NightmareEaterFreckles.gif",
@@ -57024,7 +57034,8 @@
     "location": "Inside a 'Nightmare Eater Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 3200000
   },
   {
     "image": "NightmareEaterFace.gif",
@@ -57037,7 +57048,8 @@
     "location": "Inside a 'Nightmare Eater Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 800000
   },
   {
     "image": "NightmareEaterBow.gif",
@@ -57050,7 +57062,8 @@
     "location": "Inside a 'Nightmare Eater Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 2000000
   },
   {
     "image": "NightmareEaterBG.gif",
@@ -57063,7 +57076,8 @@
     "location": "Inside a 'Nightmare Eater Mascot Box' from the 2018 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 3500000
   },
   {
     "image": "SweetDemonAD.gif",
@@ -57184,7 +57198,8 @@
     "location": "Inside a 'Crow Family Box' from the 2018 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 50000000
   },
   {
     "image": "CrowMonarchTop.gif",
@@ -57196,7 +57211,8 @@
     "designer": "snuddermado (38719)",
     "location": "Inside a 'Crow Family Box' from the 2018 Fall Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 10000000
 },
   {
     "image": "CrowMonarchCrown.gif",
@@ -57208,7 +57224,8 @@
     "designer": "snuddermado (38719)",
     "location": "Inside a 'Crow Family Box' from the 2018 Fall Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 50000000
 },
   {
     "image": "WhiteCrowTop.gif",
@@ -57220,7 +57237,8 @@
     "designer": "snuddermado (38719)",
     "location": "Inside a 'Crow Family Box' from the 2018 Fall Diamond Dust Lucky Box",
     "retired": true,
-    "diamond_dust": true
+    "diamond_dust": true,
+    "usershop_price": 7900000
 },
   {
     "image": "WhiteCrowCrown.gif",
@@ -57233,7 +57251,8 @@
     "location": "Inside a 'Crow Family Box' from the 2018 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 50000000
   },
   {
     "image": "CrowConfidants.gif",
@@ -57246,7 +57265,8 @@
     "location": "Inside a 'Crow Family Box' from the 2018 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 40000000
   },
   {
     "image": "BlackCrowTop.gif",
@@ -57258,7 +57278,10 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable",
+    "usershop_price": 20000000
   },
   {
     "image": "BlackCrowCrown.gif",
@@ -57270,7 +57293,8 @@
     "designer": "snuddermado (38719)",
     "location": "Inside a 'Crow Family Box' from the 2018 Fall Diamond Dust Special",
     "retired": true,
-    "diamond_dust": true
+    "diamond_dust": true,
+    "usershop_price": 32500000
 },
   {
     "image": "CrowMonarchAD.gif",
@@ -59839,7 +59863,8 @@
     "location": "Inside a 'Boom Box' from the 2018 Summer Diamond Dust Special",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 15000000
   },
   {
     "image": "CardioStarHair.gif",
@@ -59850,7 +59875,8 @@
     "description": "Volume to the max.",
     "designer": "darjeeling (31220)",
     "location": "Inside a 'Boom Box' from the 2018 Summer Diamond Dust Special",
-    "retired": true
+    "retired": true,
+    "usershop_price": 10300000
 },
   {
     "image": "PictureDayBG.gif",
@@ -59863,7 +59889,8 @@
     "location": "Inside a 'Boom Box' from the 2018 Summer Diamond Dust Special",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 3900000
   },
   {
     "image": "CardioStarAD.gif",
@@ -62366,7 +62393,8 @@
     "contains": false,
     "craftable": false,
     "price": 5000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 18000000
   },
   {
     "image": "RedMask.gif",
@@ -62380,7 +62408,8 @@
     "contains": false,
     "craftable": false,
     "price": 5000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 15000000
   },
   {
     "image": "PurpleMask.gif",
@@ -62391,7 +62420,8 @@
     "description": "A charming and mysterious look.",
     "designer": "r00p (20210)",
     "location": "Inside a 'Masqling Box' from the 2018 Spring Diamond Dust Special",
-    "retired": true
+    "retired": true,
+    "usershop_price": 20000000
 },
   {
     "image": "GreenMask.gif",
@@ -62404,7 +62434,8 @@
     "location": "Inside a 'Masqling Box' from the 2018 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 14000000
   },
   {
     "image": "GoldMask.gif",
@@ -62415,7 +62446,8 @@
     "description": "A charming and mysterious look.",
     "designer": "r00p (20210)",
     "location": "Inside a 'Masqling Box' from the 2018 Spring Diamond Dust Special",
-    "retired": true
+    "retired": true,
+    "usershop_price": 27000000
 },
   {
     "image": "FawnMask.gif",
@@ -62428,7 +62460,8 @@
     "location": "Inside a 'Masqling Box' from the 2018 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 50000000
   },
   {
     "image": "MasqlingFace.gif",
@@ -62439,7 +62472,8 @@
     "description": "A charming and mysterious look.",
     "designer": "r00p (20210)",
     "location": "Inside a 'Masqling Box' from the 2018 Spring Diamond Dust Special",
-    "retired": true
+    "retired": true,
+    "usershop_price": 12500000
 },
   {
     "image": "MasqlingAD.gif",
@@ -63181,7 +63215,8 @@
       {"name": "Candy Heart Bow", "image": "CandyHeartBow.gif"},
       {"name": "Candy Heart Hair", "image": "CandyHeartHair.gif"},
       {"name": "Candy Heart Face", "image": "CandyHeartFace.gif"}
-    ]},
+    ],
+    "usershop_price": 16000000},
   {
     "image": "CandyHeartRay.gif",
     "name": "Candy Heart Ray",
@@ -63197,7 +63232,8 @@
       "stamina": 120
     },
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 14500000
   },
   {
     "image": "CandyHearts.gif",
@@ -63209,7 +63245,8 @@
     "designer": "hoopla (23347)",
     "location": "Inside a 'Candy Heart Box' from the 2018 February Diamond Dust Special",
     "retired": true,
-    "diamond_dust": true
+    "diamond_dust": true,
+    "usershop_price": 20000000
 },
   {
     "image": "CandyHeartBow.gif",
@@ -63222,7 +63259,8 @@
     "location": "Inside a 'Candy Heart Box' from the 2018 Sweethearts Celebration",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 4750000
   },
   {
     "image": "CandyHeartFace.gif",
@@ -63235,7 +63273,8 @@
     "location": "Inside a 'Candy Heart Box' from the 2018 Sweethearts Celebration",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 8000000
   },
   {
     "image": "CandyHeartHair.gif",
@@ -63247,7 +63286,8 @@
     "designer": "hoopla (23347)",
     "location": "Inside a 'Candy Heart Box' from the 2018 Sweethearts Celebration",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 8900000
 },
   {
     "image": "CandyHeartAD.gif",
@@ -64306,7 +64346,8 @@
     "designer": "IWasBored (19566)",
     "location": "Inside an 'Ice Skates Box' from the 2017 Winter Diamond Dust Special",
     "retired": true,
-    "diamond_dust": true
+    "diamond_dust": true,
+    "usershop_price": 14000000
 },
   {
     "image": "IceSkatesPoncho.gif",
@@ -64319,7 +64360,8 @@
     "location": "Inside an 'Ice Skates Box' from the Winter 2017 Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 25000000
   },
   {
     "image": "IceSkatesScarf.gif",
@@ -64332,7 +64374,8 @@
     "location": "Inside an 'Ice Skates Box' from the Winter 2017 Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 30000000
   },
   {
     "image": "IceSkatesFace.gif",
@@ -64345,7 +64388,8 @@
     "location": "Inside an 'Ice Skates Box' from the Winter 2017 Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 14000000
   },
   {
     "image": "IceSkatesHair.gif",
@@ -64358,7 +64402,8 @@
     "location": "Inside an 'Ice Skates Box' from the Winter 2017 Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 25000000
   },
   {
     "image": "IceSkatesBeret.gif",
@@ -64371,7 +64416,8 @@
     "location": "Inside an 'Ice Skates Box' from the Winter 2017 Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 33000000
   },
   {
     "image": "IceSkatesAD.gif",
@@ -66575,7 +66621,8 @@
         "name": "Shrine Tail",
         "image": "ShrineTail.gif"
       }
-    ]
+    ],
+    "usershop_price": 60000000
   },
   {
     "image": "ShrineTail.gif",
@@ -66587,7 +66634,10 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "usershop_price": 70000000,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "ShrineRope.gif",
@@ -66599,7 +66649,8 @@
     "designer": "r00p (20210)",
     "diamond_dust": true,
     "location": "Inside a 'Shrine Bundle' from the 2017 Fall Diamond Dust Special",
-    "retired": true
+    "retired": true,
+    "usershop_price": 7000000
 },
   {
     "image": "ShrineKimono.gif",
@@ -66612,7 +66663,8 @@
     "location": "Inside a 'Shrine Bundle' from the 2017 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 17500000
   },
   {
     "image": "ShrineFoliage.gif",
@@ -66625,7 +66677,8 @@
     "location": "Inside a 'Shrine Bundle' from the 2017 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 25000000
   },
   {
     "image": "ShrineFace.gif",
@@ -66638,7 +66691,8 @@
     "location": "Inside a 'Shrine Bundle' from the 2017 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 50000000
   },
   {
     "image": "ShrineHood.gif",
@@ -66651,7 +66705,8 @@
     "location": "Inside a 'Shrine Bundle' from the 2017 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 12000000
   },
   {
     "image": "ShrineHair.gif",
@@ -66664,7 +66719,8 @@
     "location": "Inside a 'Shrine Bundle' from the 2017 Fall Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 30000000
   },
   {
     "image": "ShrineEars.gif",
@@ -66678,7 +66734,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 65000000
   },
   {
     "image": "ShrineAD.gif",
@@ -68530,7 +68587,8 @@
     "location": "Free Downtime Gift",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 14000000
   },
   {
     "image": "GlitchMark.gif",
@@ -68543,7 +68601,8 @@
     "location": "Free Downtime Gift",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 1400000
   },
   {
     "image": "PetBarnacle.gif",
@@ -69333,7 +69392,8 @@
     "location": "Free Gift",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 6000000
   },
   {
     "image": "Glitch%20Face.gif",
@@ -69901,7 +69961,8 @@
     "location": "Inside a 'Tea Party Box' from the 2017 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 45000000
   },
   {
     "image": "Tea%20Party%20Blouse.gif",
@@ -69913,7 +69974,8 @@
     "designer": "toucanette (16436)",
     "location": "Inside a 'Tea Party Box' from the 2017 Spring Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 13500000
 },
   {
     "image": "Tea%20Party%20Cup.gif",
@@ -69925,7 +69987,8 @@
     "designer": "toucanette (16436)",
     "location": "Inside a 'Tea Party Box' from the 2017 Spring Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 19000000
 },
   {
     "image": "Short%20Tea%20Party%20Hair.gif",
@@ -69938,7 +70001,8 @@
     "location": "Inside a 'Tea Party Box' from the 2017 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price":20000000
   },
   {
     "image": "Tea%20Party%20Hair.gif",
@@ -69951,7 +70015,8 @@
     "location": "Inside a 'Tea Party Box' from the 2017 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 24000000
   },
   {
     "image": "Tea%20Party%20AD.gif",
