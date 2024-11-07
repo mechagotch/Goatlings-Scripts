@@ -69336,7 +69336,8 @@
     "location": "Free Gift",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 2900000
   },
   {
     "image": "Griff_AD.gif",
