@@ -39065,7 +39065,8 @@
     "retired": true,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "usershop_price": 25000000
   },
   {
     "image": "RatKingScarf.gif",
@@ -69954,7 +69955,8 @@
     "location": "Inside a 'Tea Party Box' from the 2017 Spring Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "pet_image": "TeaParty.gif"
+    "pet_image": "TeaParty.gif",
+    "usershop_price": 90000000
   },
   {
     "image": "Gold%20Ticket.gif",
@@ -100390,7 +100392,7 @@
     "type": "pet_look",
     "description": "Somebunny hare is an impawster!",
     "designer": "Krisgoat (2)",
-    "location": "Inside a 'Plastic Egg 1' from the 2012 April Battle Center",
+    "location": "Inside a 'Plastic Egg I' from the 2012 April Battle Center",
     "retired": true,
     "pet_image": "pet2_24.gif",
     "usershop_price": 200000000
