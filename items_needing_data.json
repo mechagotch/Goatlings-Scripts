@@ -15960,7 +15960,9 @@
     "retired": false,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 1000,
+    "type": "wearable"
   },
   {
     "image": "DivineGuardianHeadWings.gif",
@@ -25653,7 +25655,9 @@
     "retired": false,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 5000000,
+    "type": "wearable"
   },
   {
     "image": "EclipseTop.gif",
@@ -25704,7 +25708,9 @@
     "retired": false,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 5000000,
+    "type": "wearable"
   },
   {
     "image": "EclipseFace.gif",
@@ -25742,7 +25748,9 @@
     "retired": false,
     "diamond_dust": true,
     "contains": false,
-    "craftable": false
+    "craftable": false,
+    "price": 5000000,
+    "type": "wearable"
   },
   {
     "image": "EclipseFlightAD.gif",
@@ -64594,7 +64602,8 @@
     "location": "Free Princess Gift",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 8800000
   },
   {
     "image": "2017HauntedPortraitRAD.gif",
@@ -71860,7 +71869,8 @@
       {"name": "Winter Fir Hat", "image": "Winter%20Fir%20Hat.gif"},
       {"name": "Winter Fir Top", "image": "Winter%20Fir%20Top.gif"},
       {"name": "Winter Fir Hair", "image": "Winter%20Fir%20Hair.gif"}
-    ]},
+    ],
+    "usershop_price": 90000000},
   {
     "image": "Winter%20Fir%20Brows.gif",
     "name": "Winter Fir Brows",
@@ -71872,7 +71882,8 @@
     "location": "Inside a 'Winter Fir Lucky Box' from the 2016 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 1000000
   },
   {
     "image": "Winter%20Fir%20Face.gif",
@@ -71884,7 +71895,8 @@
     "designer": "Pit (16043)",
     "location": "Inside a 'Winter Fir Lucky Box' from the 2016 Winter Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 1000000
 },
   {
     "image": "Winter%20Fir%20Scarf.gif",
@@ -71898,7 +71910,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 40000000
   },
   {
     "image": "Winter%20Fir%20Hat.gif",
@@ -71911,7 +71924,8 @@
     "location": "Inside a 'Winter Fir Lucky Box' from the 2016 Winter Diamond Dust Special",
     "retired": true,
     "diamond_dust": true,
-    "contains": false
+    "contains": false,
+    "usershop_price": 10000000
   },
   {
     "image": "Winter%20Fir%20Top.gif",
@@ -71923,7 +71937,8 @@
     "designer": "Pit (16043)",
     "location": "Inside a 'Winter Fir Lucky Box' from the 2016 Winter Diamond Dust Special",
     "diamond_dust": true,
-    "retired": true
+    "retired": true,
+    "usershop_price": 45000000
 },
   {
     "image": "Winter%20Fir%20Hair.gif",
@@ -71937,7 +71952,8 @@
     "contains": false,
     "craftable": false,
     "price": 1000,
-    "type": "wearable"
+    "type": "wearable",
+    "usershop_price": 15000000
   },
   {
     "image": "Winter%20Fir%20Friend%20AD.gif",
@@ -72800,7 +72816,8 @@
     "location": "Inside a 'Lovepire Box' from the 2016 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 9100000
   },
   {
     "image": "Lovepire%20Face.gif",
@@ -72813,7 +72830,8 @@
     "location": "Inside a 'Lovepire Box' from the 2016 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 24000000
   },
   {
     "image": "Lovepire%20Hair.gif",
@@ -72826,7 +72844,8 @@
     "location": "Inside a 'Lovepire Box' from the 2016 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 8000000
   },
   {
     "image": "Lovepire%20Earrings.gif",
@@ -72839,7 +72858,8 @@
     "location": "Inside a 'Lovepire Box' from the 2016 Monster Masquerade",
     "retired": true,
     "diamond_dust": false,
-    "contains": false
+    "contains": false,
+    "usershop_price": 32000000
   },
   {
     "image": "Lovepire%20Wings.gif",
