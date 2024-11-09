@@ -90260,7 +90260,7 @@
     "name": "Name Tag",
     "date": "2014-05-31T00:00:10.000Z",
     "price": 300000,
-    "type": "change%20username",
+    "type": "change_username",
     "description": "This tag allows you to change your username.",
     "designer": "Krisgoat (2)",
     "location": "Diamond Dust Shop",
