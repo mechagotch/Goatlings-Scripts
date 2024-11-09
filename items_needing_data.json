@@ -30354,7 +30354,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30365,7 +30365,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30376,7 +30376,7 @@
     "type": "health_potion",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "health": 200
@@ -30390,7 +30390,7 @@
     "type": "food",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 20
@@ -30404,7 +30404,7 @@
     "type": "intel_inc",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "intel": 1
@@ -30418,7 +30418,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "sphynx (18754)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 6,
@@ -30433,7 +30433,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "sugarbear (78516)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 6,
@@ -30448,7 +30448,7 @@
     "type": "usericon",
     "description": "",
     "designer": "bugaboo (42928)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30459,7 +30459,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30470,7 +30470,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30481,7 +30481,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30492,7 +30492,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30503,7 +30503,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Starry_Eyed_ (78690) and TricksterTox (41710)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30514,7 +30514,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Starry_Eyed_ (78690) and TricksterTox (41710)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30525,7 +30525,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Starry_Eyed_ (78690) and TricksterTox (41710)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30536,7 +30536,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Starry_Eyed_ (78690) and TricksterTox (41710)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30547,7 +30547,7 @@
     "type": "toy",
     "description": "",
     "designer": "AprilFools (75274)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "mood": 80
@@ -30561,7 +30561,7 @@
     "type": "wearable",
     "description": "",
     "designer": "AprilFools (75274)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30572,7 +30572,7 @@
     "type": "wearable",
     "description": "",
     "designer": "AprilFools (75274)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -30583,7 +30583,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "AutumnSorcerer.gif"
   },
@@ -30595,7 +30595,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Starry_Eyed_ (78690) and TricksterTox (41710)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "BadgerWitch.gif"
   },
@@ -30607,7 +30607,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "AprilFools (75274)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "Serenade.gif"
   },
@@ -40858,7 +40858,7 @@
     "type": "collectible",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -40869,7 +40869,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Treblemaker (80065)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -40880,7 +40880,7 @@
     "type": "collectible",
     "description": "",
     "designer": "TheMagicCronch (20158)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -40891,7 +40891,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Sphynx (18754)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -40902,7 +40902,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -40913,7 +40913,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -40924,7 +40924,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -40935,7 +40935,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Sphynx (18754)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -40946,7 +40946,7 @@
     "type": "food",
     "description": "",
     "designer": "MoonHearts (77193)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 60
@@ -40960,7 +40960,7 @@
     "type": "food",
     "description": "",
     "designer": "herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -40974,7 +40974,7 @@
     "type": "food",
     "description": "",
     "designer": "pompompurin (89897)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 20
@@ -40988,7 +40988,7 @@
     "type": "food",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 20
@@ -41002,7 +41002,7 @@
     "type": "food",
     "description": "",
     "designer": "Sphynx (18754)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -41015,8 +41015,8 @@
     "price": 150000,
     "type": "usericon",
     "description": "Cute decoration for your display name.",
-    "designer": "Boxhead (28938) (28938)",
-    "location": "Seasonal Antique Shop (30)",
+    "designer": "Boxhead (28938)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41027,7 +41027,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "IWasBored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 6,
@@ -41042,7 +41042,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "IWasBored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 6,
@@ -41057,7 +41057,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "Sphynx (18754)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 5,
@@ -41072,7 +41072,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "Berrymilk (58926)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 5,
@@ -41087,7 +41087,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "Treblemaker (80065)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 5,
@@ -41102,7 +41102,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "Ockham (8105)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 5,
@@ -41117,7 +41117,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "TheMagicCronch (20158)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 4,
@@ -41132,7 +41132,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "Lights (80603)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 4,
@@ -41147,7 +41147,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41158,7 +41158,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41169,7 +41169,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41180,7 +41180,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41191,7 +41191,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41202,7 +41202,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41213,7 +41213,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41224,7 +41224,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41235,7 +41235,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41246,7 +41246,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Lostysaur (8901)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41257,7 +41257,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Lostysaur (8901)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41268,7 +41268,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Lostysaur (8901)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41279,7 +41279,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Sphynx (18754)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41290,7 +41290,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Sphynx (18754)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41301,7 +41301,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Sphynx (18754)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -41312,7 +41312,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "GhostHunter.gif"
   },
@@ -41324,7 +41324,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Sphynx (18754)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "AcornScout.gif"
   },
@@ -41336,7 +41336,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Lostysaur (8901)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "BarnOwl.gif"
   },
@@ -48882,7 +48882,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 40
@@ -48896,7 +48896,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -48910,7 +48910,7 @@
     "type": "food",
     "description": "",
     "designer": "BeautyBurnsGold (54484)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -48924,7 +48924,7 @@
     "type": "food",
     "description": "",
     "designer": "Herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -48938,7 +48938,7 @@
     "type": "food",
     "description": "",
     "designer": "Herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -48952,7 +48952,7 @@
     "type": "food",
     "description": "",
     "designer": "Herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 20
@@ -48966,7 +48966,7 @@
     "type": "food",
     "description": "",
     "designer": "Herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 20
@@ -48980,7 +48980,7 @@
     "type": "food",
     "description": "",
     "designer": "Herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 20
@@ -48994,7 +48994,7 @@
     "type": "toy",
     "description": "",
     "designer": "Iwasbored (19566)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "mood": 70
@@ -49008,7 +49008,7 @@
     "type": "collectible",
     "description": "",
     "designer": "sugargoats (18044)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49019,7 +49019,7 @@
     "type": "collectible",
     "description": "",
     "designer": "uboa (25101)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49030,7 +49030,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "bugaboo (42928)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49041,7 +49041,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "farm (17315)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49052,7 +49052,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Lycrosia (63827)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49063,7 +49063,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "Demon_Rose (74624)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 8,
@@ -49078,7 +49078,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "Pit (16043)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 7,
@@ -49093,7 +49093,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "Lostysaur (8901)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 6,
@@ -49108,7 +49108,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "Lostysaur (8901)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 6,
@@ -49123,7 +49123,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "Lostysaur (8901)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 6,
@@ -49138,7 +49138,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49149,7 +49149,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49160,7 +49160,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49171,7 +49171,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49182,7 +49182,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49193,7 +49193,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49204,7 +49204,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49215,7 +49215,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49226,7 +49226,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49237,7 +49237,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49248,7 +49248,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49259,7 +49259,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -49270,7 +49270,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "Florauna.gif"
   },
@@ -49282,7 +49282,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "HarvestMoon.gif"
   },
@@ -49294,7 +49294,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "FallFauna.gif"
   },
@@ -57372,7 +57372,7 @@
     "type": "intel_inc",
     "description": "",
     "designer": "Bumblebunny (47942)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "intel": 1
@@ -57386,7 +57386,7 @@
     "type": "food",
     "description": "",
     "designer": "sharkies (25994)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -57400,7 +57400,7 @@
     "type": "food",
     "description": "",
     "designer": "kato (51701)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -57414,7 +57414,7 @@
     "type": "food",
     "description": "",
     "designer": "Herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -57428,7 +57428,7 @@
     "type": "food",
     "description": "",
     "designer": "Steinbit (7176)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -57442,7 +57442,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "farm (17315)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57453,7 +57453,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "farm (17315)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57464,7 +57464,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Bumblebunny (47942)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57475,7 +57475,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Bumblebunny (47942)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57486,7 +57486,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Bumblebunny (47942)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57497,7 +57497,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Bumblebunny (47942)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57508,7 +57508,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Bumblebunny (47942)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57519,7 +57519,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Bumblebunny (47942)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57530,7 +57530,7 @@
     "type": "wearable",
     "description": "",
     "designer": "LenamiLove (32504)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57541,7 +57541,7 @@
     "type": "wearable",
     "description": "",
     "designer": "LenamiLove (32504)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57552,7 +57552,7 @@
     "type": "wearable",
     "description": "",
     "designer": "LenamiLove (32504)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57563,7 +57563,7 @@
     "type": "wearable",
     "description": "",
     "designer": "LenamiLove (32504)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57574,7 +57574,7 @@
     "type": "wearable",
     "description": "",
     "designer": "darjeeling (31220)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57585,7 +57585,7 @@
     "type": "wearable",
     "description": "",
     "designer": "darjeeling (31220)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57596,7 +57596,7 @@
     "type": "wearable",
     "description": "",
     "designer": "darjeeling (31220)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57607,7 +57607,7 @@
     "type": "wearable",
     "description": "",
     "designer": "darjeeling (31220)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57618,7 +57618,7 @@
     "type": "wearable",
     "description": "",
     "designer": "darjeeling (31220)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -57629,7 +57629,7 @@
     "type": "pet_look",
     "description": "A Goatling that likes to cook up mysterious potions.",
     "designer": "Bumblebunny (47942)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "Nightshade.gif"
   },
@@ -57641,7 +57641,7 @@
     "type": "pet_look",
     "description": "A Goatling that likes to arrange delicate dried flowers.",
     "designer": "LenamiLove (32504)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "DriedAutumnRose.gif"
   },
@@ -57653,7 +57653,7 @@
     "type": "pet_look",
     "description": "A farmer Goatling that loves the Autumn harvest.",
     "designer": "darjeeling (31220)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "Harvest.gif"
   },
@@ -65924,7 +65924,7 @@
     "type": "collectible",
     "description": "A classic Fall decoration.",
     "designer": "Free_Willy (21628)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -65935,7 +65935,7 @@
     "type": "food",
     "description": "All sour, no sweet.",
     "designer": "ouijaboard (27046)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -65949,7 +65949,7 @@
     "type": "food",
     "description": "Warm and comforting soup.",
     "designer": "Herd (39869)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -65963,7 +65963,7 @@
     "type": "collectible",
     "description": "Just a toy skull but still a little spooky by candlelight.",
     "designer": "ouijaboard (27046)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -65974,7 +65974,7 @@
     "type": "wearable",
     "description": "A cute snaggletooth expression.",
     "designer": "Twilight (20480)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -65985,7 +65985,7 @@
     "type": "wearable",
     "description": "A cute snaggletooth expression.",
     "designer": "Twilight (20480)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -65996,7 +65996,7 @@
     "type": "wearable",
     "description": "A cute snaggletooth expression.",
     "designer": "Twilight (20480)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66007,7 +66007,7 @@
     "type": "wearable",
     "description": "Cozy and sweet fashion.",
     "designer": "misskrys (12186)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66018,7 +66018,7 @@
     "type": "wearable",
     "description": "To help guide the way.",
     "designer": "Bumblebunny (47942)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66029,7 +66029,7 @@
     "type": "wearable",
     "description": "To help guide the way.",
     "designer": "Headless (5739)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66040,7 +66040,7 @@
     "type": "wearable",
     "description": "A haunting scene.",
     "designer": "Meow (26257)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66051,7 +66051,7 @@
     "type": "wearable",
     "description": "A haunting gaze.",
     "designer": "Meow (26257)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66062,7 +66062,7 @@
     "type": "wearable",
     "description": "A haunting gaze.",
     "designer": "Meow (26257)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66073,7 +66073,7 @@
     "type": "wearable",
     "description": "A haunting gaze.",
     "designer": "Meow (26257)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66084,7 +66084,7 @@
     "type": "wearable",
     "description": "A haunting gaze.",
     "designer": "Meow (26257)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66095,7 +66095,7 @@
     "type": "wearable",
     "description": "A haunting gaze.",
     "designer": "Meow (26257)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66106,7 +66106,7 @@
     "type": "wearable",
     "description": "A friendly feline to accompany you.",
     "designer": "MewmewRAWR (17117)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66117,7 +66117,7 @@
     "type": "wearable",
     "description": "A friendly feline to accompany you.",
     "designer": "MewmewRAWR (17117)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66128,7 +66128,7 @@
     "type": "wearable",
     "description": "A friendly feline to accompany you.",
     "designer": "MewmewRAWR (17117)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66139,7 +66139,7 @@
     "type": "wearable",
     "description": "Friendly mice always ready to lend a helping paw.",
     "designer": "bugaboo (42928)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66150,7 +66150,7 @@
     "type": "wearable",
     "description": "A simple pointed hat.",
     "designer": "farm (17315)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66161,7 +66161,7 @@
     "type": "wearable",
     "description": "A simple pointed hat.",
     "designer": "farm (17315)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66172,7 +66172,7 @@
     "type": "wearable",
     "description": "A simple pointed hat.",
     "designer": "farm (17315)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66183,7 +66183,7 @@
     "type": "wearable",
     "description": "A simple pointed hat.",
     "designer": "farm (17315)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66194,7 +66194,7 @@
     "type": "wearable",
     "description": "Old fashioned doctors hat.",
     "designer": "bugaboo (42928)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66205,7 +66205,7 @@
     "type": "wearable",
     "description": "Old fashioned doctors mask.",
     "designer": "bugaboo (42928)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66216,7 +66216,7 @@
     "type": "wearable",
     "description": "Old fashioned doctors mask.",
     "designer": "bugaboo (42928)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66227,7 +66227,7 @@
     "type": "wearable",
     "description": "Old fashioned doctors mask.",
     "designer": "bugaboo (42928)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66238,7 +66238,7 @@
     "type": "wearable",
     "description": "Pumpkin themed costume.",
     "designer": "Pit (16043) and Ode (14625) ",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66249,7 +66249,7 @@
     "type": "wearable",
     "description": "Pumpkin themed costume.",
     "designer": "Pit (16043) and Ode (14625) ",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66260,7 +66260,7 @@
     "type": "wearable",
     "description": "Pumpkin themed costume.",
     "designer": "Pit (16043) and Ode (14625) ",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66271,7 +66271,7 @@
     "type": "wearable",
     "description": "Get out of my swamp you kids.",
     "designer": "snuddermado (38719)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66282,7 +66282,7 @@
     "type": "wearable",
     "description": "Get out of my swamp you kids.",
     "designer": "snuddermado (38719)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66293,7 +66293,7 @@
     "type": "wearable",
     "description": "Get out of my swamp you kids.",
     "designer": "snuddermado (38719)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66304,7 +66304,7 @@
     "type": "wearable",
     "description": "Get out of my swamp you kids.",
     "designer": "snuddermado (38719)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66315,7 +66315,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "bugaboo (42928)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66326,7 +66326,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Boxhead (28938)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66337,7 +66337,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Boxhead (28938)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66348,7 +66348,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Boxhead (28938)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -66359,7 +66359,7 @@
     "type": "pet_look",
     "description": "A Goatling that loves dressing up for the Monster Masquerade.",
     "designer": "Pit (16043) and Ode (14625) ",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "JackyLantern.gif"
   },
@@ -66371,7 +66371,7 @@
     "type": "pet_look",
     "description": "A specialized practitioner of medicine.",
     "designer": "bugaboo (42928)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "PlagueDoctor.gif"
   },
@@ -66383,7 +66383,7 @@
     "type": "pet_look",
     "description": "Not sweet, always sour.",
     "designer": "ouijaboard (27046)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "Sourling.gif"
   },
@@ -66395,7 +66395,7 @@
     "type": "pet_look",
     "description": "Get out of my swamp you kids.",
     "designer": "snuddermado (38719)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "SwampWitch.gif"
   },
@@ -69779,7 +69779,7 @@
     "name": "Shooting Star Potion",
     "date": "2017-04-03T00:00:10.000Z",
     "price": 1000,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "A dreamy potion that glitters like stars.",
     "designer": "Pit (16043)",
     "location": "2017 April Battle Center",
@@ -69793,7 +69793,7 @@
     "name": "Sweet Dreams Potion",
     "date": "2017-04-03T00:00:10.000Z",
     "price": 1000,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "A dreamy potion that glitters like stars.",
     "designer": "Pit (16043)",
     "location": "2017 April Battle Center",
@@ -69807,7 +69807,7 @@
     "name": "Goodnight Potion",
     "date": "2017-04-03T00:00:10.000Z",
     "price": 1000,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "A dreamy potion that glitters like stars.",
     "designer": "Pit (16043)",
     "location": "2017 April Battle Center",
@@ -73237,7 +73237,7 @@
     "type": "toy",
     "description": "For summoning friends but use with caution.",
     "designer": "ouijaboard (27046)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "mood": 50
@@ -73251,7 +73251,7 @@
     "type": "wearable",
     "description": "Spooky but cuddly.",
     "designer": "Sariah (37034)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73262,7 +73262,7 @@
     "type": "wearable",
     "description": "A fancy veiled hat.",
     "designer": "Asthmatic (16170)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73273,7 +73273,7 @@
     "type": "wearable",
     "description": "To shroud you in shadow.",
     "designer": "heel (22586)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73284,7 +73284,7 @@
     "type": "wearable",
     "description": "Double toil and trouble.",
     "designer": "GoatieGeel (10385)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73295,7 +73295,7 @@
     "type": "wearable",
     "description": "Simple and cozy home.",
     "designer": "Headless (5739)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73306,7 +73306,7 @@
     "type": "wearable",
     "description": "A very spooky bed sheet.",
     "designer": "Viyrin (6026)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73317,7 +73317,7 @@
     "type": "wearable",
     "description": "When you want to wear something that will catch someones eye.",
     "designer": "GoatieGeel (10385)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73327,8 +73327,8 @@
     "price": 110000,
     "type": "wearable",
     "description": "When you want to look spooky and scary.",
-    "designer": "Green%20Maiden (16343)",
-    "location": "Seasonal Antique Shop (30)",
+    "designer": "Green_Maiden (16343)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73339,7 +73339,7 @@
     "type": "wearable",
     "description": "When you want to look spooky and scary.",
     "designer": "GoatieGeel (10385)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73350,7 +73350,7 @@
     "type": "wearable",
     "description": "The third eye sees all.",
     "designer": "GoatieGeel (10385)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73361,7 +73361,7 @@
     "type": "wearable",
     "description": "A sprinkling of candy you can take anywhere.",
     "designer": "Sariah (37034)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73372,7 +73372,7 @@
     "type": "wearable",
     "description": "A concealing veil of dark branches.",
     "designer": "Viyrin (6026)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73383,7 +73383,7 @@
     "type": "wearable",
     "description": "When you're all wrapped up.",
     "designer": "GoatieGeel (10385)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73394,7 +73394,7 @@
     "type": "wearable",
     "description": "When your all wrapped up.",
     "designer": "GoatieGeel (10385)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73405,7 +73405,7 @@
     "type": "wearable",
     "description": "When you need some space.",
     "designer": "Sariah (37034)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73416,7 +73416,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "ouijaboard (27046)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73427,7 +73427,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "therachelofaspens (0)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -73438,7 +73438,7 @@
     "type": "pet_look",
     "description": "A mysterious Goatling that resides near bogs.",
     "designer": "darjeeling (31220)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "BogWitch.gif"
   },
@@ -73450,7 +73450,7 @@
     "type": "pet_look",
     "description": "A guardian of foxfire.",
     "designer": "Paerosol (16601)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "pet_image": "Kyuubi.gif"
   },
@@ -74261,7 +74261,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74272,7 +74272,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74283,7 +74283,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74294,7 +74294,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74305,7 +74305,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74316,7 +74316,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74327,7 +74327,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74338,7 +74338,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74349,7 +74349,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74360,7 +74360,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74371,7 +74371,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74382,7 +74382,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -74393,7 +74393,7 @@
     "price": 1000,
     "type": "wearable",
     "description": "Practical attire for swimming.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "HA Buddy Boutique (12)",
     "retired": false
 },
@@ -75423,7 +75423,7 @@
     "name": "Growth Potion",
     "date": "2016-04-12T00:00:10.000Z",
     "price": 1000,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "Will help your Goatling feel big and strong.",
     "designer": "Pit (16043)",
     "location": "Remedies and Elixirs (7)",
@@ -75505,7 +75505,7 @@
     "price": 100,
     "type": "container",
     "description": "A box of small gourmet chocolates.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "Daily Gachapon",
     "retired": false,
     "contains": [
@@ -75523,7 +75523,7 @@
     "price": 100,
     "type": "food",
     "description": "A small gourmet chocolate.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "Inside a 'Box Of Chocolates' from the Daily Gachapon",
     "retired": false,
     "bonus": {
@@ -75539,7 +75539,7 @@
     "price": 100,
     "type": "food",
     "description": "A small gourmet chocolate.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "Inside a 'Box Of Chocolates' from the Daily Gachapon",
     "retired": false,
     "bonus": {
@@ -75555,7 +75555,7 @@
     "price": 100,
     "type": "food",
     "description": "A small gourmet chocolate.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "Inside a 'Box Of Chocolates' from the Daily Gachapon",
     "retired": false,
     "bonus": {
@@ -75571,7 +75571,7 @@
     "price": 100,
     "type": "food",
     "description": "A small gourmet chocolate.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "Inside a 'Box Of Chocolates' from the Daily Gachapon",
     "retired": false,
     "bonus": {
@@ -75587,7 +75587,7 @@
     "price": 100,
     "type": "food",
     "description": "A small gourmet chocolate.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "Inside a 'Box Of Chocolates' from the Daily Gachapon",
     "retired": false,
     "bonus": {
@@ -75603,7 +75603,7 @@
     "price": 100,
     "type": "food",
     "description": "A small gourmet chocolate.",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "Inside a 'Box Of Chocolates' from the Daily Gachapon",
     "retired": false,
     "bonus": {
@@ -78643,7 +78643,7 @@
     "name": "Peridot Gladiolus Sword",
     "date": "2015-09-22T00:00:10.000Z",
     "price": 8000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "A sword that wields the strength of peridot with the beauty of gladiolus.",
     "designer": "Krisgoat (2)",
     "location": "Battle Weapons Shop (8)",
@@ -82402,7 +82402,7 @@
     "name": "Heart Shield",
     "date": "2015-03-13T00:00:10.000Z",
     "price": 90000,
-    "type": "battle_item_def",
+    "type": "battle%20item%20def",
     "description": "",
     "designer": "Krisgoat (2)",
     "location": "Spring Seasonal Antique Shop (30)",
@@ -82419,7 +82419,7 @@
     "name": "Spring Wand",
     "date": "2015-03-13T00:00:10.000Z",
     "price": 90000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "",
     "designer": "Headless (5739)",
     "location": "Spring Seasonal Antique Shop (30)",
@@ -82436,7 +82436,7 @@
     "name": "Heart Sword",
     "date": "2015-03-13T00:00:10.000Z",
     "price": 110000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "Love hurts!",
     "designer": "Krisgoat (2)",
     "location": "Spring Seasonal Antique Shop (30)",
@@ -82453,7 +82453,7 @@
     "name": "Heart Staff",
     "date": "2015-03-13T00:00:10.000Z",
     "price": 120000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "The power of love.",
     "designer": "Krisgoat (2)",
     "location": "Spring Seasonal Antique Shop (30)",
@@ -82668,7 +82668,7 @@
     "price": 110000,
     "type": "wearable",
     "description": "Cause I love you. At least I think I do!",
-    "designer": "Green%20Maiden",
+    "designer": "Green_Maiden",
     "location": "Spring Seasonal Antique Shop (30)",
     "retired": false,
     "diamond_dust": false,
@@ -82681,7 +82681,7 @@
     "price": 100000,
     "type": "wearable",
     "description": "",
-    "designer": "Green%20Maiden (16343)",
+    "designer": "Green_Maiden (16343)",
     "location": "Spring Seasonal Antique Shop (30)",
     "retired": false,
     "diamond_dust": false,
@@ -82694,7 +82694,7 @@
     "price": 110000,
     "type": "wearable",
     "description": "",
-    "designer": "Green%20Maiden",
+    "designer": "Green_Maiden",
     "location": "Spring Seasonal Antique Shop (30)",
     "retired": false,
     "diamond_dust": false,
@@ -84033,7 +84033,7 @@
     "name": "Bumble Blade",
     "date": "2015-01-08T00:00:10.000Z",
     "price": 1000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "",
     "designer": "Cervine (4030)",
     "location": "Battle Weapons Shop (8)",
@@ -84076,7 +84076,7 @@
     "name": "Vitamin Bee",
     "date": "2015-01-08T00:00:10.000Z",
     "price": 40,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "",
     "designer": "Cervine (4030)",
     "location": "Remedies and Elixirs (7)",
@@ -84324,7 +84324,7 @@
     "name": "Gem Stick",
     "date": "2014-12-25T00:00:10.000Z",
     "price": 2000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "",
     "designer": "Krisgoat (2)",
     "location": "Inside a 'Gem Carving' from the Daily Gachapon",
@@ -84545,7 +84545,7 @@
     "name": "Sagittarius Bow",
     "date": "2014-12-21T00:00:10.000Z",
     "price": 10000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "",
     "designer": "Krisgoat (2)",
     "location": "Battle Weapons Shop (8)",
@@ -84959,7 +84959,7 @@
     "name": "Melting Tear",
     "date": "2014-12-11T00:00:10.000Z",
     "price": 90000,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "",
     "designer": "corsair (201)",
     "location": "Winter Seasonal Antique Shop (30)",
@@ -84973,7 +84973,7 @@
     "name": "Peppermint Bomb",
     "date": "2014-12-11T00:00:10.000Z",
     "price": 100000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "",
     "designer": "Krisgoat (2)",
     "location": "Winter Seasonal Antique Shop (30)",
@@ -84990,7 +84990,7 @@
     "name": "Frozen Sword",
     "date": "2014-12-11T00:00:10.000Z",
     "price": 120000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "",
     "designer": "Rhamnus (5393)",
     "location": "Winter Seasonal Antique Shop (30)",
@@ -85909,7 +85909,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Inside a 'Slime Box' from the Seasonal Antique Shop (30)",
+    "location": "Inside a 'Slime Box' from the Fall Seasonal Antique Shop (30)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -85922,7 +85922,7 @@
     "type": "food",
     "description": "Hmmm chewy.",
     "designer": "Krisgoat (2)",
-    "location": "Inside a 'Slime Box' from the Seasonal Antique Shop (30)",
+    "location": "Inside a 'Slime Box' from the Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 40
@@ -85938,7 +85938,7 @@
     "type": "container",
     "description": "What would be inside that?",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "contains": [
       {"name": "Tentacle", "image": "Tentacle.gif"},
@@ -85955,7 +85955,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -85966,7 +85966,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -85977,7 +85977,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -85988,7 +85988,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -85999,7 +85999,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86010,7 +86010,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86021,7 +86021,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86032,7 +86032,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86043,7 +86043,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86054,7 +86054,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86062,10 +86062,10 @@
     "name": "Skull Stick",
     "date": "2014-10-28T00:00:10.000Z",
     "price": 120000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 6,
@@ -86077,10 +86077,10 @@
     "name": "Pumpkin Slingshot",
     "date": "2014-10-28T00:00:10.000Z",
     "price": 120000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "strength": 6,
@@ -86092,10 +86092,10 @@
     "name": "Pumpkin Shield",
     "date": "2014-10-28T00:00:10.000Z",
     "price": 120000,
-    "type": "battle_item_def",
+    "type": "battle%20item%20def",
     "description": "Def +5 Durability +70 Location: Fall Seasonal Antique Shop.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "durability": 70
@@ -86106,10 +86106,10 @@
     "name": "Skull Water",
     "date": "2014-10-28T00:00:10.000Z",
     "price": 90000,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "health": 50
@@ -86123,7 +86123,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86134,7 +86134,7 @@
     "type": "toy",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "mood": 30
@@ -86148,7 +86148,7 @@
     "type": "food",
     "description": "Dare to take a sip.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 40
@@ -86159,10 +86159,10 @@
     "name": "Glowing Drink",
     "date": "2014-10-28T00:00:10.000Z",
     "price": 90000,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "health": 200
@@ -86176,7 +86176,7 @@
     "type": "collectible",
     "description": "I got a rock.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86187,7 +86187,7 @@
     "type": "food",
     "description": "A little dusty.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -86201,7 +86201,7 @@
     "type": "toy",
     "description": "Cute and cuddly.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "mood": 10
@@ -86215,7 +86215,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86226,7 +86226,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86234,10 +86234,10 @@
     "name": "Soul Potion",
     "date": "2014-10-28T00:00:10.000Z",
     "price": 90000,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "Gives you the strength of 100 souls.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "health": 100
@@ -86251,7 +86251,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -86265,7 +86265,7 @@
     "type": "collectible",
     "description": "Nothing is there.",
     "designer": "Krisgoat (2)",
-    "location": "Inside an 'Empty Box' from the Seasonal Antique Shop (30)",
+    "location": "Inside an 'Empty Box' from the Fall Seasonal Antique Shop (30)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -86278,7 +86278,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -86289,10 +86289,10 @@
     "name": "Death Potion",
     "date": "2014-10-28T00:00:10.000Z",
     "price": 90000,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "Doesn't actually cause death.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "health": 25
@@ -86306,7 +86306,7 @@
     "type": "collectible",
     "description": "You break it, you buy it.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86317,7 +86317,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -86331,7 +86331,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -86345,7 +86345,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -86359,7 +86359,7 @@
     "type": "intel%20inc",
     "description": "Get it before it gets you.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "intel": 1
@@ -86373,7 +86373,7 @@
     "type": "intel%20inc",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "intel": 1
@@ -86387,7 +86387,7 @@
     "type": "intel%20inc",
     "description": "It might bite you.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "intel": 1
@@ -86401,7 +86401,7 @@
     "type": "toy",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false,
     "bonus": {
       "mood": 10
@@ -86415,7 +86415,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Patch (6784)",
-    "location": "Inside a 'Slime Box' from the Seasonal Antique Shop (30)",
+    "location": "Inside a 'Slime Box' from the Fall Seasonal Antique Shop (30)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -86428,7 +86428,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Patch (6784)",
-    "location": "Inside a 'Slime Box' from the Seasonal Antique Shop (30)",
+    "location": "Inside a 'Slime Box' from the Fall Seasonal Antique Shop (30)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -86441,7 +86441,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Cheribee (5726)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86452,7 +86452,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Cheribee (5726)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86463,7 +86463,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Cheribee (5726)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86474,7 +86474,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Cheribee (5726)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86485,7 +86485,7 @@
     "type": "wearable",
     "description": "Braaains.",
     "designer": "Cheribee (5726)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86496,7 +86496,7 @@
     "type": "wearable",
     "description": "Respectable dress shirt.",
     "designer": "Cheribee (5726)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -86507,7 +86507,7 @@
     "type": "wearable",
     "description": "Silky and well-fitting.",
     "designer": "Cheribee (5726)",
-    "location": "Seasonal Antique Shop (30)",
+    "location": "Fall Seasonal Antique Shop (30)",
     "retired": false
 },
   {
@@ -88340,7 +88340,7 @@
     "name": "Bottled Wind",
     "date": "2014-09-02T00:00:10.000Z",
     "price": 400,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "Bottled weather will shock and confuse the opponent.",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Rainbow Caverns 5",
@@ -88355,7 +88355,7 @@
     "name": "Bottled Sunlight",
     "date": "2014-09-02T00:00:10.000Z",
     "price": 400,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "Bottled weather will shock and confuse the opponent.",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Rainbow Caverns 2",
@@ -88370,7 +88370,7 @@
     "name": "Bottled Rainbow",
     "date": "2014-09-02T00:00:10.000Z",
     "price": 400,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "Bottled weather will shock and confuse the opponent.",
     "designer": "Alvar (9068)",
     "location": "Explore Area Rainbow Caverns 1",
@@ -88385,7 +88385,7 @@
     "name": "Bottled Clouds",
     "date": "2014-09-02T00:00:10.000Z",
     "price": 400,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "Bottled weather will shock and confuse the opponent.",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Rainbow Caverns 1",
@@ -90173,7 +90173,7 @@
     "retired": false
 },
   {
-    "image": "Health%20Potion%20Icon.gif",
+    "image": "health_potion%20Icon.gif",
     "name": "Health Potion Icon",
     "date": "2014-06-13T00:00:10.000Z",
     "price": 26000,
@@ -91739,7 +91739,7 @@
     "name": "Fighting Fish BP",
     "date": "2014-04-03T00:00:10.000Z",
     "price": 8000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "A special companion for your Goatling that can also assist in battles.",
     "designer": "Krisgoat (2)",
     "location": "Gone Fishin",
@@ -91995,7 +91995,7 @@
     "name": "Starfish Sword",
     "date": "2014-03-23T00:00:10.000Z",
     "price": 3000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "Made of crystalized seaweed and a starfish hilt.",
     "designer": "Krisgoat (2)",
     "location": "Gone Fishin",
@@ -93046,7 +93046,7 @@
     "name": "Kappa Vial",
     "date": "2014-02-03T00:00:10.000Z",
     "price": 350,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "Mysterious brew mixed by a Kappa.",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Phantom Forest 5",
@@ -93062,7 +93062,7 @@
     "name": "Death Scroll",
     "date": "2014-02-03T00:00:10.000Z",
     "price": 1000,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "Magical scroll that can be used in Battle if you dare.",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Phantom Forest 5",
@@ -93079,7 +93079,7 @@
     "name": "Arundo Vial",
     "date": "2014-02-03T00:00:10.000Z",
     "price": 350,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "Piece of a tiny dragon's treasure.",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Phantom Forest 5",
@@ -93095,7 +93095,7 @@
     "name": "Slime Vial",
     "date": "2014-02-03T00:00:10.000Z",
     "price": 350,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "It's filled with slime but has a taste like blue raspberry.",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Phantom Forest 4",
@@ -93141,7 +93141,7 @@
     "name": "Wisp Vial",
     "date": "2014-02-03T00:00:10.000Z",
     "price": 350,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "It's glowing with such an alluring dark blue shade.",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Phantom Forest 3",
@@ -93157,7 +93157,7 @@
     "name": "Deadly Nightshade",
     "date": "2014-02-03T00:00:10.000Z",
     "price": 1000,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "Is it poisonous or not?",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Phantom Forest 3",
@@ -93205,7 +93205,7 @@
     "name": "Muggra Grub BP",
     "date": "2014-02-03T00:00:10.000Z",
     "price": 100,
-    "type": "battle_item_att",
+    "type": "battle%20item%20att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "r00p (20210)",
     "location": "Explore Area Phantom Forest 2",
@@ -93843,7 +93843,7 @@
     "name": "Dark Fairyling Potion",
     "date": "2014-01-16T00:00:10.000Z",
     "price": 900,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "It seems to hold darkness. Should my Goatling be drinking this?",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Enchanted Forest 2",
@@ -93857,7 +93857,7 @@
     "name": "Light Fairyling Potion",
     "date": "2014-01-16T00:00:10.000Z",
     "price": 900,
-    "type": "health%20potion",
+    "type": "health_potion",
     "description": "It seems to hold the light. Does it taste like air?",
     "designer": "Krisgoat (2)",
     "location": "Explore Area Enchanted Forest 1",
@@ -99542,7 +99542,7 @@
     "type": "collectible",
     "description": "Collectible stamp with a picture of the Cold Frisson baddy.",
     "designer": "Krisgoat (2)",
-    "location": "Seasonal Fall Battle Center",
+    "location": "Fall Seasonal Battle Center",
     "retired": false,
     "diamond_dust": false,
     "contains": false
