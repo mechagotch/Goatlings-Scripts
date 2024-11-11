@@ -217,7 +217,7 @@
     "description": "",
     "designer": "Berrymilk (58926)",
     "location": "Zurora's Crafting",
-    "retired": false,
+    "retired": true,
     "diamond_dust": false,
     "bonus": {
       "mood": 50
@@ -236,7 +236,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -1225,7 +1225,7 @@
     "description": "",
     "designer": "Berrymilk (58926)",
     "location": "Zurora's Crafting",
-    "retired": false,
+    "retired": true,
     "bonus": {
       "mood": 50
     },
@@ -1246,7 +1246,7 @@
     "description": "",
     "designer": "r00p (20210)",
     "location": "Zurora's Crafting",
-    "retired": false,
+    "retired": true,
     "bonus": {
       "mood": 50
     },
@@ -2659,7 +2659,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -2673,7 +2673,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -2687,7 +2687,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -2701,7 +2701,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -2715,7 +2715,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -2729,7 +2729,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -2743,7 +2743,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -2757,7 +2757,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -4485,7 +4485,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -4585,7 +4585,7 @@
     "type": "container",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "contains": [
       {
@@ -4619,7 +4619,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Cyborg Ninja Box from Princely Premiums VIP Shop (32)",
+    "location": "Cyborg Ninja Box from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -4644,7 +4644,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Cyborg Ninja Box from Princely Premiums VIP Shop (32)",
+    "location": "Cyborg Ninja Box from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -4669,7 +4669,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Cyborg Ninja Box from Princely Premiums VIP Shop (32)",
+    "location": "Cyborg Ninja Box from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -4682,7 +4682,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "CyborgNinja.gif"
   },
@@ -4756,7 +4756,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -4770,7 +4770,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "Playground2.gif"
   },
@@ -4782,7 +4782,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "Playground.gif"
   },
@@ -4927,7 +4927,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "SugarDreamsHK (52082)",
-    "location": "Zurora's Crafting Shop, Trickster's Tavern",
+    "location": "Zurora's Crafting, Trickster's Tavern",
     "item_cost": "20 Phun Bux",
     "retired": false,
     "pet_image": "SillyBilly.gif",
@@ -5297,7 +5297,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -5468,7 +5468,7 @@
     "type": "container",
     "description": "",
     "designer": "AnimalCell (77402)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "contains": [
       {
@@ -5501,7 +5501,7 @@
     "type": "usericon",
     "description": "Decoration for your display name.",
     "designer": "AnimalCell (77402)",
-    "location": "Inside a 'Shill Briefcase' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Shill Briefcase' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -5514,7 +5514,7 @@
     "type": "wearable",
     "description": "",
     "designer": "AnimalCell (77402)",
-    "location": "Inside a 'Shill Briefcase' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Shill Briefcase' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -5527,7 +5527,7 @@
     "type": "wearable",
     "description": "",
     "designer": "AnimalCell (77402)",
-    "location": "Inside a 'Shill Briefcase' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Shill Briefcase' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -5540,7 +5540,7 @@
     "type": "wearable",
     "description": "",
     "designer": "AnimalCell (77402)",
-    "location": "Inside a 'Shill Briefcase' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Shill Briefcase' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -5550,7 +5550,7 @@
     "name": "Shill Face",
     "date": "2024-03-08T00:00:10.000Z",
     "designer": "AnimalCell (77402)",
-    "location": "Inside a 'Shill Briefcase' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Shill Briefcase' from Princely Premiums VIP (32)",
     "description": "",
     "price": 3000000,
     "type": "wearable",
@@ -5567,7 +5567,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "AnimalCell (77402)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "Shill.gif"
   },
@@ -6049,7 +6049,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -6060,7 +6060,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -6071,7 +6071,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -6367,7 +6367,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 20
@@ -6381,7 +6381,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 20
@@ -6395,7 +6395,7 @@
     "type": "food",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 20
@@ -6544,7 +6544,7 @@
     "type": "container",
     "description": "",
     "designer": "Weast (51336)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "contains": [
       {
@@ -6573,7 +6573,7 @@
     "designer": "Weast (51336)",
     "price": 3000000,
     "type": "collectible",
-    "location": "Inside a 'Travel Satchel' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Travel Satchel' from Princely Premiums VIP (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -6588,7 +6588,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Weast (51336)",
-    "location": "Inside a 'Travel Satchel' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Travel Satchel' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -6601,7 +6601,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Weast (51336)",
-    "location": "Inside a 'Travel Satchel' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Travel Satchel' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -6614,7 +6614,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Weast (51336)",
-    "location": "Inside a 'Travel Satchel' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Travel Satchel' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -6627,7 +6627,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Weast (51336)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "WanderingMechanic.gif"
   },
@@ -6663,7 +6663,7 @@
     "type": "container",
     "description": "",
     "designer": "dotd (85133)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "contains": [
       {
@@ -6692,7 +6692,7 @@
     "type": "wearable",
     "description": "",
     "designer": "dotd (85133)",
-    "location": "Inside an 'Ofrenda Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Ofrenda Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -6705,7 +6705,7 @@
     "type": "wearable",
     "description": "",
     "designer": "dotd (85133)",
-    "location": "Inside an 'Ofrenda Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Ofrenda Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -6718,7 +6718,7 @@
     "type": "wearable",
     "description": "",
     "designer": "dotd (85133)",
-    "location": "Inside an 'Ofrenda Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Ofrenda Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -6731,7 +6731,7 @@
     "type": "wearable",
     "description": "",
     "designer": "dotd (85133)",
-    "location": "Inside an 'Ofrenda Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Ofrenda Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -6744,7 +6744,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "dotd (85133)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "NightColors.gif"
   },
@@ -6756,7 +6756,7 @@
     "type": "container",
     "description": "",
     "designer": "Fairybread (78929)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "contains": [
       {
@@ -6790,7 +6790,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Fairybread (78929)",
-    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -6803,7 +6803,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Fairybread (78929)",
-    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -6813,7 +6813,7 @@
     "name": "Rosemary Bread",
     "date": "2023-12-27T00:00:10.000Z",
     "designer": "Fairybread (78929)",
-    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -6825,7 +6825,7 @@
     "name": "Quartz Moth",
     "date": "2023-12-27T00:00:10.000Z",
     "designer": "Fairybread (78929)",
-    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -6840,7 +6840,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Fairybread (78929)",
-    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Rosemary Moth Orb' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -6853,7 +6853,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Fairybread (78929)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "RosemaryMoth.gif"
   },
@@ -6865,7 +6865,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -6876,7 +6876,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -6887,7 +6887,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -6898,7 +6898,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -6909,7 +6909,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -7876,7 +7876,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -7890,7 +7890,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -7904,7 +7904,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -7918,7 +7918,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -7932,7 +7932,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 50
@@ -8057,7 +8057,7 @@
     "description": "Special 2023 Monster Masquerade plush.",
     "designer": "Lostysaur (8901) and r00p (20210)",
     "location": "Zurora's Crafting",
-    "retired": false,
+    "retired": true,
     "bonus": {
       "mood": 50
     },
@@ -8579,7 +8579,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -8590,7 +8590,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -8601,7 +8601,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -8612,7 +8612,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -9630,6 +9630,8 @@
     "designer": "AiMcsweets (52144)",
     "location": "2023 Monster Masquerade event",
     "retired": true,
+    "item_cost": "200 Diamond Dust",
+    "diamond_dust": true,
     "contains": [
       {
         "name": "Phantom Maestro AD",
@@ -9806,6 +9808,8 @@
     "designer": "IWasBored (19566)",
     "location": "2023 Monster Masquerade event",
     "retired": true,
+    "item_cost": "200 Diamond Dust",
+    "diamond_dust": true,
     "contains": [
       {
         "name": "Deathly Growler AD",
@@ -10918,7 +10922,7 @@
     "type": "food",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 20
@@ -12111,7 +12115,7 @@
     "type": "food",
     "description": "",
     "designer": "PrettySkitty (18716) and Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 40
@@ -13178,7 +13182,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Likefiftychai (46568)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -13189,7 +13193,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Likefiftychai (46568)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -13200,7 +13204,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Likefiftychai (46568)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -13211,7 +13215,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Likefiftychai (46568)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -13222,7 +13226,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Likefiftychai (46568)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -13718,7 +13722,7 @@
     "type": "container",
     "description": "Don't drop it.",
     "designer": "zoro (70313)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "contains": [
       {
@@ -13738,7 +13742,7 @@
     "type": "food",
     "description": "Oops! You dropped it...",
     "designer": "zoro (70313)",
-    "location": "Inside an 'Egg' from the Variety VIP Shop (9)",
+    "location": "Inside an 'Egg' from the Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 10
@@ -13754,7 +13758,7 @@
     "type": "collectible",
     "description": "A rare and inedible egg.",
     "designer": "zoro (70313) and Berrymilk (58926)",
-    "location": "Inside an 'Egg' from the Variety VIP Shop (9)",
+    "location": "Inside an 'Egg' from the Variety VIP (9)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -13903,7 +13907,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Zurora's Crafting Shop, Trickster's Tavern",
+    "location": "Zurora's Crafting, Trickster's Tavern",
     "retired": false,
     "pet_image": "DaisyYolk.gif",
     "craftable": [
@@ -14569,7 +14573,7 @@
     "type": "container",
     "description": "",
     "designer": "beiged (28678)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "contains": [
       {
@@ -14598,7 +14602,7 @@
     "type": "food",
     "description": "",
     "designer": "beiged (28678)",
-    "location": "Inside a 'Pig Toaster' from Variety VIP Shop (9)",
+    "location": "Inside a 'Pig Toaster' from Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -14614,7 +14618,7 @@
     "type": "food",
     "description": "",
     "designer": "beiged (28678)",
-    "location": "Inside a 'Pig Toaster' from Variety VIP Shop (9)",
+    "location": "Inside a 'Pig Toaster' from Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -14630,7 +14634,7 @@
     "type": "food",
     "description": "",
     "designer": "beiged (28678)",
-    "location": "Inside a 'Pig Toaster' from Variety VIP Shop (9)",
+    "location": "Inside a 'Pig Toaster' from Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -14646,7 +14650,7 @@
     "type": "food",
     "description": "",
     "designer": "beiged (28678)",
-    "location": "Inside a 'Pig Toaster' from Variety VIP Shop (9)",
+    "location": "Inside a 'Pig Toaster' from Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -14763,7 +14767,7 @@
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "strength": 3,
@@ -16061,7 +16065,7 @@
     "type": "container",
     "description": "",
     "designer": "Hotarubi (17112)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "contains": [
       {
@@ -16094,7 +16098,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Hotarubi (17112)",
-    "location": "Inside a 'Shooting Star Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Shooting Star Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16107,7 +16111,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Hotarubi (17112)",
-    "location": "Inside a 'Shooting Star Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Shooting Star Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16120,7 +16124,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Hotarubi (17112)",
-    "location": "Inside a 'Shooting Star Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Shooting Star Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16133,7 +16137,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Hotarubi (17112)",
-    "location": "Inside a 'Shooting Star Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Shooting Star Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16143,7 +16147,7 @@
     "name": "Shooting Star Face",
     "date": "2023-01-16T00:00:10.000Z",
     "designer": "Hotarubi (17112)",
-    "location": "Inside 'Shooting Star Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside 'Shooting Star Box' from Princely Premiums VIP (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -16160,7 +16164,7 @@
     "type": "container",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "contains": [
       {
@@ -16209,7 +16213,7 @@
     "type": "food",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP (32)",
     "retired": false,
     "bonus": {
       "hunger": 100
@@ -16225,7 +16229,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16236,7 +16240,7 @@
     "price": 2000000,
     "date": "2023-01-16T00:00:10.000Z",
     "designer": "IWasBored (19566)",
-    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -16249,7 +16253,7 @@
     "date": "2023-01-16T00:00:10.000Z",
     "price": 2000000,
     "designer": "IWasBored (19566)",
-    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -16264,7 +16268,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16275,7 +16279,7 @@
     "date": "2023-01-16T00:00:10.000Z",
     "designer": "IWasBored (19566)",
     "price": 2000000,
-    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -16290,7 +16294,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16303,7 +16307,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16316,7 +16320,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP Shop (32)",
+    "location": "Inside an 'Air Corsair Compass' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16329,7 +16333,7 @@
     "type": "container",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "contains": [
       {
@@ -16371,7 +16375,7 @@
     "type": "food",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Inside a 'Cake Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Cake Box' from Princely Premiums VIP (32)",
     "retired": false,
     "bonus": {
       "hunger": 100
@@ -16387,7 +16391,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Inside a 'Cake Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Cake Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16400,7 +16404,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Inside a 'Cake Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Cake Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16412,7 +16416,7 @@
     "price": 2000000,
     "type": "wearable",
     "designer": "Berrymilk (58926)",
-    "location": "Inside 'Strawberry Shortcake Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside 'Strawberry Shortcake Box' from Princely Premiums VIP (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -16424,7 +16428,7 @@
     "name": "Strawberry Shortcake Face",
     "date": "2023-01-16T00:00:10.000Z",
     "designer": "Berrymilk (58926)",
-    "location": "Inside 'Strawberry Shortcake Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside 'Strawberry Shortcake Box' from Princely Premiums VIP (32)",
     "price": 2000000,
     "type": "wearable",
     "description": "",
@@ -16441,7 +16445,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Inside a 'Cake Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Cake Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16454,7 +16458,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Inside a 'Cake Box' from Princely Premiums VIP Shop (32)",
+    "location": "Inside a 'Cake Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -16467,7 +16471,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "GoatPrince.gif"
   },
@@ -16479,7 +16483,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "GoatPrincess.gif"
   },
@@ -16491,7 +16495,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Boricha (5185)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "SweetTriclops.gif"
   },
@@ -16503,7 +16507,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "SunFlare.gif"
   },
@@ -16515,7 +16519,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Berrymilk (58926)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "StrawberryShortcake.gif"
   },
@@ -16527,7 +16531,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Hotarubi (17112)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "ShootingStar.gif"
   },
@@ -16539,7 +16543,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Lostysaur (8901)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "Plushling.gif"
   },
@@ -16551,7 +16555,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "Gilded.gif"
   },
@@ -16563,7 +16567,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Lostysaur (8901)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "DonutKid.gif"
   },
@@ -16575,7 +16579,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "sharkies (25994)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "Clamling.gif"
   },
@@ -16587,7 +16591,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Princely Premiums VIP Shop (32)",
+    "location": "Princely Premiums VIP (32)",
     "retired": false,
     "pet_image": "AirCorsair.gif"
   },
@@ -16599,7 +16603,7 @@
     "type": "food",
     "description": "",
     "designer": "PrettySkitty (18716), and JarateKid (26765)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -16613,7 +16617,7 @@
     "type": "food",
     "description": "",
     "designer": "PrettySkitty (18716), and JarateKid (26765)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -16627,7 +16631,7 @@
     "type": "food",
     "description": "",
     "designer": "PrettySkitty (18716), and JarateKid (26765)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "hunger": 30
@@ -17668,7 +17672,7 @@
     "type": "collectible",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17803,7 +17807,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17814,7 +17818,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17825,7 +17829,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17836,7 +17840,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17847,7 +17851,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17858,7 +17862,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17869,7 +17873,7 @@
     "type": "wearable",
     "description": "",
     "designer": "sugarbear (78516)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17901,7 +17905,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17912,7 +17916,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17923,7 +17927,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17934,7 +17938,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -17945,7 +17949,7 @@
     "type": "wearable",
     "description": "",
     "designer": "r00p (20210)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -19230,7 +19234,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Likefiftychai (46568)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -19241,7 +19245,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Likefiftychai (46568)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -19252,7 +19256,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Likefiftychai (46568)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -19263,7 +19267,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Likefiftychai (46568)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -19276,7 +19280,8 @@
     "designer": "Berrymilk (58926)",
     "location": "2022 Monster Masquerade",
     "retired": true,
-    "diamond_dust": false,
+    "item_cost": "200 Diamond Dust",
+    "diamond_dust": true,
     "contains": [
       {
         "name": "Ribbon Mummy AD",
@@ -19334,6 +19339,8 @@
     "designer": "r00p (20210)",
     "location": "2022 Monster Masquerade",
     "retired": true,
+    "item_cost": "200 Diamond Dust",
+    "diamond_dust": true,
     "contains": [
       {
         "name": "Graveyard Groom AD",
@@ -24615,7 +24622,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop, Trickster's Tavern",
+    "location": "Zurora's Crafting, Trickster's Tavern",
     "retired": false,
     "pet_image": "JestBalloon.gif",
     "item_cost": "20 Phun Bux"
@@ -28166,7 +28173,7 @@
     "type": "collectible",
     "description": "",
     "designer": "Steinbit (7176)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -29663,7 +29670,8 @@
     "designer": "Vampira (63093)",
     "location": "2021 Monster Masquerade",
     "retired": true,
-    "diamond_dust": false,
+    "item_cost": "200 Diamond Dust",
+    "diamond_dust": true,
     "contains": [
       {
         "name": "Sweet Bat AD",
@@ -29912,7 +29920,8 @@
     "designer": "Lostysaur (8901)",
     "location": "2021 Monster Masquerade",
     "retired": true,
-    "diamond_dust": false,
+    "item_cost": "200 Diamond Dust",
+    "diamond_dust": true,
     "contains": [
       {
         "name": "Pumpkin Pirate AD",
@@ -40431,6 +40440,7 @@
     "designer": "sugarbunnies (50239)",
     "location": "2020 Monster Masquerade event",
     "retired": true,
+    "item_cost": "200 Diamond Dust",
     "diamond_dust": true,
     "contains": [
       {"name": "Mothman AD", "image": "MothmanAD.gif"},
@@ -40549,6 +40559,7 @@
     "description": "",
     "designer": "yumekitti (4093)",
     "location": "2020 Monster Masquerade event",
+    "item_cost": "200 Diamond Dust",
     "diamond_dust": true,
     "retired": true,
     "contains": [
@@ -41336,7 +41347,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -41347,7 +41358,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -41358,7 +41369,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -41369,7 +41380,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -41380,7 +41391,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -41391,7 +41402,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -41402,7 +41413,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -41413,7 +41424,7 @@
     "type": "wearable",
     "description": "",
     "designer": "Ockham (8105)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -48533,6 +48544,8 @@
     "description": "Open to receive an item from the Weird Witch collection.",
     "designer": "Krisgoat (2)",
     "location": "2019 Monster Masquerade",
+    "item_cost": "200 Diamond Dust",
+    "diamond_dust": true,
     "retired": true,
     "contains": [
       {"name": "Weird Witch AD", "image": "WeirdWitchAD.gif"},
@@ -48553,6 +48566,8 @@
     "description": "Open to receive an item from the Evil Scientist collection.",
     "designer": "Krisgoat (2)",
     "location": "2019 Monster Masquerade",
+    "item_cost": "200 Diamond Dust",
+    "diamond_dust": true,
     "retired": true,
     "contains": [
       {"name": "Evil Scientist AD", "image": "EvilScientistAD.gif"},
@@ -49404,7 +49419,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "pet_image": "Ladybug2.gif"
   },
@@ -51882,7 +51897,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "pixlotl (5339)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "YellowPainted.gif",
     "craftable": [
@@ -51899,7 +51914,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Meeks (393)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "TealPainted.gif",
     "craftable": [
@@ -51916,7 +51931,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "AngelSami",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "SunsetPainted.gif",
     "craftable": [
@@ -51933,7 +51948,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Ode and Pit (16043)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "StripesPainted.gif",
     "craftable": [
@@ -51950,7 +51965,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Xiao (29478)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "RedPainted.gif",
     "craftable": [
@@ -51967,7 +51982,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "fairywren (1923)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "RainbowPainted.gif",
     "craftable": [
@@ -51984,7 +51999,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Pit (16043)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "PolkadotsPainted.gif",
     "craftable": [
@@ -52001,7 +52016,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "fairywren (1923)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "PinkPainted.gif",
     "craftable": [
@@ -52018,7 +52033,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Lostysaur (8901)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "OrangePainted.gif",
     "craftable": [
@@ -52035,7 +52050,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Xiao (29478)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "GreenPainted.gif",
     "craftable": [
@@ -52052,7 +52067,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "Pit (16043)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "ElectricPinkPainted.gif",
     "craftable": [
@@ -52069,7 +52084,7 @@
     "type": "pet_look",
     "description": "",
     "designer": "MightBeMagic (41376)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "pet_image": "BlackPainted.gif",
     "craftable": [
@@ -56360,7 +56375,7 @@
     "type": "toy",
     "description": "Special 2018 Monster Masquerade plush.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": true,
     "bonus": {
       "mood": 50
@@ -56388,7 +56403,7 @@
     "type": "toy",
     "description": "Special 2018 Monster Masquerade plush.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": true,
     "bonus": {
       "mood": 50
@@ -56416,7 +56431,7 @@
     "type": "toy",
     "description": "Special 2018 Monster Masquerade plush.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": true,
     "bonus": {
       "mood": 50
@@ -56816,6 +56831,7 @@
     "description": "A fun and mischievous box.",
     "designer": "Sphynx (18754)",
     "location": "2018 Monster Masquerade Event Prize",
+    "item_cost": "200 Diamond Dust",
     "retired": true,
     "diamond_dust": true,
     "contains": [
@@ -56863,6 +56879,7 @@
     "description": "A mysteriously dreamy box.",
     "designer": "Pit (16043)",
     "location": "2018 Monster Masquerade Event Prize",
+    "item_cost": "200 Diamond Dust",
     "retired": true,
     "diamond_dust": true,
     "contains": [
@@ -59226,7 +59243,7 @@
     "type": "wearable",
     "description": "A cute flippy hairstyle.",
     "designer": "Uboa (25101)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -59237,7 +59254,7 @@
     "type": "wearable",
     "description": "A cute flippy hairstyle.",
     "designer": "Uboa (25101)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -59248,7 +59265,7 @@
     "type": "wearable",
     "description": "A cute flippy hairstyle.",
     "designer": "Uboa (25101)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -59259,7 +59276,7 @@
     "type": "wearable",
     "description": "A cute flippy hairstyle.",
     "designer": "Uboa (25101)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -59270,7 +59287,7 @@
     "type": "wearable",
     "description": "A cute flippy hairstyle.",
     "designer": "Uboa (25101)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -59281,7 +59298,7 @@
     "type": "wearable",
     "description": "A cute flippy hairstyle.",
     "designer": "Uboa (25101)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -59292,7 +59309,7 @@
     "type": "wearable",
     "description": "A cute flippy hairstyle.",
     "designer": "Uboa (25101)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -59303,7 +59320,7 @@
     "type": "wearable",
     "description": "A cute flippy hairstyle.",
     "designer": "Uboa (25101)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -59314,7 +59331,7 @@
     "type": "wearable",
     "description": "A cute flippy hairstyle.",
     "designer": "Uboa (25101)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -59325,7 +59342,7 @@
     "type": "wearable",
     "description": "A cute flippy hairstyle.",
     "designer": "Uboa (25101)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -68004,7 +68021,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Cervine (4030)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -70505,7 +70522,7 @@
     "type": "pet_look",
     "description": "A graceful and elegant Goatling reminiscent of classical music.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "pet_image": "Violinist.gif"
   },
@@ -70760,7 +70777,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Tada (23603)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -73540,7 +73557,7 @@
     "type": "collectible",
     "description": "Let your true colors shine.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -73551,7 +73568,7 @@
     "type": "wearable",
     "description": "Let your true colors shine.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -73562,7 +73579,7 @@
     "type": "wearable",
     "description": "Let your true colors shine.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -73573,7 +73590,7 @@
     "type": "wearable",
     "description": "Let your true colors shine.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -73584,7 +73601,7 @@
     "type": "wearable",
     "description": "Let your true colors shine.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -73595,7 +73612,7 @@
     "type": "wearable",
     "description": "Let your true colors shine.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -73606,7 +73623,7 @@
     "type": "wearable",
     "description": "Let your true colors shine.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -73617,7 +73634,7 @@
     "type": "wearable",
     "description": "Let your true colors shine.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -73628,7 +73645,7 @@
     "type": "usericon",
     "description": "Let your true colors shine.",
     "designer": "Twilight (20480)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -73639,7 +73656,7 @@
     "type": "pet_look",
     "description": "Let your true colors shine.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "pet_image": "RainbowPrism.gif"
   },
@@ -78442,7 +78459,7 @@
     "type": "wearable",
     "description": "City lights at night are a beautiful sight.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -78475,7 +78492,7 @@
     "type": "intel_inc",
     "description": "A novel about a mysterious forest.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "intel": 1
@@ -79386,7 +79403,7 @@
     "type": "wearable",
     "description": "So beautiful in spring.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -79637,7 +79654,7 @@
     "type": "collectible",
     "description": "Represents the bond between two people in love.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "diamond_dust": false,
     "contains": false,
@@ -79655,7 +79672,7 @@
     "type": "collectible",
     "description": "Represents the bond between two people in love.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "diamond_dust": false,
     "contains": false,
@@ -79674,7 +79691,7 @@
     "type": "collectible",
     "description": "Represents the bond between two people in love.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": false,
     "diamond_dust": false,
     "contains": false,
@@ -80305,7 +80322,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "bearsister (6495)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -83574,7 +83591,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "misterkoala (3752)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -83753,7 +83770,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Krisgoat (2)",
-    "location": "Zurora's Crafting Shop",
+    "location": "Zurora's Crafting",
     "retired": true,
     "diamond_dust": false,
     "contains": false,
@@ -84115,7 +84132,7 @@
     "type": "wearable",
     "description": "Background for your HA Buddy.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -87920,7 +87937,7 @@
     "type": "wearable",
     "description": "A lovely backdrop for your HA Buddy.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -88000,7 +88017,7 @@
     "type": "wearable",
     "description": "A semi transparent layer that can be worn on top of or behind your HA buddy.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -88011,7 +88028,7 @@
     "type": "wearable",
     "description": "A semi transparent layer that can be worn on top of or behind your HA buddy.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -89816,7 +89833,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Nescient (3234)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -89838,7 +89855,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Tetsuya (6275)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -89893,7 +89910,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "aikkoe (3205)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -89904,7 +89921,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "aikkoe (3205)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -90047,7 +90064,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Cervine (4030)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -90058,7 +90075,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Cervine (4030)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -90069,7 +90086,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Cervine (4030)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -90691,7 +90708,7 @@
     "type": "wearable",
     "description": "Crown of flowers for your royal floweryness.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -92743,7 +92760,7 @@
     "type": "pet_look",
     "description": "Fight for love and justice.",
     "designer": "Turbuggy (8112)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "pet_image": "Love%20Warrior.gif"
   },
@@ -92933,7 +92950,7 @@
     "type": "wearable",
     "description": "Awe shucks.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -93675,7 +93692,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -93697,7 +93714,7 @@
     "type": "usericon",
     "description": "Cute decoration for your display name.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -96092,7 +96109,7 @@
     "type": "wearable",
     "description": "The coolest type of jacket.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -96389,7 +96406,7 @@
     "type": "wearable",
     "description": "You got a little something on your face.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false
 },
   {
@@ -98766,7 +98783,7 @@
     "type": "pet_look",
     "description": "Exquisitely charming, sweet little Goatling.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "pet_image": "pet2_36.gif"
   },
@@ -100526,7 +100543,7 @@
     "type": "toy",
     "description": "Portable game system for the goat on the go.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "mood": 80
@@ -100811,7 +100828,7 @@
     "type": "battle_item_att",
     "description": "The highest authority of power and cuteness.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "bonus": {
       "strength": 6,
@@ -101366,7 +101383,7 @@
     "type": "pet_look",
     "description": "This sweet Goatling is extra loving.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "pet_image": "pet2_22.gif"
   },
@@ -102467,7 +102484,7 @@
     "type": "pet_look",
     "description": "A little Goatling that loves to fly around in the night sky.",
     "designer": "Krisgoat (2)",
-    "location": "Variety VIP Shop (9)",
+    "location": "Variety VIP (9)",
     "retired": false,
     "pet_image": "pet2_13.gif",
     "old_name": "Nyan Goat AD",
