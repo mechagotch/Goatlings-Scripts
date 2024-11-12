@@ -1,4 +1,4 @@
-[
+var items = [
   {
     "image": "OniBeads.gif",
     "name": "Oni Beads",
@@ -54426,6 +54426,8 @@
     "date": "2019-02-01T00:00:10.000Z",
     "designer": "chocoferret (33906)",
     "location": "Inside 'Patchwork Plush Box'",
+    "price": 2000,
+    "type": "wearable",
     "description": "",
     "retired": true,
     "diamond_dust": true,
@@ -105659,3 +105661,5 @@
     }
   }
 ]
+
+module.exports = items
