@@ -24544,7 +24544,7 @@
     "location": "2022 May Battle Center",
     "retired": true,
     "bonus": {
-      "mood": 0
+      "mood": 10
     }
   },
   {
@@ -24558,7 +24558,7 @@
     "location": "2022 May Battle Center",
     "retired": true,
     "bonus": {
-      "hunger": 0
+      "hunger": 10
     }
   },
   {
