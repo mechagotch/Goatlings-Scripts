@@ -21762,7 +21762,7 @@
     "price": 3000,
     "type": "collectible",
     "description": "",
-    "designer": "Tuxedo (60600)",
+    "designer": "PanyaCat (60600)",
     "location": "Gift Shop (5)",
     "retired": false
 },
@@ -21773,7 +21773,7 @@
     "price": 3000,
     "type": "collectible",
     "description": "",
-    "designer": "Tuxedo (60600)",
+    "designer": "PanyaCat (60600)",
     "location": "Gift Shop (5)",
     "retired": false
 },
@@ -21784,7 +21784,7 @@
     "price": 14000,
     "type": "battle_item_att",
     "description": "A special companion for your Goatling that can also temporarily assist in battles.",
-    "designer": "Tuxedo (60600)",
+    "designer": "PanyaCat (60600)",
     "location": "Battle Pets Shop (26)",
     "retired": false,
     "bonus": {
@@ -21799,7 +21799,7 @@
     "price": 100000,
     "type": "pet_look",
     "description": "Winner of the June 2022 Design-A-Goatling contest.",
-    "designer": "Tuxedo (60600)",
+    "designer": "PanyaCat (60600)",
     "location": "Appearance Dolls Shop (3)",
     "retired": false,
     "pet_image": "JewelBearer.gif"
