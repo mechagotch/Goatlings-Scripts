@@ -10,7 +10,8 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
-    "date": "2024-12-03T00:00:00.000Z"
+    "date": "2024-12-03T00:00:00.000Z",
+    "bonus": {"hunger": 10}
   },
   {
     "image": "EmoKidRAD.gif",
