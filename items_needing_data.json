@@ -23,6 +23,7 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
+    "pet_image": "EmoKid2.gif",
     "date": "2024-12-03T00:00:00.000Z"
   },
   {
@@ -36,6 +37,7 @@
     "retired": false,
     "diamond_dust": false,
     "contains": false,
+    "pet_image": "EmoKid.gif",
     "date": "2024-12-03T00:00:00.000Z"
   },
   {
