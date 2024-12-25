@@ -1,4 +1,608 @@
 [
+  [
+    {
+      "image": "RococoPerfume.gif",
+      "name": "Rococo Perfume",
+      "date": "2024-12-24T00:00:00.000Z",
+      "price": 6000,
+      "type": "collectible",
+      "description": "",
+      "designer": "pinkcl0verr (92503)",
+      "location": "Gift Shop (5)",
+      "retired": false
+    },
+    {
+      "image": "RococoPainting.gif",
+      "name": "Rococo Painting",
+      "date": "2024-12-24T00:00:00.000Z",
+      "price": 8000,
+      "type": "collectible",
+      "description": "",
+      "designer": "pinkcl0verr (92503)",
+      "location": "Gift Shop (5)",
+      "retired": false
+    },
+    {
+      "image": "RococoFrame.gif",
+      "name": "Rococo Frame",
+      "date": "2024-12-24T00:00:00.000Z",
+      "price": 5000,
+      "type": "wearable",
+      "description": "",
+      "designer": "pinkcl0verr (92503)",
+      "location": "HA Buddy Accessories (24)",
+      "retired": false
+    },
+    {
+      "image": "RococoAD.gif",
+      "name": "Rococo AD",
+      "date": "2024-12-24T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "pinkcl0verr (92503)",
+      "location": "Zurora's Crafting",
+      "retired": false,
+      "ad_image": "Rococo.gif"
+    },
+    {
+      "image": "DandelionForagerEyes.gif",
+      "name": "Dandelion Forager Eyes",
+      "date": "2024-12-23T00:00:00.000Z",
+      "price": 2500,
+      "type": "wearable",
+      "description": "",
+      "designer": "Numisma (106234)",
+      "location": "HA Buddy Face Space (20)",
+      "retired": false
+    },
+    {
+      "image": "DandelionForagerCapelet.gif",
+      "name": "Dandelion Forager Capelet",
+      "date": "2024-12-23T00:00:00.000Z",
+      "price": 6000,
+      "type": "wearable",
+      "description": "",
+      "designer": "Numisma (106234)",
+      "location": "HA Buddy Boutique (12)",
+      "retired": false
+    },
+    {
+      "image": "DandelionFieldBG.gif",
+      "name": "Dandelion Field BG",
+      "date": "2024-12-23T00:00:00.000Z",
+      "price": 5000,
+      "type": "wearable",
+      "description": "",
+      "designer": "Numisma (106234)",
+      "location": "HA Buddy Backgrounds (25)",
+      "retired": false
+    },
+    {
+      "image": "DandelionForagerAD.gif",
+      "name": "Dandelion Forager AD",
+      "date": "2024-12-23T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Numisma (106234)",
+      "location": "Zurora's Crafting",
+      "retired": false,
+      "ad_image": "DandelionForager.gif"
+    },
+    {
+      "image": "SportDrink.gif",
+      "name": "Sport Drink",
+      "date": "2024-12-21T00:00:00.000Z",
+      "price": 400,
+      "type": "food",
+      "description": "",
+      "designer": "IWasBored (19566)",
+      "location": "General Foods (10)",
+      "retired": false,
+      "bonus": {
+        "hunger": 40
+      }
+    },
+    {
+      "image": "MedicalKit.gif",
+      "name": "Medical Kit",
+      "date": "2024-12-21T00:00:00.000Z",
+      "price": 1000,
+      "type": "health_potion",
+      "description": "",
+      "designer": "IWasBored (19566)",
+      "location": "Remedies and Elixirs (7)",
+      "retired": false,
+      "bonus": {
+        "health": 400
+      }
+    },
+    {
+      "image": "BoxingGloves.gif",
+      "name": "Boxing Gloves",
+      "date": "2024-12-21T00:00:00.000Z",
+      "price": 18000,
+      "type": "battle_item_att",
+      "description": "",
+      "designer": "IWasBored (19566)",
+      "location": "Battle Weapons Shop (8)",
+      "retired": false,
+      "bonus": {
+        "strength": 11,
+        "stamina": 110
+      }
+    },
+    {
+      "image": "KnockoutAD.gif",
+      "name": "Knockout AD",
+      "designer": "IWasBored (19566)",
+      "description": "Winner of the September 2024 Design-A-Goatling contest.",
+      "type": "pet_look",
+      "ad_image": "Knockout.gif",
+      "location": "Zurora's Crafting",
+      "retired": false,
+      "diamond_dust": false,
+      "price": 19400,
+      "craftable": [
+        {"name": "Boxing Gloves", "image": "BoxingGloves.gif"},
+        {"name": "Medical Kit", "image": "MedicalKit.gif"},
+        {"name": "Sport Drink", "image": "SportDrink.gif"}
+      ],
+      "date": "2024-12-21T00:00:00.000Z"
+    },
+    {
+      "image": "BassistHair.gif",
+      "name": "Bassist Hair",
+      "date": "2024-12-20T00:00:00.000Z",
+      "price": 5000,
+      "type": "wearable",
+      "description": "",
+      "designer": "grimwalker (88372)",
+      "location": "HA Buddy Hair Salon (22)",
+      "retired": false
+    },
+    {
+      "image": "Deodorant.gif",
+      "name": "Deodorant",
+      "date": "2024-12-20T00:00:00.000Z",
+      "price": 1000,
+      "type": "collectible",
+      "description": "",
+      "designer": "grimwalker (88372)",
+      "location": "Gift Shop (5)",
+      "retired": false
+    },
+    {
+      "image": "Bass.gif",
+      "name": "Bass",
+      "date": "2024-12-20T00:00:00.000Z",
+      "price": 6000,
+      "type": "collectible",
+      "description": "",
+      "designer": "grimwalker (88372)",
+      "location": "Gift Shop (5)",
+      "retired": false
+    },
+    {
+      "image": "BassistAD.gif",
+      "name": "Bassist AD",
+      "date": "2024-12-20T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "grimwalker (88372)",
+      "location": "Zurora's Crafting",
+      "retired": false,
+      "ad_image": "Bassist.gif"
+    },
+    {
+      "image": "StarHopperRAD.gif",
+      "name": "Star Hopper RAD",
+      "date": "2024-12-17T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Gobs (98356) and sugarbear (78516)",
+      "location": "Explore Area Glittering Galaxy",
+      "retired": false,
+      "ad_image": "StarHopper2.gif"
+    },
+    {
+      "image": "StarHopperAD.gif",
+      "name": "Star Hopper AD",
+      "date": "2024-12-17T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Gobs (98356) and sugarbear (78516)",
+      "location": "Explore Area Glittering Galaxy",
+      "retired": false,
+      "ad_image": "StarHopper.gif"
+    },
+    {
+      "image": "SpaceCowboyRAD.gif",
+      "name": "Space Cowboy RAD",
+      "date": "2024-12-17T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Lizardxlizard (95364) and sugarbear (78516)",
+      "location": "Explore Area Glittering Galaxy",
+      "retired": false,
+      "ad_image": "SpaceCowboy2.gif"
+    },
+    {
+      "image": "SpaceCowboyAD.gif",
+      "name": "Space Cowboy AD",
+      "date": "2024-12-17T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Lizardxlizard (95364) and sugarbear (78516)",
+      "location": "Explore Area Glittering Galaxy",
+      "retired": false,
+      "ad_image": "SpaceCowboy.gif"
+    },
+    {
+      "image": "CrowsmicRogueRAD.gif",
+      "name": "Crowsmic Rogue RAD",
+      "date": "2024-12-17T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Metroghost (94079) and sugarbear (78516)",
+      "location": "Explore Area Glittering Galaxy",
+      "retired": false,
+      "ad_image": "CrowsmicRogue2.gif"
+    },
+    {
+      "image": "CrowsmicRogueAD.gif",
+      "name": "Crowsmic Rogue AD",
+      "date": "2024-12-17T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Metroghost (94079) and sugarbear (78516)",
+      "location": "Explore Area Glittering Galaxy",
+      "retired": false,
+      "ad_image": "CrowsmicRogue.gif"
+    },
+    {
+      "image": "CometChaserRAD.gif",
+      "name": "Comet Chaser RAD",
+      "date": "2024-12-17T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Zillychu (76274) and sugarbear (78516)",
+      "location": "Explore Area Glittering Galaxy",
+      "retired": false,
+      "ad_image": "CometChaser2.gif"
+    },
+    {
+      "image": "CometChaserAD.gif",
+      "name": "Comet Chaser AD",
+      "date": "2024-12-17T00:00:00.000Z",
+      "price": 10000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Zillychu (76274) and sugarbear (78516)",
+      "location": "Explore Area Glittering Galaxy",
+      "retired": false,
+      "ad_image": "CometChaser.gif"
+    },
+    {
+      "image": "LeftFriendshipLocket.gif",
+      "name": "Left Friendship Locket",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 1000,
+      "type": "collectible",
+      "description": "",
+      "designer": "Mantrap (64402)",
+      "location": "Winter Goat Token Game",
+      "retired": false
+    },
+    {
+      "image": "RightFriendshipLocket.gif",
+      "name": "Right Friendship Locket",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 1000,
+      "type": "collectible",
+      "description": "",
+      "designer": "Mantrap (64402)",
+      "location": "Winter Goat Token Game",
+      "retired": false
+    },
+    {
+      "image": "HealingBalm.gif",
+      "name": "Healing Balm",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 1000,
+      "type": "unknown",
+      "description": "",
+      "designer": "Bumblebunny (47942)",
+      "location": "Winter Goat Token Game",
+      "retired": false
+    },
+    {
+      "image": "DobosTort.gif",
+      "name": "Dobos Tort",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 300,
+      "type": "food",
+      "description": "A traditional east european cake.",
+      "designer": "ikemen (53823)",
+      "location": "Winter Goat Token Game",
+      "retired": false
+    },
+    {
+      "image": "MilkBread.gif",
+      "name": "Milk Bread",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 300,
+      "type": "food",
+      "description": "",
+      "designer": "ikemen (53823)",
+      "location": "Winter Goat Token Game",
+      "retired": false,
+      "bonus": {
+        "hunger": 30
+      }
+    },
+    {
+      "image": "Chestnuts.gif",
+      "name": "Chestnuts",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 300,
+      "type": "food",
+      "description": "",
+      "designer": "ikemen (53823)",
+      "location": "Winter Goat Token Game",
+      "retired": false,
+      "bonus": {
+        "hunger": 30
+      }
+    },
+    {
+      "image": "PeppermintBows.gif",
+      "name": "Peppermint Bows",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 300,
+      "type": "food",
+      "description": "",
+      "designer": "ikemen (53823)",
+      "location": "Winter Goat Token Game",
+      "retired": false,
+      "bonus": {
+        "hunger": 30
+      }
+    },
+    {
+      "image": "HolidayPopcornTin.gif",
+      "name": "Holiday Popcorn Tin",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 300,
+      "type": "food",
+      "description": "",
+      "designer": "marmi (83137)",
+      "location": "Winter Goat Token Game",
+      "retired": false,
+      "bonus": {
+        "hunger": 30
+      }
+    },
+    {
+      "image": "PeanutButterBlossoms.gif",
+      "name": "Peanut Butter Blossoms",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 1000,
+      "type": "food",
+      "description": "",
+      "designer": "Cinnamon_Fern (105756)",
+      "location": "Winter Goat Token Game",
+      "retired": false,
+      "bonus": {
+        "hunger": 30
+      }
+    },
+    {
+      "image": "Glogg.gif",
+      "name": "Glogg",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 300,
+      "type": "food",
+      "description": "",
+      "designer": "laventeli (62524)",
+      "location": "Winter Goat Token Game",
+      "retired": false,
+      "bonus": {
+        "hunger": 30
+      }
+    },
+    {
+      "image": "SnowLeopardBaseVeil.gif",
+      "name": "Snow Leopard Base Veil",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 1000,
+      "type": "wearable",
+      "description": "",
+      "designer": "noghostzone (25622)",
+      "location": "Winter Goat Token Game",
+      "retired": false
+    },
+    {
+      "image": "IceSkates.gif",
+      "name": "Ice Skates",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 1000,
+      "type": "collectible",
+      "description": "",
+      "designer": "Vennick (49340)",
+      "location": "Winter Goat Token Game",
+      "retired": false
+    },
+    {
+      "image": "SlushySkaterHair.gif",
+      "name": "Slushy Skater Hair",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 1000,
+      "type": "wearable",
+      "description": "",
+      "designer": "Vennick (49340)",
+      "location": "Winter Goat Token Game",
+      "retired": false
+    },
+    {
+      "image": "SlushySkaterAD.gif",
+      "name": "Slushy Skater AD",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 100000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Vennick (49340)",
+      "location": "Winter Goat Token Game",
+      "retired": false,
+      "ad_image": "SlushySkater.gif"
+    },
+    {
+      "image": "SnugglyScarvesAD.gif",
+      "name": "Snuggly Scarves AD",
+      "date": "2024-12-08T00:00:00.000Z",
+      "price": 100000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "Gloomy (8249)",
+      "location": "Winter Goat Token Game",
+      "retired": false,
+      "ad_image": "SnugglyScarves.gif"
+    },
+    {
+      "image": "JollyGingerbreadBox.gif",
+      "name": "Jolly Gingerbread Box",
+      "date": "2024-12-07T00:00:00.000Z",
+      "price": 1000,
+      "type": "container",
+      "description": "",
+      "designer": "r00p (20210)",
+      "location": "2024 Winter Diamond Dust Special",
+      "retired": false,
+      "diamond_dust": true,
+      "contains": [
+        {"name": "Jolly Gingerbread Jacket", "image": "JollyGingerbreadJacket.gif"},
+        {"name": "Jolly Gingerbread Hat", "image": "JollyGingerbreadHat.gif"},
+        {"name": "Jolly Gingerbread Hair", "image": "JollyGingerbreadHair.gif"},
+        {"name": "Jolly Gingerbread BG", "image": "JollyGingerbreadBG1.gif"},
+        {"name": "Ginger Soldier BP", "image": "GingerSoldier.gif"},
+        {"name": "Jolly Gingerbread Plush", "image": "JollyGingerbreadPlush.gif"},
+        {"name": "Cookie Kit", "image": "CookieKit.gif"},
+        {"name": "Jolly Gingerbread AD", "image": "JollyGingerbreadAD.gif"}
+      ]
+    },
+    {
+      "image": "JollyGingerbreadJacket.gif",
+      "name": "Jolly Gingerbread Jacket",
+      "date": "2024-12-07T00:00:00.000Z",
+      "price": 1000,
+      "type": "wearable",
+      "description": "",
+      "designer": "r00p (20210)",
+      "location": "Inside a 'Jolly Gingerbread Box' from the 2024 Winter Diamond Dust Special",
+      "retired": false,
+      "diamond_dust": true
+    },
+    {
+      "image": "JollyGingerbreadHat.gif",
+      "name": "Jolly Gingerbread Hat",
+      "date": "2024-12-07T00:00:00.000Z",
+      "price": 1000,
+      "type": "wearable",
+      "description": "",
+      "designer": "r00p (20210)",
+      "location": "Inside a 'Jolly Gingerbread Box' from the 2024 Winter Diamond Dust Special",
+      "retired": false,
+      "diamond_dust": true
+    },
+    {
+      "image": "JollyGingerbreadHair.gif",
+      "name": "Jolly Gingerbread Hair",
+      "date": "2024-12-07T00:00:00.000Z",
+      "price": 1000,
+      "type": "wearable",
+      "description": "",
+      "designer": "r00p (20210)",
+      "location": "Inside a 'Jolly Gingerbread Box' from the 2024 Winter Diamond Dust Special",
+      "retired": false,
+      "diamond_dust": true
+    },
+    {
+      "image": "JollyGingerbreadBG1.gif",
+      "name": "Jolly Gingerbread BG",
+      "date": "2024-12-07T00:00:00.000Z",
+      "price": 1000,
+      "type": "wearable",
+      "description": "",
+      "designer": "r00p (20210)",
+      "location": "Inside a 'Jolly Gingerbread Box' from the 2024 Winter Diamond Dust Special",
+      "retired": false,
+      "diamond_dust": true
+    },
+    {
+      "image": "GingerSoldier.gif",
+      "name": "Ginger Soldier BP",
+      "date": "2024-12-06T00:00:00.000Z",
+      "price": 20000,
+      "type": "battle_item_att",
+      "description": "",
+      "designer": "r00p (20210)",
+      "location": "Inside a 'Jolly Gingerbread Box' from the 2024 Winter Diamond Dust Special",
+      "retired": false,
+      "diamond_dust": true,
+      "bonus": {
+        "strength": 12,
+        "stamina": 120
+      }
+    },
+    {
+      "image": "JollyGingerbreadPlush.gif",
+      "name": "Jolly Gingerbread Plush",
+      "date": "2024-12-06T00:00:00.000Z",
+      "price": 500,
+      "type": "toy",
+      "description": "",
+      "designer": "r00p (20210)",
+      "location": "Inside a 'Jolly Gingerbread Box' from the 2024 Winter Diamond Dust Special",
+      "retired": false,
+      "diamond_dust": true,
+      "bonus": {
+        "mood": 50
+      }
+    },
+    {
+      "image": "CookieKit.gif",
+      "name": "Cookie Kit",
+      "date": "2024-12-06T00:00:00.000Z",
+      "price": 1000,
+      "type": "collectible",
+      "description": "",
+      "designer": "r00p (20210)",
+      "location": "Inside a 'Jolly Gingerbread Box' from the 2024 Winter Diamond Dust Special",
+      "retired": false,
+      "diamond_dust": true
+    },
+    {
+      "image": "JollyGingerbreadAD.gif",
+      "name": "Jolly Gingerbread AD",
+      "date": "2024-12-06T00:00:00.000Z",
+      "price": 300000,
+      "type": "pet_look",
+      "description": "",
+      "designer": "r00p (20210)",
+      "location": "Inside a 'Jolly Gingerbread Box' from the 2024 Winter Diamond Dust Special",
+      "retired": false,
+      "ad_image": "JollyGingerbread.gif",
+      "diamond_dust": true
+    },
   {
     "image": "SproutSoda.gif",
     "name": "Sprout Soda",
