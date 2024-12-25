@@ -42,7 +42,7 @@
       "designer": "pinkcl0verr (92503)",
       "location": "Zurora's Crafting",
       "retired": false,
-      "ad_image": "Rococo.gif"
+      "pet_image": "Rococo.gif"
     },
     {
       "image": "DandelionForagerEyes.gif",
@@ -87,7 +87,7 @@
       "designer": "Numisma (106234)",
       "location": "Zurora's Crafting",
       "retired": false,
-      "ad_image": "DandelionForager.gif"
+      "pet_image": "DandelionForager.gif"
     },
     {
       "image": "SportDrink.gif",
@@ -138,7 +138,7 @@
       "designer": "IWasBored (19566)",
       "description": "Winner of the September 2024 Design-A-Goatling contest.",
       "type": "pet_look",
-      "ad_image": "Knockout.gif",
+      "pet_image": "Knockout.gif",
       "location": "Zurora's Crafting",
       "retired": false,
       "diamond_dust": false,
@@ -193,7 +193,7 @@
       "designer": "grimwalker (88372)",
       "location": "Zurora's Crafting",
       "retired": false,
-      "ad_image": "Bassist.gif"
+      "pet_image": "Bassist.gif"
     },
     {
       "image": "StarHopperRAD.gif",
@@ -205,7 +205,7 @@
       "designer": "Gobs (98356) and sugarbear (78516)",
       "location": "Explore Area Glittering Galaxy",
       "retired": false,
-      "ad_image": "StarHopper2.gif"
+      "pet_image": "StarHopper2.gif"
     },
     {
       "image": "StarHopperAD.gif",
@@ -217,7 +217,7 @@
       "designer": "Gobs (98356) and sugarbear (78516)",
       "location": "Explore Area Glittering Galaxy",
       "retired": false,
-      "ad_image": "StarHopper.gif"
+      "pet_image": "StarHopper.gif"
     },
     {
       "image": "SpaceCowboyRAD.gif",
@@ -229,7 +229,7 @@
       "designer": "Lizardxlizard (95364) and sugarbear (78516)",
       "location": "Explore Area Glittering Galaxy",
       "retired": false,
-      "ad_image": "SpaceCowboy2.gif"
+      "pet_image": "SpaceCowboy2.gif"
     },
     {
       "image": "SpaceCowboyAD.gif",
@@ -241,7 +241,7 @@
       "designer": "Lizardxlizard (95364) and sugarbear (78516)",
       "location": "Explore Area Glittering Galaxy",
       "retired": false,
-      "ad_image": "SpaceCowboy.gif"
+      "pet_image": "SpaceCowboy.gif"
     },
     {
       "image": "CrowsmicRogueRAD.gif",
@@ -253,7 +253,7 @@
       "designer": "Metroghost (94079) and sugarbear (78516)",
       "location": "Explore Area Glittering Galaxy",
       "retired": false,
-      "ad_image": "CrowsmicRogue2.gif"
+      "pet_image": "CrowsmicRogue2.gif"
     },
     {
       "image": "CrowsmicRogueAD.gif",
@@ -265,7 +265,7 @@
       "designer": "Metroghost (94079) and sugarbear (78516)",
       "location": "Explore Area Glittering Galaxy",
       "retired": false,
-      "ad_image": "CrowsmicRogue.gif"
+      "pet_image": "CrowsmicRogue.gif"
     },
     {
       "image": "CometChaserRAD.gif",
@@ -277,7 +277,7 @@
       "designer": "Zillychu (76274) and sugarbear (78516)",
       "location": "Explore Area Glittering Galaxy",
       "retired": false,
-      "ad_image": "CometChaser2.gif"
+      "pet_image": "CometChaser2.gif"
     },
     {
       "image": "CometChaserAD.gif",
@@ -289,7 +289,7 @@
       "designer": "Zillychu (76274) and sugarbear (78516)",
       "location": "Explore Area Glittering Galaxy",
       "retired": false,
-      "ad_image": "CometChaser.gif"
+      "pet_image": "CometChaser.gif"
     },
     {
       "image": "LeftFriendshipLocket.gif",
@@ -462,7 +462,7 @@
       "designer": "Vennick (49340)",
       "location": "Winter Goat Token Game",
       "retired": false,
-      "ad_image": "SlushySkater.gif"
+      "pet_image": "SlushySkater.gif"
     },
     {
       "image": "SnugglyScarvesAD.gif",
@@ -474,7 +474,7 @@
       "designer": "Gloomy (8249)",
       "location": "Winter Goat Token Game",
       "retired": false,
-      "ad_image": "SnugglyScarves.gif"
+      "pet_image": "SnugglyScarves.gif"
     },
     {
       "image": "JollyGingerbreadBox.gif",
@@ -599,7 +599,7 @@
       "designer": "r00p (20210)",
       "location": "Inside a 'Jolly Gingerbread Box' from the 2024 Winter Diamond Dust Special",
       "retired": false,
-      "ad_image": "JollyGingerbread.gif",
+      "pet_image": "JollyGingerbread.gif",
       "diamond_dust": true
     },
   {
@@ -105836,7 +105836,6 @@
     "image": "item_38.gif",
     "name": "Basic Gray AD",
     "date": "2012-01-31T00:00:10.000Z",
-    "ad_image": "pet_1.gif",
     "price": 1000,
     "type": "pet_look",
     "description": "The most basic Goatling.",
