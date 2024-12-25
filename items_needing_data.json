@@ -41313,8 +41313,7 @@
       {"name": "Mothman Wings", "image": "MothmanWings.gif"},
       {"name": "Found Photo", "image": "FoundPhoto.gif"},
       {"name": "Mothman BG", "image": "MothmanBG.gif"}
-    ],
-    "item_cost": "200 Diamond Dust"
+    ]
   },
   {
     "image": "FoundPhoto.gif",
@@ -41421,7 +41420,6 @@
     "description": "",
     "designer": "yumekitti (4093)",
     "location": "2020 Monster Masquerade event",
-    "item_cost": "200 Diamond Dust",
     "diamond_dust": true,
     "retired": true,
     "contains": [
