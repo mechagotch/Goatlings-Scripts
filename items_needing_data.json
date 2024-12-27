@@ -1,4 +1,83 @@
   [
+
+      {
+        "image": "WarlockTome.gif",
+        "name": "Warlock Tome",
+        "date": "2024-12-27T00:00:00.000Z",
+        "price": 3000000,
+        "type": "container",
+        "description": "",
+        "designer": "mutant (89444)",
+        "location": "Princely Premiums VIP (32)",
+        "retired": false
+      },
+      {
+        "image": "WarlockRobe.gif",
+        "name": "Warlock Robe",
+        "date": "2024-12-27T00:00:00.000Z",
+        "price": 3000000,
+        "type": "wearable",
+        "description": "",
+        "designer": "mutant (89444)",
+        "location": "Inside a 'Warlock Tome' from the Princely Premiums VIP (32)",
+        "retired": false
+      },
+      {
+        "image": "WarlockHorns.gif",
+        "name": "Warlock Horns",
+        "date": "2024-12-27T00:00:00.000Z",
+        "price": 3000000,
+        "type": "wearable",
+        "description": "",
+        "designer": "mutant (89444)",
+        "location": "Inside a 'Warlock Tome' from the Princely Premiums VIP (32)",
+        "retired": false
+      },
+      {
+        "image": "WarlockFace.gif",
+        "name": "Warlock Face",
+        "date": "2024-12-27T00:00:00.000Z",
+        "price": 3000000,
+        "type": "wearable",
+        "description": "",
+        "designer": "mutant (89444)",
+        "location": "Inside a 'Warlock Tome' from the Princely Premiums VIP (32)",
+        "retired": false
+      },
+      {
+        "image": "WarlockEars.gif",
+        "name": "Warlock Ears",
+        "date": "2024-12-27T00:00:00.000Z",
+        "price": 3000000,
+        "type": "wearable",
+        "description": "",
+        "designer": "mutant (89444)",
+        "location": "Inside a 'Warlock Tome' from the Princely Premiums VIP (32)",
+        "retired": false
+      },
+      {
+        "image": "SpellCircle1.gif",
+        "name": "Spell Circle",
+        "date": "2024-12-27T00:00:00.000Z",
+        "price": 3000000,
+        "type": "wearable",
+        "description": "",
+        "designer": "mutant (89444)",
+        "location": "Inside a 'Warlock Tome' from the Princely Premiums VIP (32)",
+        "retired": false
+      },
+      {
+        "date": "2024-12-27T00:00:00.000Z",
+        "image": "WarlockAD.gif",
+        "name": "Warlock AD",
+        "price": 10000000,
+        "type": "pet_look",
+        "description": "knighted (99289) Design Pass pick from the 2023 Tip-A-Mod event",
+        "designer": "mutant (89444)",
+        "location": "Princely Premiums VIP (32)",
+        "retired": false,
+        "pet_image": "Warlock.gif"
+      },
     {
       "image": "RococoPerfume.gif",
       "name": "Rococo Perfume",
@@ -5481,7 +5560,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Cyborg Ninja Box from Princely Premiums VIP (32)",
+    "location": "Inside a 'Cyborg Ninja Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -5491,7 +5570,7 @@
     "name": "Cyborg Ninja Mask",
     "date": "2024-05-05T00:00:10.000Z",
     "designer": "IWasBored (19566)",
-    "location": "Inside 'Cyborg Ninja Box'",
+    "location": "Inside a 'Cyborg Ninja Box' from Princely Premiums VIP (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -5506,7 +5585,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Cyborg Ninja Box from Princely Premiums VIP (32)",
+    "location": "Inside a 'Cyborg Ninja Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
@@ -5516,7 +5595,7 @@
     "name": "Cyborg Ninja Katana",
     "date": "2024-05-05T00:00:10.000Z",
     "designer": "IWasBored (19566)",
-    "location": "Inside 'Cyborg Ninja Box'",
+    "location": "Inside a 'Cyborg Ninja Box' from Princely Premiums VIP (32)",
     "description": "",
     "retired": false,
     "diamond_dust": false,
@@ -5531,7 +5610,7 @@
     "type": "wearable",
     "description": "",
     "designer": "IWasBored (19566)",
-    "location": "Cyborg Ninja Box from Princely Premiums VIP (32)",
+    "location": "Inside a 'Cyborg Ninja Box' from Princely Premiums VIP (32)",
     "retired": false,
     "diamond_dust": false,
     "contains": false
