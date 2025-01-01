@@ -1,5 +1,104 @@
   [
-
+    {
+    "image": "Year13Badge.gif",
+    "name": "Year 13 Badge",
+    "date": "2024-12-31T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Krisgoat (2)",
+    "location": "2025 Free Princess Gift",
+    "retired": true,
+    "description": "Collectible badge to commemorate the thirteenth year of Goatlings.com! Retired."
+  },
+  {
+    "image": "MoonlitRitual.gif",
+    "name": "Moonlit Ritual",
+    "date": "2024-12-29T00:00:00.000Z",
+    "price": 3000000,
+    "type": "container",
+    "description": "There are rumors that moon-soaked roses can grant your deepest wish.",
+    "designer": "Ikkyoutan (78186)",
+    "location": "Princely Premiums VIP (32)",
+    "retired": false,
+    "contains": [
+      {"image": "LunitidalLupinPlush.gif", "name": "Lunitidal Lupin Plush"},
+      {"image": "LunitidalLupinVeil.gif", "name": "Lunitidal Lupin Veil"},
+      {"image": "LunitidalLupinTop.gif", "name": "Lunitidal Lupin Top"},
+      {"image": "LunitidalLupinFace.gif", "name": "Lunitidal Lupin Face"},
+      {"image": "CoralFrame.gif", "name": "Coral Frame"}
+    ]
+  },
+  {
+    "image": "LunitidalLupinPlush.gif",
+    "name": "Lunitidal Lupin Plush",
+    "date": "2024-12-29T00:00:00.000Z",
+    "price": 3000000,
+    "type": "toy",
+    "description": "",
+    "designer": "Ikkyoutan (78186)",
+    "location": "Inside a 'Moonlit Ritual' from Princely Premiums VIP (32)",
+    "retired": false,
+    "bonus": {
+      "mood": 100
+    }
+  },
+  {
+    "image": "LunitidalLupinVeil.gif",
+    "name": "Lunitidal Lupin Veil",
+    "date": "2024-12-29T00:00:00.000Z",
+    "price": 3000000,
+    "type": "container",
+    "description": "",
+    "designer": "Ikkyoutan (78186)",
+    "location": "Inside a 'Moonlit Ritual' from Princely Premiums VIP (32)",
+    "retired": false
+  },
+  {
+    "image": "LunitidalLupinTop.gif",
+    "name": "Lunitidal Lupin Top",
+    "date": "2024-12-29T00:00:00.000Z",
+    "price": 3000000,
+    "type": "wearable",
+    "description": "",
+    "designer": "Ikkyoutan (78186)",
+    "location": "Inside a 'Moonlit Ritual' from Princely Premiums VIP (32)",
+    "retired": false
+  },
+  {
+    "image": "LunitidalLupinFace.gif",
+    "name": "Lunitidal Lupin Face",
+    "date": "2024-12-29T00:00:00.000Z",
+    "price": 3000000,
+    "type": "wearable",
+    "description": "",
+    "designer": "Ikkyoutan (78186)",
+    "location": "Inside a 'Moonlit Ritual' from Princely Premiums VIP (32)",
+    "retired": false
+  },
+  {
+    "image": "CoralFrame.gif",
+    "name": "Coral Frame",
+    "date": "2024-12-29T00:00:00.000Z",
+    "price": 3000000,
+    "type": "wearable",
+    "description": "",
+    "designer": "Ikkyoutan (78186)",
+    "location": "Inside a 'Moonlit Ritual' from Princely Premiums VIP (32)",
+    "retired": false
+  },
+  {
+    "image": "LunitidalLupinAD.gif",
+    "name": "Lunitidal Lupin AD",
+    "date": "2024-12-29T00:00:00.000Z",
+    "price": 10000000,
+    "type": "pet_look",
+    "description": "There, the swirling abyssal waters where the blue hues run red — within them lies a sea witch whose favor must be earned.",
+    "designer": "Ikkyoutan (78186)",
+    "location": "Princely Premiums VIP (32)",
+    "retired": false,
+    "pet_image": "LunitidalLupin.gif"
+  },
+    
       {
         "image": "WarlockTome.gif",
         "name": "Warlock Tome",
@@ -9,7 +108,14 @@
         "description": "",
         "designer": "mutant (89444)",
         "location": "Princely Premiums VIP (32)",
-        "retired": false
+        "retired": false,
+        "contains": [
+          {"image": "WarlockEars.gif", "name": "Warlock Ears"},
+          {"image": "WarlockFace.gif", "name": "Warlock Face"},
+          {"image": "WarlockHorns.gif", "name": "Warlock Horns"},
+          {"image": "WarlockRobe.gif", "name": "Warlock Robe"},
+          {"image": "SpellCircle1.gif", "name": "Spell Circle"}
+        ]
       },
       {
         "image": "WarlockRobe.gif",
