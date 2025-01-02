@@ -1,5 +1,72 @@
   [
     {
+    "image": "SilverAndGoldTop.gif",
+    "name": "Silver And Gold Top",
+    "date": "2025-01-02T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "LostSilver (75953)",
+    "location": "2025 January Battle Center",
+    "retired": false,
+    "description": "Winner of the January 2025 Design-A-Goatling contest. Buyable after January 2025."
+  },
+    {
+    "image": "SilverAndGoldHorns.gif",
+    "name": "Silver And Gold Horns",
+    "date": "2025-01-02T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "LostSilver (75953)",
+    "location": "2025 January Battle Center",
+    "retired": false,
+    "description": "Winner of the January 2025 Design-A-Goatling contest. Buyable after January 2025."
+  },
+    {
+    "image": "SilverAndGoldHat.gif",
+    "name": "Silver And Gold Hat",
+    "date": "2025-01-02T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "LostSilver (75953)",
+    "location": "2025 January Battle Center",
+    "retired": false,
+    "description": "Winner of the January 2025 Design-A-Goatling contest. Buyable after January 2025."
+  },
+    {
+    "image": "SilverAndGoldEyes.gif",
+    "name": "Silver And Gold Eyes",
+    "date": "2025-01-02T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "LostSilver (75953)",
+    "location": "2025 January Battle Center",
+    "retired": false,
+    "description": "Winner of the January 2025 Design-A-Goatling contest. Buyable after January 2025."
+  },
+    {
+    "image": "SilverAndGoldConfetti.gif",
+    "name": "Silver And Gold Confetti",
+    "date": "2025-01-02T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "LostSilver (75953)",
+    "location": "2025 January Battle Center",
+    "retired": false,
+    "description": "Winner of the January 2025 Design-A-Goatling contest. Buyable after January 2025."
+  },
+    {
+    "image": "SilverAndGoldAD.gif",
+    "name": "Silver And Gold AD",
+    "date": "2025-01-02T00:00:00.000Z",
+    "price": 50000,
+    "type": "pet_look",
+    "pet_image": "SilverAndGold.gif",
+    "designer": "LostSilver (75953)",
+    "location": "2025 January Battle Center",
+    "retired": false,
+    "description": "Winner of the January 2025 Design-A-Goatling contest. Buyable after January 2025."
+  },
+    {
     "image": "Year13Badge.gif",
     "name": "Year 13 Badge",
     "date": "2024-12-31T00:00:00.000Z",
