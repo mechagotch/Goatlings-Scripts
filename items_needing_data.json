@@ -1,4 +1,572 @@
-  [
+[
+  {
+    "image": "ToyTimeAD.gif",
+    "name": "Toy Time AD",
+    "date": "2025-01-22T00:00:00.000Z",
+    "price": 100000,
+    "type": "pet_look",
+    "designer": "wraeth (108311)",
+    "location": "Zurora's Crafting Shop",
+    "description": "Winner of the December 2024 Design-A-Goatling contest.",
+    "retired": false,
+    "craftable": [
+      {"image": "item_4.gif", "name": "Red Yoyo"},
+      {"image": "item_14.gif", "name": "Apple Juice Box"},
+      {"image": "RainbowSlink.gif", "name": "Rainbow Slink"}
+    ],
+    "pet_image": "ToyTime.gif"
+  },
+  {
+    "image": "PlutoPlanetPupPlush.gif",
+    "name": "Pluto Planet Pup Plush",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 100,
+    "type": "toy",
+    "designer": "Cupcake_Princess (84572)",
+    "location": "Explore Area Glittering Galaxy 5",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "mood": 10
+    }
+  },
+  {
+    "image": "NeptunePlanetPupPlush.gif",
+    "name": "Neptune Planet Pup Plush",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 100,
+    "type": "toy",
+    "designer": "Cupcake_Princess (84572)",
+    "location": "Explore Area Glittering Galaxy 5",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "mood": 10
+    }
+  },
+  {
+    "image": "UranusPlanetPupPlush.gif",
+    "name": "Uranus Planet Pup Plush",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 100,
+    "type": "toy",
+    "designer": "Cupcake_Princess (84572)",
+    "location": "Explore Area Glittering Galaxy 5",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "mood": 10
+    }
+  },
+  {
+    "image": "SaturnPlanetPupPlush.gif",
+    "name": "Saturn Planet Pup Plush",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 100,
+    "type": "toy",
+    "designer": "Cupcake_Princess (84572)",
+    "location": "Explore Area Glittering Galaxy 4",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "mood": 10
+    }
+  },
+  {
+    "image": "JupiterPlanetPupPlush.gif",
+    "name": "Jupiter Planet Pup Plush",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 100,
+    "type": "toy",
+    "designer": "Cupcake_Princess (84572)",
+    "location": "Explore Area Glittering Galaxy 4",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "mood": 10
+    }
+  },
+  {
+    "image": "MarsPlanetPupPlush.gif",
+    "name": "Mars Planet Pup Plush",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 100,
+    "type": "toy",
+    "designer": "Cupcake_Princess (84572)",
+    "location": "Explore Area Glittering Galaxy 4",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "mood": 10
+    }
+  },
+  {
+    "image": "EarthPlanetPupPlush.gif",
+    "name": "Earth Planet Pup Plush",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 100,
+    "type": "toy",
+    "designer": "Cupcake_Princess (84572)",
+    "location": "Explore Area Glittering Galaxy 3",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "mood": 10
+    }
+  },
+  {
+    "image": "VenusPlanetPupPlush.gif",
+    "name": "Venus Planet Pup Plush",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 100,
+    "type": "toy",
+    "designer": "Cupcake_Princess (84572)",
+    "location": "Explore Area Glittering Galaxy 3",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "mood": 10
+    }
+  },
+  {
+    "image": "MercuryPlanetPupPlush.gif",
+    "name": "Mercury Planet Pup Plush",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 100,
+    "type": "toy",
+    "designer": "Cupcake_Princess (84572)",
+    "location": "Explore Area Glittering Galaxy 3",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "mood": 10
+    }
+  },
+  {
+    "image": "GlitteringGalaxyBG.gif",
+    "name": "Glittering Galaxy BG",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "sugarbear (78516)",
+    "location": "Explore Areas",
+    "description": "For those who love to explore the Glittering Galaxy.",
+    "retired": false
+  },
+  {
+    "image": "MothershipMacarons.gif",
+    "name": "Mothership Macarons",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "food",
+    "designer": "Fairybread (78929)",
+    "location": "Explore Area Glittering Galaxy 2",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "hunger": 10
+    }
+  },
+  {
+    "image": "StarDust.gif",
+    "name": "Star Dust",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Berrymilk (58926)",
+    "location": "Explore Area Glittering Galaxy 1",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "MoonDust.gif",
+    "name": "Moon Dust",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Berrymilk (58926)",
+    "location": "Explore Area Glittering Galaxy 1",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "SugarStarSheepStamp.gif",
+    "name": "Sugar Star Sheep Stamp",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Berrymilk (58926)",
+    "location": "Explore Area Glittering Galaxy 5",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "SugarStarJesterStamp.gif",
+    "name": "Sugar Star Jester Stamp",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Berrymilk (58926)",
+    "location": "Explore Area Glittering Galaxy ",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "GalacticHerdStamp.gif",
+    "name": "Galactic Herd Stamp",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Lizardxlizard (95364)",
+    "location": "Explore Area Glittering Galaxy 3",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "ExtraFurrestrialStamp.gif",
+    "name": "Extra Furrestrial Stamp",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Fairybread (78929)",
+    "location": "Explore Area Glittering Galaxy 2",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "AlienCatStamp.gif",
+    "name": "Alien Cat Stamp",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Berrymilk (58926)",
+    "location": "Explore Area Glittering Galaxy 1",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "CometChaserRADTop.gif",
+    "name": "Comet Chaser RAD Top",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Zillychu (76274)",
+    "location": "Explore Area Glittering Galaxy 5",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "CometChaserTop.gif",
+    "name": "Comet Chaser Top",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Zillychu (76274)",
+    "location": "Explore Area Glittering Galaxy 5",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "CometChaserRADHair.gif",
+    "name": "Comet Chaser RAD Hair",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Zillychu (76274)",
+    "location": "Explore Area Glittering Galaxy 5",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "CometChaserHair.gif",
+    "name": "Comet Chaser Hair",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Zillychu (76274)",
+    "location": "Explore Area Glittering Galaxy 5",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "CrowMask.gif",
+    "name": "Crow Mask",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Metroghost (94079)",
+    "location": "Explore Area Glittering Galaxy 1",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "CrowingCardRAD.gif",
+    "name": "Crowing Card RAD",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Metroghost (94079)",
+    "location": "Explore Area Glittering Galaxy 1",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "CrowingCard.gif",
+    "name": "Crowing Card",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Metroghost (94079)",
+    "location": "Explore Area Glittering Galaxy 1",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "MascrowraderMask.gif",
+    "name": "Mascrowrader Mask",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Metroghost (94079)",
+    "location": "Explore Area Glittering Galaxy 1",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "HeldRose.gif",
+    "name": "Held Rose",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Metroghost (94079)",
+    "location": "Explore Area Glittering Galaxy 1",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "SpaceCowboyVest.gif",
+    "name": "Space Cowboy Vest",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Lizardxlizard (95364)",
+    "location": "Explore Area Glittering Galaxy 3",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "SpaceCowboyHat.gif",
+    "name": "Space Cowboy Hat",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Lizardxlizard (95364)",
+    "location": "Explore Area Glittering Galaxy 3",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "SpaceCowboyFace.gif",
+    "name": "Space Cowboy Face",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Lizardxlizard (95364)",
+    "location": "Explore Area Glittering Galaxy 3",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "SpaceCowboyBandana.gif",
+    "name": "Space Cowboy Bandana",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Lizardxlizard (95364)",
+    "location": "Explore Area Glittering Galaxy 3",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "StarHopperRADScarf.gif",
+    "name": "Star Hopper RAD Scarf",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Gobs (98356)",
+    "location": "Explore Area Glittering Galaxy 4",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "StarHopperScarf.gif",
+    "name": "Star Hopper Scarf",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Gobs (98356)",
+    "location": "Explore Area Glittering Galaxy 4",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "StarHopperRADHair.gif",
+    "name": "Star Hopper RAD Hair",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Gobs (98356)",
+    "location": "Explore Area Glittering Galaxy 4",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "StarHopperHair.gif",
+    "name": "Star Hopper Hair",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Gobs (98356)",
+    "location": "Explore Area Glittering Galaxy 4",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "StarHopperRADEyes.gif",
+    "name": "Star Hopper RAD Eyes",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Gobs (98356)",
+    "location": "Explore Area Glittering Galaxy 4",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "StarHopperEyes.gif",
+    "name": "Star Hopper Eyes",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Gobs (98356)",
+    "location": "Explore Area Glittering Galaxy 4",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "StarryFiendlingPillow.gif",
+    "name": "Starry Fiendling Pillow",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 200,
+    "type": "toy",
+    "designer": "Reyes (19152)",
+    "location": "Explore Area Glittering Galaxy 2",
+    "description": "",
+    "retired": false,
+    "bonus": {
+      "mood": 20
+    }
+  },
+  {
+    "image": "StarryFiendlingHalo.gif",
+    "name": "Starry Fiendling Halo",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "designer": "Reyes (19152)",
+    "location": "Explore Area Glittering Galaxy 2",
+    "description": "",
+    "retired": false
+  },
+  {
+    "image": "StarryFiendlingRAD.gif",
+    "name": "Starry Fiendling RAD",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 50000,
+    "type": "pet_look",
+    "designer": "Reyes (19152)",
+    "location": "Explore Area Glittering Galaxy 2",
+    "description": "",
+    "retired": false,
+    "pet_image": "StarryFiendling2.gif"
+  },
+  {
+    "image": "StarryFiendlingAD.gif",
+    "name": "Starry Fiendling AD",
+    "date": "2025-01-17T00:00:00.000Z",
+    "price": 50000,
+    "type": "pet_look",
+    "designer": "Reyes (19152)",
+    "location": "Explore Area Glittering Galaxy 2",
+    "description": "",
+    "retired": false,
+    "pet_image": "StarryFiendling.gif"
+  },
+  {
+    "image": "PrpAD.gif",
+    "name": "Prp AD",
+    "date": "2025-01-11T00:00:00.000Z",
+    "price": 0,
+    "type": "pet_look",
+    "designer": "Krisgoat (2)",
+    "location": "unknown",
+    "description": "unknown",
+    "retired": false,
+    "pet_image": "Prp.gif"
+  },
+  {
+    "image": "PrpPlush.gif",
+    "name": "Prp Plush",
+    "date": "2025-01-11T00:00:00.000Z",
+    "price": 0,
+    "type": "toy",
+    "designer": "Krisgoat (2)",
+    "location": "unknown",
+    "description": "unknown",
+    "retired": false,
+    "bonus": {
+      "mood": 0
+    }
+  },
+  {
+    "image": "PnkPlush.gif",
+    "name": "Pnk Plush",
+    "date": "2025-01-11T00:00:00.000Z",
+    "price": 0,
+    "type": "toy",
+    "designer": "Krisgoat (2)",
+    "location": "unknown",
+    "description": "unknown",
+    "retired": false,
+    "bonus": {
+      "mood": 0
+    }
+  },
+  {
+    "image": "BluPlush.gif",
+    "name": "Blu Plush",
+    "date": "2025-01-11T00:00:00.000Z",
+    "price": 0,
+    "type": "toy",
+    "designer": "Krisgoat (2)",
+    "location": "unknown",
+    "description": "unknown",
+    "retired": false,
+    "bonus": {
+      "mood": 0
+    }
+  },
+  {
+    "image": "SpotlightBluTrophy.gif",
+    "name": "Spotlight Blu Trophy",
+    "date": "2025-01-11T00:00:00.000Z",
+    "price": 1000,
+    "type": "collectible",
+    "designer": "Krisgoat (2)",
+    "location": "Winning Spotlight Blu",
+    "description": "",
+    "retired": false
+  },
     {
     "image": "SilverAndGoldTop.gif",
     "name": "Silver And Gold Top",
@@ -455,7 +1023,7 @@
       "type": "pet_look",
       "description": "",
       "designer": "Gobs (98356) and sugarbear (78516)",
-      "location": "Explore Area Glittering Galaxy",
+      "location": "Explore Area Glittering Galaxy 4",
       "retired": false,
       "pet_image": "StarHopper2.gif"
     },
@@ -467,7 +1035,7 @@
       "type": "pet_look",
       "description": "",
       "designer": "Gobs (98356) and sugarbear (78516)",
-      "location": "Explore Area Glittering Galaxy",
+      "location": "Explore Area Glittering Galaxy 4",
       "retired": false,
       "pet_image": "StarHopper.gif"
     },
@@ -479,7 +1047,7 @@
       "type": "pet_look",
       "description": "",
       "designer": "Lizardxlizard (95364) and sugarbear (78516)",
-      "location": "Explore Area Glittering Galaxy",
+      "location": "Explore Area Glittering Galaxy 3",
       "retired": false,
       "pet_image": "SpaceCowboy2.gif"
     },
@@ -491,7 +1059,7 @@
       "type": "pet_look",
       "description": "",
       "designer": "Lizardxlizard (95364) and sugarbear (78516)",
-      "location": "Explore Area Glittering Galaxy",
+      "location": "Explore Area Glittering Galaxy 3",
       "retired": false,
       "pet_image": "SpaceCowboy.gif"
     },
@@ -503,7 +1071,7 @@
       "type": "pet_look",
       "description": "",
       "designer": "Metroghost (94079) and sugarbear (78516)",
-      "location": "Explore Area Glittering Galaxy",
+      "location": "Explore Area Glittering Galaxy 1",
       "retired": false,
       "pet_image": "CrowsmicRogue2.gif"
     },
@@ -515,7 +1083,7 @@
       "type": "pet_look",
       "description": "",
       "designer": "Metroghost (94079) and sugarbear (78516)",
-      "location": "Explore Area Glittering Galaxy",
+      "location": "Explore Area Glittering Galaxy 1",
       "retired": false,
       "pet_image": "CrowsmicRogue.gif"
     },
@@ -527,7 +1095,7 @@
       "type": "pet_look",
       "description": "",
       "designer": "Zillychu (76274) and sugarbear (78516)",
-      "location": "Explore Area Glittering Galaxy",
+      "location": "Explore Area Glittering Galaxy 5",
       "retired": false,
       "pet_image": "CometChaser2.gif"
     },
@@ -539,7 +1107,7 @@
       "type": "pet_look",
       "description": "",
       "designer": "Zillychu (76274) and sugarbear (78516)",
-      "location": "Explore Area Glittering Galaxy",
+      "location": "Explore Area Glittering Galaxy 5",
       "retired": false,
       "pet_image": "CometChaser.gif"
     },
@@ -77825,7 +78393,7 @@
     "type": "pet_look",
     "description": "A cold yet elegant Goatling with a chilly gaze.",
     "designer": "inchworm (4058)",
-    "location": "Exlore Area Majestic Mountain 4",
+    "location": "Explore Area Majestic Mountain 4",
     "retired": false,
     "pet_image": "Icicle%20Frost.gif"
   },
