@@ -1,5 +1,16 @@
 [
   {
+    "image": "StoneSnakeStatue.gif",
+    "name": "Stone Snake Statue",
+    "date": "2025-01-23T00:00:00.000Z",
+    "price": 4000,
+    "type": "collectible",
+    "designer": "sugarbear (78516)",
+    "location": "Variety VIP (9)",
+    "description": "",
+    "retired": false
+  },
+  {
     "image": "ToyTimeAD.gif",
     "name": "Toy Time AD",
     "date": "2025-01-22T00:00:00.000Z",
