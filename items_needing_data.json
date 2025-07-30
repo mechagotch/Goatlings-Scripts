@@ -705,7 +705,8 @@
   "type": "pet_look",
   "pet_image": "LittleBigTop.gif",
   "description": "",
-  "designer": "KittenKat72 (109000)"
+  "designer": "KittenKat72 (109000)",
+  "price": 300000
 },
 {
   "image": "BananaLeafBundle.gif",
@@ -724,7 +725,8 @@
     {"image": "KueLapis.gif", "name": "Kue Lapis"},
     {"image": "KuehTutu.gif", "name": "Kue Tutu"},
     {"image": "KuehSalat.gif", "name": "Kue Salat"},
-    {"image": "AngKuKueh.gif", "name": "Ang Ku Kueh"}],
+    {"image": "AngKuKueh.gif", "name": "Ang Ku Kueh"}
+  ],
   "item_cost": "2 Carnival Ticket Credits"
 },
 {
@@ -922,7 +924,7 @@
   "date": "2025-07-07T00:00:00.000Z",
   "price": 50000,
   "type": "pet_look",
-  "pet_image": "MelonSoda.gif",
+  "pet_image": "MelonSoda2.gif",
   "description": "Winner of the 2025 Design-A-Goatling contest.",
   "designer": "bimbaboomba (108379)",
   "location": "July 2025 Battle Center, and Appearance Doll shop after July 2025",
@@ -1819,6 +1821,7 @@
 {
   "image": "BananaRAD.gif",
   "name": "Banana RAD",
+  "pet_image": "Banana2.gif",
   "date": "2025-06-08T00:00:00.000Z",
   "price": 100000,
   "type": "pet_look",
@@ -4441,7 +4444,8 @@
   "designer": "skibidiohio (108164)",
   "location": "2025 Battle Center",
   "retired": false,
-  "diamond_dust": false
+  "diamond_dust": false,
+  "pet_look": "Serpens.gif",
 },
 {
   "image": "StoneSnakeStatue.gif",
@@ -4458,6 +4462,7 @@
 {
   "image": "ToyTimeAD.gif",
   "name": "Toy Time AD",
+  "pet_look": "ToyTime.gif",
   "date": "2025-01-22T00:00:00.000Z",
   "price": 600,
   "type": "pet_look",
@@ -4978,11 +4983,13 @@
   "designer": "Reyes (19152)",
   "location": "Glittering Galaxy 02",
   "retired": false,
-  "diamond_dust": false
+  "diamond_dust": false,
+  "pet_look": "StarryFiendling2.gif",
 },
 {
   "image": "StarryFiendlingAD.gif",
   "name": "Starry Fiendling AD",
+  "pet_look": "StarryFiendling.gif",
   "date": "2025-01-17T00:00:00.000Z",
   "price": 50000,
   "type": "pet_look",
@@ -4995,6 +5002,7 @@
 {
   "image": "PrpAD.gif",
   "name": "Prp AD",
+  "pet_look": "Prp.gif",
   "date": "2025-01-11T00:00:00.000Z",
   "location": "Trophy Trade",
   "designer": "Krisgoat (2)",
