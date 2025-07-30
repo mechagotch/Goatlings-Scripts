@@ -1966,7 +1966,16 @@
 {
   "image": "DollfaceAD.gif",
   "name": "Dollface AD",
-  "date": "2025-06-03T00:00:00.000Z"
+  "date": "2025-06-03T00:00:00.000Z",
+  "value": 300000,
+  "type": "pet_look",
+  "pet_image": "Dollface.gif",
+  "description": "",
+  "designer": "Krisgoat (2)",
+  "location": "Diamond Dust Shop",
+  "retired": false,
+  "diamond_dust": true,
+  "item_cost": "200 Diamond Dust"
 },
 {
   "image": "SheepishRAD.gif",
@@ -2259,7 +2268,16 @@
 {
   "image": "SmithyAD.gif",
   "name": "Smithy AD",
-  "date": "2025-05-25T00:00:00.000Z"
+  "date": "2025-05-25T00:00:00.000Z",
+  "value": 300000,
+  "type": "pet_look",
+  "pet_image": "Smithy.gif",
+  "description": "",
+  "designer": "Krisgoat (2)",
+  "location": "Diamond Dust Shop",
+  "retired": false,
+  "diamond_dust": true,
+  "item_cost": "200 Diamond Dust"
 },
 {
   "image": "TomatoPopper.gif",
