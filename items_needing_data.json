@@ -4462,7 +4462,7 @@
 {
   "image": "ToyTimeAD.gif",
   "name": "Toy Time AD",
-  "pet_look": "ToyTime.gif",
+  "pet_image": "ToyTime.gif",
   "date": "2025-01-22T00:00:00.000Z",
   "price": 600,
   "type": "pet_look",
@@ -4984,12 +4984,12 @@
   "location": "Glittering Galaxy 02",
   "retired": false,
   "diamond_dust": false,
-  "pet_look": "StarryFiendling2.gif",
+  "pet_image": "StarryFiendling2.gif",
 },
 {
   "image": "StarryFiendlingAD.gif",
   "name": "Starry Fiendling AD",
-  "pet_look": "StarryFiendling.gif",
+  "pet_image": "StarryFiendling.gif",
   "date": "2025-01-17T00:00:00.000Z",
   "price": 50000,
   "type": "pet_look",
@@ -5002,7 +5002,7 @@
 {
   "image": "PrpAD.gif",
   "name": "Prp AD",
-  "pet_look": "Prp.gif",
+  "pet_image": "Prp.gif",
   "date": "2025-01-11T00:00:00.000Z",
   "location": "Trophy Trade",
   "designer": "Krisgoat (2)",
