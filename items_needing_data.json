@@ -278,12 +278,28 @@
 {
   "image": "TuffStuffBag.gif",
   "name": "Tuff Stuff Bag",
-  "date": "2025-07-26T00:00:00.000Z"
+  "date": "2025-07-26T00:00:00.000Z",
+  "value": 300,
+  "type": "collectible",
+  "description": "",
+  "designer": "haurchefant (102957)",
+  "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+  "retired": false,
+  "diamond_dust": false,
+  "item_cost": "25 Tuff Stuff Stamps"
 },
 {
   "image": "TuffStuffKeychain.gif",
   "name": "Tuff Stuff Keychain",
-  "date": "2025-07-26T00:00:00.000Z"
+  "date": "2025-07-26T00:00:00.000Z",
+  "value": 300,
+  "type": "collectible",
+  "description": "",
+  "designer": "haurchefant (102957)",
+  "location": "Summer Night Carnival Tuff Stuff Fan Booth",
+  "retired": false,
+  "diamond_dust": false,
+  "item_cost": "25 Tuff Stuff Stamps"
 },
 {
   "image": "TuffStuffPopcornBucket.gif",
@@ -298,7 +314,8 @@
   "bonus": {
     "hunger": 30
   },
-  "diamond_dust": false
+  "diamond_dust": false,
+  "item_cost": "50 Tuff Stuff Stamps"
 },
 {
   "image": "BompomBP.gif",
