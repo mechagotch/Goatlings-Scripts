@@ -724,8 +724,7 @@
     {"image": "KueLapis.gif", "name": "Kue Lapis"},
     {"image": "KuehTutu.gif", "name": "Kue Tutu"},
     {"image": "KuehSalat.gif", "name": "Kue Salat"},
-    {"image": "AngKuKueh.gif", "name": "Ang Ku Kueh"},
-  ],
+    {"image": "AngKuKueh.gif", "name": "Ang Ku Kueh"}],
   "item_cost": "2 Carnival Ticket Credits"
 },
 {
@@ -3082,8 +3081,7 @@
     {"image": "StatueHair.gif", "name": "Statue Hair"},
     {"image": "StatueEyes.gif", "name": "Statue Eyes"},
     {"image": "StatueFoliage.gif", "name": "Statue Foliage"},
-    {"image": "GardenAngelAD.gif", "name": "Garden Angel AD"},
-  ]
+    {"image": "GardenAngelAD.gif", "name": "Garden Angel AD"}]
 },
 {
   "image": "MetalWateringCan.gif",
@@ -3178,8 +3176,7 @@
     {"image": "FairHeartHair.gif", "name": "Fair Heart Hair"},
     {"image": "FairHeartEyes.gif", "name": "Fair Heart Eyes"},
     {"image": "FairHeartArmor.gif", "name": "Fair Heart Armor"},
-    {"image": "FairHeartAD.gif", "name": "Fair Heart AD"},
-  ]
+    {"image": "FairHeartAD.gif", "name": "Fair Heart AD"}]
 },
 {
   "image": "FairHeartScroll.gif",
@@ -3307,8 +3304,7 @@
     {"image": "GrammyCookbook.gif", "name": "Grammy Cookbook"},
     {"image": "FloralEmbroidery.gif", "name": "Floral Embroidery"},
     {"image": "CuteButtons.gif", "name": "Cute Buttons"},
-    {"image": "GreatGrammyAD.gif", "name": "Great Grammy AD"},
-  ]
+    {"image": "GreatGrammyAD.gif", "name": "Great Grammy AD"}]
 },
 {
   "image": "GreatGrammyHat.gif",
@@ -4061,8 +4057,7 @@
     {"image": "LovelyMusePlush.gif", "name": "Lovely Muse Plush"},
     {"image": "LovelyPearls.gif", "name": "Lovely Pearls"},
     {"image": "LovelyMuseFlowers.gif", "name": "Lovely Flowers"},
-    {"image": "LovelyBaklava.gif", "name": "Lovely Baklava"},
-  ]
+    {"image": "LovelyBaklava.gif", "name": "Lovely Baklava"}]
 },
 {
   "image": "LovelyMusePlush.gif",
