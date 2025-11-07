@@ -1,4 +1,4 @@
-const items = [
+[
   {
     "image": "CometMothDiary.gif",
     "name": "Comet Moth Diary",
@@ -118239,6 +118239,3 @@ const items = [
     }
   }
 ]
-
-
-  module.exports = items
