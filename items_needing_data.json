@@ -1,4 +1,147 @@
 [
+    {
+    "image": "MarotteMorbusPlush.gif",
+    "name": "Marotte Morbus Plush",
+    "date": "2025-11-26T00:00:00.000Z",
+    "price": 1000,
+    "type": "toy",
+    "description": "Special 2025 Monster Masquerade plush.",
+    "designer": "Krisgoat (2)",
+    "location": "Zurora's Crafting",
+    "retired": true,
+    "bonus": {
+      "mood": 50
+    },
+    "diamond_dust": false,
+    "contains": false,
+    "craftable": [
+      {
+        "name": "Doctor Pester Plush",
+        "image": "DoctorPesterPlush.gif"
+      },
+      {
+        "name": "Marionette Plush",
+        "image": "MarionettePlush.gif"
+      },
+      {
+        "name": "Antique Birdcage",
+        "image": "AntiqueBirdcage.gif"
+      }
+    ]
+  },
+  {
+    "image": "MooselingGiftBox.gif",
+    "name": "Mooseling Gift Box",
+    "date": "2025-11-25T00:00:00.000Z",
+    "price": 3000000,
+    "type": "container",
+    "description": "",
+    "designer": "mutant (89444)",
+    "location": "Princely Premiums VIP (32)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": [
+      {
+        "name": "Mooseling Sweater Paws",
+        "image": "MooselingSweaterPaws.gif"
+      },
+      {
+        "name": "Mooseling Sweater",
+        "image": "MooselingSweater.gif"
+      },
+      {
+        "name": "Mooseling Face",
+        "image": "MooselingFace.gif"
+      },
+      {
+        "name": "Mooseling Plush",
+        "image": "MooselingPlush.gif"
+      },
+      {
+        "name": "Held Moose Plush",
+        "image": "HeldMoosePlush.gif"
+      }
+    ]
+  },
+    {
+    "image": "MooselingPlush.gif",
+    "name": "Mooseling Plush",
+    "date": "2025-11-25T00:00:00.000Z",
+    "price": 3000000,
+    "type": "toy",
+    "description": "",
+    "designer": "mutant (89444)",
+    "location": "Inside a 'Mooseling Gift Box' from Princely Premiums VIP (32)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "image": "MooselingSweaterPaws.gif",
+    "name": "Mooseling Sweater Paws",
+    "date": "2025-11-25T00:00:00.000Z",
+    "price": 3000000,
+    "type": "wearable",
+    "description": "",
+    "designer": "mutant (89444)",
+    "location": "Inside a 'Mooseling Gift Box' from Princely Premiums VIP (32)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "image": "MooselingSweater.gif",
+    "name": "Mooseling Sweater",
+    "date": "2025-11-25T00:00:00.000Z",
+    "price": 3000000,
+    "type": "wearable",
+    "description": "",
+    "designer": "mutant (89444)",
+    "location": "Inside a 'Mooseling Gift Box' from Princely Premiums VIP (32)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "image": "MooselingFace.gif",
+    "name": "Mooseling Face",
+    "date": "2025-11-25T00:00:00.000Z",
+    "price": 3000000,
+    "type": "wearable",
+    "description": "",
+    "designer": "mutant (89444)",
+    "location": "Inside a 'Mooseling Gift Box' from Princely Premiums VIP (32)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "image": "HeldMoosePlush.gif",
+    "name": "Held Moose Plush",
+    "date": "2025-11-25T00:00:00.000Z",
+    "price": 3000000,
+    "type": "wearable",
+    "description": "",
+    "designer": "mutant (89444)",
+    "location": "Inside a 'Mooseling Gift Box' from Princely Premiums VIP (32)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "image": "MooselingAD.gif",
+    "name": "Mooseling AD",
+    "date": "2025-11-25T00:00:00.000Z",
+    "price": 3000000,
+    "type": "pet_look",
+    "description": "",
+    "designer": "mutant (89444) and pies (77551)",
+    "location": "Princely Premiums VIP (32)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false,
+    "pet_image" : "Mooseling.gif"
+  },
   {
     "image": "CometMothDiary.gif",
     "name": "Comet Moth Diary",
@@ -2286,7 +2429,7 @@
       {"name": "Strange Medicine", "image": "StrangeMedicine.gif"},
       {"name": "Doctor Pester Mask", "image": "DoctorPesterMask.gif"},
       {"name": "Doctor Pester Long Hair", "image": "DoctorPesterLongHair.gif"},
-      {"name": "Doctor Pester Short Hair", "image": "DoctorPesterShortHair.gif"},
+      {"name": "Doctor Pester Short Hair", "image": "DoctorPesterHair.gif"},
       {"name": "Doctor Pester Hat", "image": "DoctorPesterHat.gif"},
       {"name": "Doctor Pester Ears", "image": "DoctorPesterEars.gif"},
       {"name": "Doctor Pester Crowpanion", "image": "DoctorPesterCrowpanion.gif"},
@@ -4417,7 +4560,7 @@
     "name": "Love Kandi",
     "date": "2025-08-10T00:00:00.000Z",
     "price": 1000,
-    "type": "wearable",
+    "type": "collectible",
     "description": "",
     "designer": "Kanata (101588)",
     "location": "Ticket Vendor Prize Booth",
@@ -4431,7 +4574,7 @@
     "name": "Summer Rave Kandi",
     "date": "2025-08-10T00:00:00.000Z",
     "price": 1000,
-    "type": "wearable",
+    "type": "collectible",
     "description": "",
     "designer": "Kanata (101588)",
     "location": "Ticket Vendor Prize Booth",
@@ -30465,50 +30608,168 @@
       },
       {
         "name": "Graveyard Groom Horns",
-        "image": "GloomyGraveyardHorns.gif"
+        "image": "GloomyGraveyardHorns2.gif"
       },
       {
         "name": "Graveyard Groom Cloak",
-        "image": "GloomyGraveyardTop.gif"
+        "image": "GloomyGraveyardTop3.gif"
       },
       {
         "name": "Graveyard Groom Face",
-        "image": "GloomyGraveyardFace.gif"
+        "image": "GloomyGraveyardFace2.gif"
       },
       {
         "name": "Graveyard Groom Mascara",
-        "image": "GloomyGraveyardVeil.gif"
+        "image": "GloomyGraveyardVeil2.gif"
       },
       {
         "name": "Graveyard Groom Hair",
-        "image": "GloomyGraveyardHair.gif"
+        "image": "GloomyGraveyardHair2.gif"
       },
       {
         "name": "Graveyard Groom Short Hair",
-        "image": "GloomyGraveyardShortHair.gif"
+        "image": "GloomyGraveyardShortHair2.gif"
       },
       {
         "name": "Graveyard Groom Earrings",
-        "image": "GloomyGraveyardEarrings.gif"
+        "image": "GloomyGraveyardEarrings2.gif"
       },
       {
         "name": "Graveyard Groom Hands",
-        "image": "GloomyGraveyardHat.gif"
+        "image": "GloomyGraveyardHat2.gif"
       },
       {
         "name": "Graveyard Groom Headstones",
-        "image": "GloomyGraveyardShovel.gif"
+        "image": "GloomyGraveyardShovel2.gif"
       },
       {
         "name": "Graveyard Groom BG",
-        "image": "GloomyGraveyardBG.gif"
+        "image": "GloomyGraveyardBG2.gif"
       }
     ],
     "old_image": true,
     "old_name": "Gloomy Graveyard Box"
   },
-  {
+    {
     "image": "GloomyGraveyardVeil.gif",
+    "name": "Gloomy Graveyard Veil",
+    "date": "2022-10-02T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "r00p (20210)",
+    "location": "Replaced by the Graveyard Groom set",
+    "retired": true,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "image": "GloomyGraveyardTop.gif",
+    "name": "Gloomy Graveyard Top",
+    "date": "2022-10-02T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "r00p (20210)",
+    "location": "Replaced by the Graveyard Groom set",
+    "retired": true
+  },
+  {
+    "image": "GloomyGraveyardShovel.gif",
+    "name": "Gloomy Graveyard Shovel",
+    "date": "2022-10-02T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "r00p (20210)",
+    "location": "Replaced by the Graveyard Groom set",
+    "retired": true
+  },
+  {
+    "image": "GloomyGraveyardHorns.gif",
+    "name": "Gloomy Graveyard Horns",
+    "date": "2022-10-02T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "r00p (20210)",
+    "location": "Replaced by the Graveyard Groom set",
+    "retired": true
+  },
+  {
+    "image": "GloomyGraveyardHat.gif",
+    "name": "Gloomy Graveyard Hat",
+    "date": "2022-10-02T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "r00p (20210)",
+    "location": "Replaced by the Graveyard Groom set",
+    "retired": true,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "image": "GloomyGraveyardShortHair.gif",
+    "name": "Gloomy Graveyard Short Hair",
+    "date": "2022-10-02T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "r00p (20210)",
+    "location": "Replaced by the Graveyard Groom set",
+    "retired": true,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "image": "GloomyGraveyardHair.gif",
+    "name": "Gloomy Graveyard Hair",
+    "date": "2022-10-02T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "r00p (20210)",
+    "location": "Replaced by the Graveyard Groom set",
+    "retired": true,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "image": "GloomyGraveyardFace.gif",
+    "name": "Gloomy Graveyard Face",
+    "date": "2022-10-02T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "r00p (20210)",
+    "location": "Replaced by the Graveyard Groom set",
+    "retired": true
+  },
+  {
+    "image": "GloomyGraveyardEarrings.gif",
+    "name": "Gloomy Graveyard Earrings",
+    "date": "2022-10-02T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "r00p (20210)",
+    "location": "Replaced by the Graveyard Groom set",
+    "retired": true
+  },
+  {
+    "image": "GloomyGraveyardBG.gif",
+    "name": "Gloomy Graveyard BG",
+    "date": "2022-10-02T00:00:10.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "r00p (20210)",
+    "location": "Replaced by the Graveyard Groom set",
+    "retired": true
+  },
+  {
+    "image": "GloomyGraveyardVeil2.gif",
     "name": "Graveyard Groom Mascara",
     "date": "2022-10-02T00:00:10.000Z",
     "price": 1000,
@@ -30523,7 +30784,7 @@
     "old_name": "Gloomy Graveyard Veil"
   },
   {
-    "image": "GloomyGraveyardTop.gif",
+    "image": "GloomyGraveyardTop3.gif",
     "name": "Graveyard Groom Cloak",
     "date": "2022-10-02T00:00:10.000Z",
     "price": 1000,
@@ -30536,7 +30797,7 @@
     "old_name": "Gloomy Graveyard Top"
   },
   {
-    "image": "GloomyGraveyardShovel.gif",
+    "image": "GloomyGraveyardShovel2.gif",
     "name": "Graveyard Groom Headstones",
     "date": "2022-10-02T00:00:10.000Z",
     "price": 1000,
@@ -30549,7 +30810,7 @@
     "old_name": "Gloomy Graveyard Shovel"
   },
   {
-    "image": "GloomyGraveyardHorns.gif",
+    "image": "GloomyGraveyardHorns2.gif",
     "name": "Graveyard Groom Horns",
     "date": "2022-10-02T00:00:10.000Z",
     "price": 1000,
@@ -30562,7 +30823,7 @@
     "old_name": "Gloomy Graveyard Horns"
   },
   {
-    "image": "GloomyGraveyardHat.gif",
+    "image": "GloomyGraveyardHat3.gif",
     "name": "Graveyard Groom Hands",
     "date": "2022-10-02T00:00:10.000Z",
     "price": 1000,
@@ -30577,7 +30838,7 @@
     "old_name": "Gloomy Graveyard Hat"
   },
   {
-    "image": "GloomyGraveyardShortHair.gif",
+    "image": "GloomyGraveyardShortHair2.gif",
     "name": "Graveyard Groom Short Hair",
     "date": "2022-10-02T00:00:10.000Z",
     "price": 1000,
@@ -30592,7 +30853,7 @@
     "old_name": "Gloomy Graveyard Short Hair"
   },
   {
-    "image": "GloomyGraveyardHair.gif",
+    "image": "GloomyGraveyardHair2.gif",
     "name": "Graveyard Groom Hair",
     "date": "2022-10-02T00:00:10.000Z",
     "price": 1000,
@@ -30607,7 +30868,7 @@
     "old_name": "Gloomy Graveyard Hair"
   },
   {
-    "image": "GloomyGraveyardFace.gif",
+    "image": "GloomyGraveyardFace2.gif",
     "name": "Graveyard Groom Face",
     "date": "2022-10-02T00:00:10.000Z",
     "price": 1000,
@@ -30620,7 +30881,7 @@
     "old_name": "Gloomy Graveyard Face"
   },
   {
-    "image": "GloomyGraveyardEarrings.gif",
+    "image": "GloomyGraveyardEarrings2.gif",
     "name": "Graveyard Groom Earrings",
     "date": "2022-10-02T00:00:10.000Z",
     "price": 1000,
@@ -30633,7 +30894,7 @@
     "old_name": "Gloomy Graveyard Earrings"
   },
   {
-    "image": "GloomyGraveyardBG.gif",
+    "image": "GloomyGraveyardBG2.gif",
     "name": "Graveyard Groom BG",
     "date": "2022-10-02T00:00:10.000Z",
     "price": 1000,
@@ -43533,7 +43794,7 @@
     "contains": [
       {
         "name": "Strawberry Milk Box",
-        "image": "StrawBerrymilkBox.gif"
+        "image": "StrawberryMilkBox.gif"
       },
       {
         "name": "Choco Milk Box",
@@ -43546,7 +43807,7 @@
     ]
   },
   {
-    "image": "StrawBerrymilkBox.gif",
+    "image": "StrawberryMilkBox.gif",
     "name": "Strawberry Milk Box",
     "date": "2021-06-30T00:00:10.000Z",
     "price": 1000,
@@ -67022,6 +67283,7 @@
     "description": "",
     "retired": false,
     "diamond_dust": false,
+    "type": "wearable",
     "contains": false,
     "craftable": false
   },
@@ -67072,6 +67334,7 @@
     "location": "Winter Seasonal Antique Shop (30)",
     "description": "",
     "retired": false,
+    "type": "wearable",
     "diamond_dust": false,
     "contains": false,
     "craftable": false
@@ -81141,7 +81404,7 @@
     "pet_image": "Caregiver.gif"
   },
   {
-    "image": "Coastal%20Cutie%20Top.gif",
+    "image": "CoastalCutieTop.gif",
     "name": "Coastal Cutie Top",
     "date": "2017-06-05T00:00:10.000Z",
     "price": 1000,
@@ -81154,7 +81417,7 @@
     "contains": false
   },
   {
-    "image": "Coastal%20Cutie%20Shades.gif",
+    "image": "CoastalCutieShades.gif",
     "name": "Coastal Cutie Shades",
     "date": "2017-06-05T00:00:10.000Z",
     "price": 1000,
@@ -81235,7 +81498,7 @@
     "pet_image": "CoastalCutie.gif"
   },
   {
-    "image": "Emperor%20Pauldron.gif",
+    "image": "EmperorPauldron.gif",
     "name": "Emperor Pauldron",
     "date": "2017-06-05T00:00:10.000Z",
     "price": 1000,
@@ -81246,7 +81509,7 @@
     "retired": false
   },
   {
-    "image": "Emperor%20Horns.gif",
+    "image": "EmperorHorns.gif",
     "name": "Emperor Horns",
     "date": "2017-06-05T00:00:10.000Z",
     "price": 2000,
@@ -81257,7 +81520,7 @@
     "retired": false
   },
   {
-    "image": "Emperor%20Cloak.gif",
+    "image": "EmperorCloak.gif",
     "name": "Emperor Cloak",
     "date": "2017-06-05T00:00:10.000Z",
     "price": 3000,
@@ -86873,7 +87136,7 @@
     "usershop_price": 58000000
   },
   {
-    "image": "Snowdrop%20%20Hairpin.gif",
+    "image": "SnowdropHairpin.gif",
     "name": "Snowdrop Hairpin",
     "date": "2016-06-03T00:00:10.000Z",
     "price": 5000,
@@ -100052,7 +100315,7 @@
     "retired": false
   },
   {
-    "image": "Au%20Naturel%20Base%2013.gif",
+    "image": "AuNaturelBase13.gif",
     "name": "Au Naturel Base 13",
     "date": "2014-10-09T00:00:10.000Z",
     "price": 200,
@@ -100063,7 +100326,7 @@
     "retired": false
   },
   {
-    "image": "Au%20Naturel%20Base%2012.gif",
+    "image": "AuNaturelBase12.gif",
     "name": "Au Naturel Base 12",
     "date": "2014-10-09T00:00:10.000Z",
     "price": 200,
@@ -100074,7 +100337,7 @@
     "retired": false
   },
   {
-    "image": "Au%20Naturel%20Base%2011.gif",
+    "image": "AuNaturelBase11.gif",
     "name": "Au Naturel Base 11",
     "date": "2014-10-09T00:00:10.000Z",
     "price": 200,
@@ -100085,7 +100348,7 @@
     "retired": false
   },
   {
-    "image": "Au%20Naturel%20Base%2010.gif",
+    "image": "AuNaturelBase10.gif",
     "name": "Au Naturel Base 10",
     "date": "2014-10-09T00:00:10.000Z",
     "price": 200,
@@ -100096,7 +100359,7 @@
     "retired": false
   },
   {
-    "image": "Au%20Naturel%20Base%209.gif",
+    "image": "AuNaturelBase09.gif",
     "name": "Au Naturel Base 09",
     "date": "2014-10-09T00:00:10.000Z",
     "price": 200,
@@ -100107,7 +100370,7 @@
     "retired": false
   },
   {
-    "image": "Au%20Naturel%20Base%208.gif",
+    "image": "AuNaturelBase08.gif",
     "name": "Au Naturel Base 08",
     "date": "2014-10-09T00:00:10.000Z",
     "price": 200,
@@ -100118,7 +100381,7 @@
     "retired": false
   },
   {
-    "image": "Au%20Naturel%20Base%207.gif",
+    "image": "AuNaturelBase07.gif",
     "name": "Au Naturel Base 07",
     "date": "2014-10-09T00:00:10.000Z",
     "price": 200,
@@ -100129,7 +100392,7 @@
     "retired": false
   },
   {
-    "image": "Au%20Naturel%20Base%206.gif",
+    "image": "AuNaturelBase06.gif",
     "name": "Au Naturel Base 06",
     "date": "2014-10-09T00:00:10.000Z",
     "price": 200,
@@ -100140,7 +100403,7 @@
     "retired": false
   },
   {
-    "image": "Au%20Naturel%20Base%203.gif",
+    "image": "AuNaturelBase03.gif",
     "name": "Au Naturel Base 03",
     "date": "2014-10-09T00:00:10.000Z",
     "price": 200,
@@ -100151,7 +100414,7 @@
     "retired": false
   },
   {
-    "image": "Au%20Naturel%20Base%201.gif",
+    "image": "AuNaturelBase01.gif",
     "name": "Au Naturel Base 01",
     "date": "2014-10-09T00:00:10.000Z",
     "price": 200,
@@ -110549,7 +110812,7 @@
     "retired": false
   },
   {
-    "image": "item_548.gif",
+    "image": "AuNaturelBase02.gif",
     "name": "Au Naturel Base 02",
     "date": "2012-01-31T00:00:10.000Z",
     "price": 200,
@@ -110560,7 +110823,7 @@
     "retired": false
   },
   {
-    "image": "item_547.gif",
+    "image": "AuNaturelBase04.gif",
     "name": "Au Naturel Base 04",
     "date": "2012-01-31T00:00:10.000Z",
     "price": 200,
@@ -110571,7 +110834,7 @@
     "retired": false
   },
   {
-    "image": "item_546.gif",
+    "image": "AuNaturelBase05.gif",
     "name": "Au Naturel Base 05",
     "date": "2012-01-31T00:00:10.000Z",
     "price": 200,
