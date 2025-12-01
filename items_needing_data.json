@@ -1,4 +1,57 @@
 [
+  {
+    "image": "MarotteMorbusGlasses.gif",
+    "name": "Marotte Morbus Glasses",
+    "date": "2025-12-01T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "Ithaqua (52144)",
+    "location": "HA Buddy Accessories (24)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+      {
+    "image": "MarotteMorbusFace.gif",
+    "name": "Marotte Morbus Face",
+    "date": "2025-12-01T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "Ithaqua (52144)",
+    "location": "HA Buddy Face Space (20)",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+      {
+    "image": "MarotteMorbusVeil.gif",
+    "name": "Marotte Morbus Veil",
+    "date": "2025-12-01T00:00:00.000Z",
+    "price": 1000,
+    "type": "wearable",
+    "description": "",
+    "designer": "Ithaqua (52144)",
+    "location": "Princess Code December 2025",
+    "retired": false,
+    "diamond_dust": false,
+    "contains": false
+  },
+  {
+    "image": "MarotteMorbusAD.gif",
+    "name": "Marotte Morbus AD",
+    "date": "2025-12-01T00:00:00.000Z",
+    "price": 100000,
+    "type": "pet_look",
+    "description": "",
+    "designer": "Numisma (106234)",
+    "location": "2025 Monster Masquerade Grand Prize Fusion",
+    "retired": true,
+    "diamond_dust": false,
+    "contains": false,
+    "pet_image": "MarotteMorbus.gif"
+  },
     {
     "image": "MarotteMorbusPlush.gif",
     "name": "Marotte Morbus Plush",
